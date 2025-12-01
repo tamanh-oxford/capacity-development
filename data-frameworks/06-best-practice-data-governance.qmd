@@ -1,0 +1,6 @@
+---
+title: "Session 6"
+subtitle: "Best practices in setting up and implementing data governance structures"
+title-slide-attributes: 
+  data-background-color: "#002147"
+---
