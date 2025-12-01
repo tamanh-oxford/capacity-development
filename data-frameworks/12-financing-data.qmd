@@ -1,0 +1,6 @@
+---
+title: "Session 12"
+subtitle: "Financing data technologies and human resource recruitment and capacity building"
+title-slide-attributes: 
+  data-background-color: "#002147"
+---
