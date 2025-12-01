@@ -1,0 +1,6 @@
+---
+title: "Session 13"
+subtitle: "Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam"
+title-slide-attributes: 
+  data-background-color: "#002147"
+---
