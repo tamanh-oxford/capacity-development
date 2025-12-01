@@ -8,11 +8,12 @@ format:
     chalkboard: 
       buttons: false
     preview-links: auto
-    logo: images/d4dm.png
+    logo: images/top_logo.jpg
     css: styles.css
     footer: "Tam Anh Oxford Partnership"
+  pptx: default
 
-author:
-  name: Ernest Guevarra
-  email: ernest@guevarra.io
-  affiliation: University of Oxford
+# author:
+#   name: Ernest Guevarra
+#   email: ernest@guevarra.io
+#   affiliation: University of Oxford

@@ -1,0 +1,6 @@
+---
+title: "Session 10"
+subtitle: "The landscape of human resources for data in Vietnam"
+title-slide-attributes: 
+  data-background-color: "#002147"
+---

@@ -1,0 +1,6 @@
+---
+title: "Session 3"
+subtitle: "Case Study: Singapore’s Open Government Products and Singapore Government Tech Stack"
+title-slide-attributes: 
+  data-background-color: "#002147"
+---

@@ -1,0 +1,6 @@
+---
+title: "Session 9"
+subtitle: "Global landscape of human resources for data"
+title-slide-attributes: 
+  data-background-color: "#002147"
+---
