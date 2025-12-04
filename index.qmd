@@ -1,0 +1,32 @@
+---
+title: "Tam Anh Oxford Partnership Capacity Development"
+format:
+  html:
+    grid:
+      sidebar-width: 250px
+      body-width: 900px
+      margin-width: 250px
+      gutter-width: 1.5rem
+    toc: false
+---
+
+
+
+## Data Concepts and Applications
+
+**Session** | **Links**
+:--- | :---
+**Session 1:** Global landscape of data governance institutions and framework | [HTML](data-frameworks/01-global-landscape.html){.external target="_blank"} PPTX PDF
+**Session 2:** Case Study: The UK Data Landscape | [HTML](data-frameworks/02-uk-landscape.html){.external target="_blank"} PPTX PDF
+**Session 3:** Case Study: Singapore’s Smart Nation, Open Government Products, and Singapore Government Tech Stack | [HTML](data-frameworks/03-singapore-open-government.html){.external target="_blank"} PPTX PDF
+**Session 4:** Case Study: The United Nations and its technological and data challenges | [HTML](data-frameworks/04-un-tech.html){.external target="_blank"} PPTX PDF
+**Session 5:** Guiding principles on policymaking on national level data governance frameworks | [HTML](data-frameworks/05-principles-poliycmaking.html){.external target="_blank"} PPTX PDF
+**Session 6:** Best practices in setting up and implementing data governance structures | [HTML](data-frameworks/06-best-practice-data-governance.html){.external target="_blank"} PPTX PDF
+**Session 7:** Global landscape of available technologies for data | [HTML](data-frameworks/07-global-landscape-technologies.html){.external target="_blank"} PPTX PDF
+**Session 8:** The landscape of technologies for data in Vietnam | [HTML](data-frameworks/08-vietnam-landscape-technologies.html){.external target="_blank"} PPTX PDF
+**Session 9:** Global landscape of human resources for data | [HTML](data-frameworks/09-global-landscape-human-resources.html){.external target="_blank"} PPTX PDF
+**Session 10:** The landscape of human resources for data in Vietnam | [HTML](data-frameworks/10-vietnam-landscape-human-resources.html){.external target="_blank"} PPTX PDF
+**Session 11:** Guiding principles and best practices for technology selection and human resources recruitment and capacity building | [HTML](data-frameworks/11-best-practice-tech-hr.html){.external target="_blank"} PPTX PDF
+**Session 12:** Financing data technologies and human resource recruitment and capacity building | [HTML](data-frameworks/12-financing-data.html){.external target="_blank"} PPTX POF
+**Session 13:** Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam | [HTML](data-frameworks/13-manager-personas.html){.external target="_blank"} PPTX PDF
+
