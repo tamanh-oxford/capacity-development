@@ -10,6 +10,10 @@ title-slide-attributes:
 
 ![](../images/s960_NDS_GovUK.jpg){.r-stretch fig-align="center"}
 
+## National Data Strategy Framework {.center}
+
+![](../images/nds_strategy_framework.jpg){fig-align="center"}
+
 ## Core pillars of the UK National Data Strategy {.center background-color="#002147"}
 
 ## Data foundations
@@ -44,26 +48,111 @@ title-slide-attributes:
 
 * We must also ensure that these safeguards continue to enable innovation and research.
 
-
 ## Five priority areas of action {.center background-color="#002147"}
 
-## Unlocking the value of data across the economy
+## Unlocking the value of data across the economy {.smaller}
 
-* Data is a highly valuable asset for businesses and organisations, but its full potential is not being realised because important information is not reaching the people and places that need it.
+* Full potential of data is not being realised because important information is not reaching the people and places that need it.
 
-* To make the UK a global leader in data, the initial focus is on creating the right conditions for data to be usable, accessible, and widely available throughout the economy.
+* The initial focus is on creating the right conditions for data to be usable, accessible, and widely available throughout the economy.
 
-* At the same time, the UK will ensure strong protection for individuals’ data rights and for the intellectual property of private enterprises.
+* Ensure strong protection for individuals’ data rights and for the intellectual property of private enterprises.
 
-* The UK will use a careful, evidence-based approach to design a clear policy framework that identifies the government interventions needed to achieve these goals.
+* Careful, evidence-based approach to design a clear policy framework that identifies the government interventions needed to achieve these goals.
 
-## Securing a pro-growth and trusted data regime
+## Securing a pro-growth and trusted data regime {.smaller}
 
-## Transforming government’s use of data to drive efficiency and improve public services
+* Data revolution to benefit businesses of all sizes.
 
-## Ensuring the security and resilience of the infrastructure on which data relies
+* Goal of creating a data regime that is easy for companies to work with and supports responsible, secure data use.
 
-## Championing the international flow of data
+* Reducing unnecessary regulatory uncertainty or risk to help innovators drive economic growth.
+
+* The public feels confident and empowered in how their data is used, including personal data.
+
+* Encourage competition and innovation while maintaining high data protection standards.
+
+* Build trust without placing unnecessary barriers on data use.
+
+## Transforming government’s use of data to drive efficiency and improve public services {.smaller}
+
+* Significant untapped potential in how government and public services use and share data to support people.
+
+* Improve how information is managed, used, and shared across government.
+
+* Requires a coordinated, whole-government approach that aligns around best practices and common standards for deriving value and insight from data.
+
+* Building a secure, connected, and interoperable data infrastructure with appropriate safeguards.
+
+* Developing strong data skills and leadership within the public sector is essential to unlock data’s full potential.
+
+## Ensuring the security and resilience of the infrastructure on which data relies {.smaller}
+
+* Systems that support data must be safe and secure.
+
+* Data use infrastructure is a critical national asset and should be protected from security threats and other risks, including service disruptions.
+
+* Although managing these risks is partly a commercial responsibility, the government must ensure that data and its supporting infrastructure are resilient to both existing and emerging threats.
+
+* Strengthening this resilience is essential for protecting and sustaining the growing economy.
+
+## Championing the international flow of data {.smaller}
+
+* Cross-border data flows drive global business operations, supply chains, and trade, supporting economic growth worldwide.
+
+* Data movement also provides social benefits, such as enabling salary payments and helping people stay connected across long distances.
+
+* Sharing health data can advance vital scientific research and support coordinated international responses to global health emergencies.
+
+* Promote strong domestic data practices and work with international partners to avoid unnecessary barriers created by national borders or fragmented regulations.
+
+## The data opportunity {.center background-color="#002147"}
+
+## Boosting productivity and trade - digitally-delivered services {.center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+Exports
+
+![](../images/uk_remote_services_export.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+Imports
+
+![](../images/uk_remote_services_import.png){fig-align="center"}
+
+:::
+
+::::
+
+## Boosting productivity and trade - Transport for London open data {.center}
+
+![](../images/uk_tfl_open_data.png){.r-stretch fig-align="center"}
+
+## Boosting productivity and trade - UK government inputs {.smaller}
+
+* It has committed to raising research and development investment, majority of which is data-intensive, to 2.4% of GDP by 2027.
+
+* New institutions have been created, including the [Centre for Data Ethics and Innovation (CDEI)](https://www.gov.uk/government/organisations/centre-for-data-ethics-and-innovation) and the [Alan Turing Institute](https://www.turing.ac.uk/).
+
+* The government has introduced new data science and AI conversion courses.
+
+* It has undertaken pioneering work on *"data trusts,"* a new framework for data sharing.
+
+
+## Supporting new businesses and jobs
+
+## Increasing the speed, efficiency and scope of scientific research
+
+## Driving better delivery of policy and public services
+
+## Creating a fairer society for all
+
 
 
 
