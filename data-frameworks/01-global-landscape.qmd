@@ -298,3 +298,33 @@ Open terms of use/license (%) | 11 | 19 | 22 | 44
 
 * Use of data to improve food traceability
 
+## Education
+
+* video conferencing/video communication tools
+
+* digital supplemental learning platforms
+
+* intelligent adaptive education
+
+## Transport and logistics sector
+
+* Digital freight matching
+
+* Digital courier logistics
+
+* IoT-enabled cold chain
+
+## Risks to market structure from platform firms {.center}
+
+![](../images/data_platform_risks.png){fig-align="center"}
+
+## Risks and adverse outcomes of data-driven businesses
+
+* Increase propensity of dominant firms emerging
+
+* Potential for exploitation of individuals
+
+* Potential to increase inequality within and among countries
+
+
+

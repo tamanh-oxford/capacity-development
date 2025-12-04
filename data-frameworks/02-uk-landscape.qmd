@@ -5,3 +5,66 @@ title-slide-attributes:
   data-background-color: "#002147"
 # output-file: uk-landscape
 ---
+
+## {.center}
+
+![](../images/s960_NDS_GovUK.jpg){.r-stretch fig-align="center"}
+
+## Core pillars of the UK National Data Strategy {.center background-color="#002147"}
+
+## Data foundations
+
+* Data reaches its full potential only when it is high-quality, fit for purpose, and recorded in standardised formats.
+
+* It must be stored on modern, future-proof systems that ensure it is easy to find, access, combine, and reuse.
+
+* By raising data quality, we can use it more effectively and achieve stronger insights and improved outcomes.
+
+## Data skills
+
+* Making the most of data requires a strong pool of people with data skills.
+
+* This involves providing the right training and knowledge through the education system.
+
+* It also means ensuring individuals can keep developing and updating their data skills throughout their lives.
+
+## Data availability
+
+* Data has the greatest impact when it is easy to access, move, and reuse.
+
+* Achieving this involves encouraging better coordination and sharing of high-quality data among organisations in the public, private, and third sectors.
+
+* It also requires ensuring strong and appropriate protections for the secure international flow of data.
+
+## Responsible data
+
+* As we expand the use of data, it must be managed in a responsible manner.
+
+* Data use should always be lawful, secure, fair, ethical, sustainable, and accountable.
+
+* We must also ensure that these safeguards continue to enable innovation and research.
+
+
+## Five priority areas of action {.center background-color="#002147"}
+
+## Unlocking the value of data across the economy
+
+* Data is a highly valuable asset for businesses and organisations, but its full potential is not being realised because important information is not reaching the people and places that need it.
+
+* To make the UK a global leader in data, the initial focus is on creating the right conditions for data to be usable, accessible, and widely available throughout the economy.
+
+* At the same time, the UK will ensure strong protection for individuals’ data rights and for the intellectual property of private enterprises.
+
+* The UK will use a careful, evidence-based approach to design a clear policy framework that identifies the government interventions needed to achieve these goals.
+
+## Securing a pro-growth and trusted data regime
+
+## Transforming government’s use of data to drive efficiency and improve public services
+
+## Ensuring the security and resilience of the infrastructure on which data relies
+
+## Championing the international flow of data
+
+
+
+
