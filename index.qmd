@@ -26,7 +26,7 @@ format:
 **Session 8:** The landscape of technologies for data in Vietnam | [HTML](data-frameworks/08-vietnam-landscape-technologies.html){.external target="_blank"} PPTX PDF
 **Session 9:** Global landscape of human resources for data | [HTML](data-frameworks/09-global-landscape-human-resources.html){.external target="_blank"} PPTX PDF
 **Session 10:** The landscape of human resources for data in Vietnam | [HTML](data-frameworks/10-vietnam-landscape-human-resources.html){.external target="_blank"} PPTX PDF
-**Session 11:** Guiding principles and best practices for technology selection and human resources recruitment and capacity building | [HTML](data-frameworks/11-best-practice-tech-hr.html){.external target="_blank"} PPTX PDF
-**Session 12:** Financing data technologies and human resource recruitment and capacity building | [HTML](data-frameworks/12-financing-data.html){.external target="_blank"} PPTX POF
+**Session 11:** Guiding principles and best practices for data capacity building | [HTML](data-frameworks/11-best-practice-capacity-building.html){.external target="_blank"} PPTX PDF
+**Session 12:** Financing data governance | [HTML](data-frameworks/12-financing-data.html){.external target="_blank"} PPTX POF
 **Session 13:** Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam | [HTML](data-frameworks/13-manager-personas.html){.external target="_blank"} PPTX PDF
 

@@ -1,7 +1,160 @@
 ---
 title: "Session 12"
-subtitle: "Financing data technologies and human resource recruitment and capacity building"
+subtitle: "Financing data governance"
 title-slide-attributes: 
   data-background-color: "#002147"
 # output-file: financing-data
 ---
+
+## Costs of data governance {.center background-color="#002147"}
+
+## Technology infrastructure costs
+
+* Data governance platforms: $50,000-$500,000+ annually
+
+* Metadata management tools: $40,000-$300,000 annually
+
+* Data quality and profiling tools: $30,000-$250,000 annually
+
+* Data catalog solutions: $50,000-$400,000 annually
+
+## Human resource expenses
+
+* Chief Data Officer salary: $175,000-$350,000+
+
+* Data governance managers: $120,000-$180,000
+
+* Data stewards: $85,000-$130,000 per resource
+
+* Compliance specialists: $90,000-$150,000
+
+## Implementation and consulting fees
+
+* Initial implementation consulting: $100,000-$500,000+
+
+* Strategy development: $50,000-$200,000
+
+* Program design: $75,000-$250,000
+
+* Training and change management: $30,000-$150,000
+
+## Compliance-driven governance requirements
+
+* Sector/industry-specific: healthcare regulations compliance; financial services compliance
+
+* General compliance requirements
+
+    - for example, GDPR compliance costs average $1.4 million for mid-sized enterprises
+    
+    - Ongoing maintenance and updates add 30-40% annually to initial costs
+
+<!-- ## Audit requirements -->
+
+## Optimising data governance investment {.center background-color="#002147"}
+
+## Phased Implementation
+
+* Prioritise governance capabilities based on risk and compliance requirements
+
+* Start with high-risk data domains and expand systematically.
+
+## Cloud-Based Solutions
+
+* Cloud-based data governance platforms often provide lower initial costs and more predictable pricing models than on-premises alternatives. 
+
+* Organisations can reduce total cost of ownership by 30-45% over five years through cloud-based governance solutions.
+
+## Integrated Governance Frameworks
+
+* Develop a unified approach addressing multiple compliance requirements simultaneously rather than creating siloed compliance programs. 
+
+* This can reduce duplicative controls by 25-40%.
+
+## Automation and AI
+
+* Emerging AI-driven governance tools can reduce manual effort for data classification, monitoring, and remediation.
+
+* Automation can lower ongoing governance costs by 20-35%.
+
+## Funding data governance {.center background-color="#002147"}
+
+## Use data to improve free cash flow
+
+* Where does data cause cash flow pain? 
+
+* Manual vs automated systems for repeated processes
+
+* Show how improved governance can increase efficiency
+
+## Increase revenues with data {.center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+* Assess value of your data and leverage this value
+
+* Increase customer satisfaction with data
+
+:::
+
+::: {.column width="50%"}
+
+![](../images/fin_costs_01.png){fig-align="center"}
+
+:::
+
+::::
+
+## Cutting costs with data {.center}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+* About 530,000 days of managers’ time wasted by poor quality and undocumented data (equivalent to some $250 million in wages annually)
+
+* By just simply documenting your metadata can reduce data-related expenses by up to 97%
+
+:::
+
+::: {.column width="50%"}
+
+![](../images/fin_costs_02.png){fig-align="center"}
+
+:::
+
+
+::::
+
+## Reducing risk with data {.center}
+
+:::: {.columns}
+
+::: {.column with="50%"}
+
+* Regulatory risk (GDPR fines, for example)
+
+* Cybersecurity risk (both costs of the response and erosion of customer trust)
+
+<!-- * Specifically for the CFO – Financial restatement risk -->
+
+:::
+
+::: {.column width="50%"}
+
+![](../images/fin_costs_03.png){fig-align="center"}
+
+:::
+
+::::
+
+## Generating financial resources for data
+
+* Use data valuations to pinpoint parts of the business where data can increase revenue, unlock cash flow, or reduce costs and risk.
+
+* This gives you a concrete basis for discussions with leadership about investing in data improvements.
+
+* Instead of requesting budget without evidence, you approach the CFO with solid, data-driven justification.
+
+* Securing funding for data governance becomes much easier when the financial benefits are clearly understood.
