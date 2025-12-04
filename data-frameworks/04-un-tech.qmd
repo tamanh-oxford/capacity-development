@@ -42,12 +42,6 @@ title-slide-attributes:
 
 * It will also enhance the UN’s ability to support Member States in adopting digital and AI solutions effectively and responsibly.
 
-## Areas of action
-
-* Pool core ICT functions within realigned common providers
-
-* Launch a joint **Technology Accelerator Platform**
-
 ## Fragmented data, missed opportunities {.center background-color="#002147"}
 
 ## The problem {.smaller}
@@ -66,6 +60,17 @@ title-slide-attributes:
 
 ![](../images/un80_multiple_portals.png){.r-stretch fig-align="center"}
 
+## The solution {.smaller}
+
+* New data initiatives will be developed across all UN pillars integrated into a **UN System Data Commons** built on shared data infrastructure.
+
+* The shared backbone will be designed for full interoperability and able to generate insights at local, regional, and global levels.
+
+* Entities will retain only the data that must remain separate, while all shareable data will be openly shared.
+
+* To make this transformation sustainable, interoperability will be supported by collective financing and clear governance incentives.
+
+* This approach will help connect resources and systems more effectively, increase impact, and reduce overall costs.
 
 
 
