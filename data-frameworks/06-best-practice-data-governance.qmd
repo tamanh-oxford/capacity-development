@@ -5,3 +5,76 @@ title-slide-attributes:
   data-background-color: "#002147"
 # output-file: best-practices-data-governance
 ---
+
+## Data governance is about people, processes, and technology {.center background-color="#002147"}
+
+## Think big picture but start small
+
+* Data governance depends on aligning people, processes, and technology.
+
+* Start by putting the right people in place, then design the supporting processes, and lastly introduce the necessary technology.
+
+* Without the right individuals, effective processes and smooth technical implementation are difficult to achieve.
+
+* Once the right team is identified or hired, they can develop strong processes and choose the appropriate technology to deliver a successful solution.
+
+## Build a business case
+
+* A strong business case should clearly show the organisational benefits of improved data quality, such as increased revenue, better customer experiences, and greater efficiency.
+
+* Everyone involved needs to understand both the effort required and the long-term value the initiative will bring.
+
+* Although leaders may acknowledge the problems caused by poor data quality and weak data management, governance efforts can still fail if they are not fully committed to driving meaningful change.
+
+## Foster a data-driven culture
+
+* To foster a data-driven culture, help your team understand why data is important.
+
+* Provide training and tools that show the benefits of well-managed, high-quality data.
+
+* Strong leadership is essential to make this shift meaningful.
+
+* A good leader communicates clearly and consistently about how data supports business goals.
+
+* Make data part of everyday conversations so that it becomes a natural element of decision-making across the organisation.
+
+## Establish clear objectives and metrics
+
+* You cannot achieve a goal if you are unable to measure it.
+
+* Before making changes, establish a baseline so you can compare results afterward.
+
+* Collect initial measurements early and track progress consistently throughout the process.
+
+* Metrics should show how things improve over time and act as checkpoints to ensure the processes remain practical and effective.
+
+## Communicate early and often
+
+* Consistent, clear updates help demonstrate impact, celebrate successes, and openly address setbacks.
+
+* Maintain a current list of stakeholders who need to stay informed.
+
+* Ensure communications are easy to access and simple to understand.
+
+* This keeps the right people aware of what matters, prevents surprises, and helps share progress across the organisation.
+
+## It is a marathon not a sprint
+
+* Position data governance as a long-term investment rather than a short-term initiative.
+
+* While projects have clear start and end dates and may generate excitement, data governance is ongoing, iterative, and made up of many smaller efforts.
+
+* Begin with small pilot projects, learn from them, and use those insights to guide larger, more comprehensive work.
+
+* Incorporating smaller projects into a long-term strategy helps embed deeper, lasting organisational change.
+
+## Assign clear roles and responsibilities
+
+* Clearly defined roles are essential for an effective governance programme.
+
+* Assigning ownership and responsibility across the organisation ensures accountability.
+
+* Knowing who has authority helps embed the data governance programme and promotes organisation-wide understanding.
+
+* This creates a strong structure for tackling data initiatives collectively as one cohesive team.
+

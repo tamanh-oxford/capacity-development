@@ -51,7 +51,7 @@ A system of **robust legal frameworks**, **ethical guidelines**, **standards**, 
 ![](../images/data_lifecycle.png){fig-align="center"}
 
 
-## Public Intent vs Private Intent Data
+## {.center}
 
 :::: {.columns}
 
@@ -76,35 +76,6 @@ A system of **robust legal frameworks**, **ethical guidelines**, **standards**, 
 :::
 
 ::::
-
-## Social contract for data {.center}
-
-![](../images/social_contract.png){fig-align="center"}
-
-## Theory of change: data for development {.center}
-
-![](../images/theory_of_change.png){fig-align="center"}
-
-
-## Data governance layers {.center}
-
-![](../images/data_governance_layers.png){fig-align="center"}
-
-## Integrated national data system {.center}
-
-![](../images/integrated_national_data_system.png){fig-align="center"}
-
-## Data flow {.center}
-
-![](../images/data_flow.png){fig-align="center"}
-
-## Data supply and demand {.center}
-
-![](../images/data_supply_demand.png){fig-align="center"}
-
-## Data policies {.center}
-
-![](../images/data_policies.png){fig-align="center"}
 
 ## Types of public intent data
 
