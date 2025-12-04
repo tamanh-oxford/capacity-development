@@ -1,7 +1,317 @@
 ---
 title: "Session 3"
-subtitle: "Case Study: Singapore’s Open Government Products and Singapore Government Tech Stack"
+subtitle: "Case Study: Singapore’s Smart Nation, Open Government Products, and Singapore Government Tech Stack"
 title-slide-attributes: 
   data-background-color: "#002147"
 # output-file: singapore-open-government
 ---
+
+## {.center}
+
+![](../images/sg_smart_nation.png){.r-stretch fig-align="center"}
+
+<!-- ## Smart Nation Journey {auto-animate=true auto-animate-easing="ease-in-out"}
+
+::: {.r-hstack}
+
+
+::: {data-id="pt01" auto-animate-delay="0"}
+
+![1963](../images/sg_milestone_1963.png)
+
+:::
+
+::: {data-id="pt02" auto-animate-delay="0.1"}
+
+![1981](../images/sg_milestone_1981.png)
+
+:::
+
+::: {data-id="pt03" auto-animate-delay="0.2"}
+
+![1997](../images/sg_milestone_1997.png)
+
+:::
+
+
+:::
+
+## Milestone 1963 {auto-animate=true auto-animate-easing="ease-in-out"}
+
+::: {data-id="pt01" auto-animate-delay="0"}
+
+![1963](../images/sg_milestone_1963.png)
+
+::: -->
+
+
+## Smart Nation journey {.center}
+
+::: {layout-ncol="6" layout-valign="bottom"}
+
+![1963](../images/sg_milestone_1963.png)
+
+![1981](../images/sg_milestone_1981.png)
+
+![1997](../images/sg_milestone_1997.png)
+
+![2000](../images/sg_milestone_2000.png)
+
+![2007](../images/sg_milestone_2003.png)
+
+![2014](../images/sg_milestone_2014.png)
+
+:::
+
+::: {layout-ncol="6"}
+
+![2016](../images/sg_milestone_2016.png)
+
+![2017](../images/sg_milestone_2017.png)
+
+![2018](../images/sg_milestone_2018.png)
+
+![2022](../images/sg_milestone_2022.png)
+
+![2023](../images/sg_milestone_2023.png)
+
+![2024](../images/sg_milestone_2024.png)
+
+:::
+
+
+## Vision {.smaller}
+
+* Singapore’s **Smart Nation initiative**, led by the Ministry of Digital Development and Information (MDDI), aims to build a thriving digital future for everyone.
+
+* Launched in **2014**, Smart Nation 1.0 sought to improve lives through seamless and meaningful use of technology.
+
+* Since its launch, Singapore has integrated digital technologies deeply into daily life, creating new opportunities while also needing to manage risks to well-being and social cohesion.
+
+* In **2024**, Singapore introduced **Smart Nation 2.0**, a refreshed vision focused on using technology more effectively to transform the nation’s future.
+
+* The new phase shifts from primarily building digital capabilities to applying them strategically to shape Singapore’s long-term development.
+
+## Goals {.center background-color="#002147"}
+
+## Trust
+
+::: {layout-ncol="3"}
+
+![1. Enhance the security and resilience of our digital infrastructure](../images/sg_trust_1.png)
+
+![2. Strengthen our fight against harmful online activities](../images/sg_trust_2.png)
+
+![3. Expand our trusted digital spaces together](../images/sg_trust_3.png)
+
+:::
+
+## Growth
+
+::: {layout-ncol="3"}
+
+![1. Power our digital economy](../images/sg_growth_1.png)
+
+![2. Empower our enterprises and workers](../images/sg_growth_2.png)
+
+![3. Prepare our next generation](../images/sg_growth_3.png)
+
+:::
+
+## Community
+
+::: {layout-ncol="3"}
+
+![1. Strengthen inclusion: leaving no one behind](../images/sg_community_1.png)
+
+![2. Strengthen the unity of our community](../images/sg_community_2.png)
+
+![3. Strengthen partnerships with citizens](../images/sg_community_3.png)
+
+:::
+
+## Smart City achievements {.smaller}
+
+* **99%** of all transactions between citizens and the government can be completed online.
+
+* **High citizen and business satisfaction** with Government Digital Services at **83%** in 2023.
+
+* **99%** of resident households are **connected to the internet**, as of 2022.
+
+* **95%** of small and medium enterprises (SMEs) have adopted at least one digital technology from nine categories: cybersecurity, cloud, e-payment, e-commerce, data analytics, artificial intelligence, Internet of Things, blockchain, and immersive media.
+
+## National AI Strategy {.center}
+
+![](../images/sg_nais_2.png){.r-stretch fig-align="center"}
+
+
+## Open Government Products {.center background-color="#002147"}
+
+## Approach
+
+::: {layout-ncol="3"}
+
+![Solve real problems](../images/sg_og_philosophy_1.png)
+
+![Build for the user](../images/sg_og_philosophy_2.png)
+
+![Push for change](../images/sg_og_philosophy_3.png)
+
+:::
+
+## Products {.smaller}
+
+* More than 40 products in progress
+
+* Use **report cards** mechanism to provide a transparent overview of the work being done on each of the products
+
+:::: {.columns}
+
+::: {.column width=33%}
+
+#### Tackle real problems
+
+Share why and how the product solves a problem with updates along the way.
+
+:::
+
+::: {.column width=33%}
+
+#### Resource responsibly
+
+Product costs are made open as possible to stay accountable to taxpayers and citizens.
+
+:::
+
+::: {.column width=33%}
+
+#### Track impact clearly
+
+Share product outcomes to ensure delivery of clear value to the public.
+
+:::
+
+
+::::
+
+## {.center}
+
+![](../images/sg_scamshield.png){fig-align="center"}
+
+* [**ScamShield**](https://www.scamshield.gov.sg/) helps users detect, check, and report suspicious messages, calls, and links.
+
+* Reported scams are verified by authorities, helping them track and respond to new scam variants.
+
+## {.center .smaller}
+
+![](../images/sg_redeemsg_logo.svg){fig-align="center" width="800px"}
+
+
+* Paper voucher campaigns were slow to launch and difficult for residents to claim and use.
+
+* Merchants experienced long delays in receiving payments.
+
+* Existing digital alternatives were available but scattered across multiple complicated apps.
+
+* [**RedeemSG**](https://redeem.gov.sg/) provides a unified platform for government agencies and non-profits to create, distribute, and monitor vouchers nationwide.
+
+* Citizens redeem vouchers and merchants accept them through the same system.
+
+## {.center}
+
+![](../images/sg_distribute_sg_logo.svg){fig-align="center" width="1200px"}
+
+* Paper-based tracking made it difficult for organisations to monitor distributions or adapt plans in real time.
+
+* This led to long waiting times, inaccurate records, and limited ability to reach more beneficiaries.
+
+* [**DistributeSG**](https://distribute.gov.sg/) enables government agencies and non-profits to run and monitor distribution campaigns with real-time tracking.
+
+* It includes an admin portal for organisers to set up campaigns and a mobile app for on-the-ground tracking of distributed items.
+
+## Initiatives {.center background-color="#002147"}
+
+## {.center}
+
+![](../images/sg_build_for_good.png){fig-align="center"}
+
+* **Build for Good** is a citizen engagement initiative by Open Government Products that encourages citizens to help improve Singapore.
+
+* People can participate through a **hackathon**, an **accelerator for winning teams**, or by joining the **community**.
+
+* The initiative aims to create a supportive space where individuals feel empowered to contribute positively, experiment, and build solutions that make the world better.
+
+## {.center}
+
+![](../images/sg_hack_for_good.svg){fig-align="center"}
+
+* **Hack for Public Good (HFPG)** replaces top-down product development with a community-driven approach.
+
+* Instead of leadership setting the direction, tech teams engage directly with the community to identify public good problems in Singapore.
+
+* These teams then design and build solutions based on what they discover.
+
+## Singapore government tech stack {.center background-color="#002147"}
+
+## Overview {.center}
+
+* The **Singapore Government Tech Stack (SGTS)** modernises development practices across the whole government.
+
+* The goal is to support the creation of secure, responsive systems that keep up with evolving citizen and business needs.
+
+![](../images/sg_tech_stack_overview.png){fig-align="center" width="1000px"}
+
+## Architecture {.center}
+
+![](../images/sg_sgts_layers.png){fig-align="center"}
+
+## Architecture - base layer {.center}
+
+![](../images/sg_sgts_base_layer.png){fig-align="center"}
+
+## Architecture - service layer {.center}
+
+![](../images/sg_sgts_service_layer.png){fig-align="center"}
+
+## Success story {.center background-color="#002147"}
+
+Streamlining Payroll Submissions in Singapore: APEX’s Solution for Efficient Government Reporting
+
+## The Problem {.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+* Singapore-registered companies must regularly submit employee salary, workforce, and CPF contribution data to various government agencies (IRAS, MOM, CPFB).
+
+* All required data already exists within companies’ payroll or HR systems.
+
+* The challenge is to integrate government submissions with these systems to streamline processes, reduce manual work, and save employers time and resources.
+
+
+:::
+
+
+::: {.column width="50%"}
+
+![](../images/sg_apex_1.png){fig-align="center"}
+
+:::
+
+
+::::
+
+## The solution {.center .smaller}
+
+* **APEX** unifies APIs from multiple government agencies on one secure platform.
+
+* It enables developers, including HR and payroll software providers, to integrate easily with these services.
+
+* APEX removes the need for manual filing reducing administrative burden and supports better compliance with payroll-related regulations.
+
+![](../images/sg_apexc_2.png){fig-align="center"}
+
+
+
+
