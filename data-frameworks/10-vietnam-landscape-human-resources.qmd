@@ -5,3 +5,28 @@ title-slide-attributes:
   data-background-color: "#002147"
 # output-file: vietnam-landscape-human-resources
 ---
+
+## Activity 1 {.center background-color="#002147"}
+
+### Write down the different roles/positions within your team (including your role).
+
+::: {.notes}
+
+* Write down the roles/positions on a metacard or sticky note.
+
+* Be as specific as possible.
+
+* Ideally, write down the exact name of the role/position.
+
+:::
+
+## Activity 2 {.center background-color="#002147"}
+
+### With the metacards or sticky notes that you have made, post them on the board or wall and put them under the appropriate data role/responsibility
+
+::: {.notes}
+
+* If one role/position in your team performs different data roles/responsibilities, write new metacards or sticky notes for that role/position to put under the respective data roles/responsibilities.
+
+:::
+

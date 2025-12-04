@@ -5,3 +5,29 @@ title-slide-attributes:
   data-background-color: "#002147"
 # output-file: vietnam-landscape-technologies
 ---
+
+## Activity 1 {.center background-color="#002147"}
+
+### Write down the name of the different data tools/apps/software that you and your team uses on a day-to-day basis
+
+::: {.notes}
+
+* Write down the name on a metacard or sticky note.
+
+* Be as specific as possible.
+
+* Ideally, write down the exact name/brand name of the product/tool/app/software.
+
+:::
+
+## Activity 2 {.center background-color="#002147"}
+
+### With the metacards or sticky notes that you have made, post them on the board or wall and put them under the appropriate technology category
+
+::: {.notes}
+
+* If one product/tool/app/software is used for multiple categories, write new metacards or sticky notes for that product/tool/app/software to put under the respective categories.
+
+:::
+
+
