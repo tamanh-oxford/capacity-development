@@ -3,4 +3,5 @@ title: "Session 11"
 subtitle: "Guiding principles and best practices for technology selection and human resources recruitment and capacity building"
 title-slide-attributes: 
   data-background-color: "#002147"
+# output-file: best-practice-tech-hr
 ---

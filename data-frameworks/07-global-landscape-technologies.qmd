@@ -3,4 +3,5 @@ title: "Session 7"
 subtitle: "Global landscape of available technologies for data"
 title-slide-attributes: 
   data-background-color: "#002147"
+# output-file: global-landscape-technologies
 ---

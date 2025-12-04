@@ -3,4 +3,5 @@ title: "Session 8"
 subtitle: "The landscape of technologies for data in Vietnam"
 title-slide-attributes: 
   data-background-color: "#002147"
+# output-file: vietnam-landscape-technologies
 ---

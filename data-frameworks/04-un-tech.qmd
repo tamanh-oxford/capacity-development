@@ -3,4 +3,5 @@ title: "Session 4"
 subtitle: "Case Study: The United Nations and its costly fragmented technological services that is severely lagging in a digital age"
 title-slide-attributes: 
   data-background-color: "#002147"
+# output-file: un-tech
 ---
