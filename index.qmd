@@ -16,7 +16,7 @@ format:
 
 **Session** | **Links**
 :--- | :---
-**Session 1:** Global landscape of data governance institutions and framework | [HTML](data-frameworks/01-global-landscape.html){.external target="_blank"} [PPTX](data-frameworks/01-global-landscape.pptx) PDF
+**Session 1:** Global landscape of data governance institutions and framework | [HTML](data-frameworks/01-global-landscape.html){.external target="_blank"} [PPTX](data-frameworks/01-global-landscape.pptx) [PDF](data-frameworks/01-global-landscape.pdf)
 **Session 2:** Case Study: The UK Data Landscape | [HTML](data-frameworks/02-uk-landscape.html){.external target="_blank"} [PPTX](data-frameworks/02-uk-landscape.pptx) [PDF](data-frameworks/02-uk-landscape.pdf)
 **Session 3:** Case Study: Singapore’s Smart Nation, Open Government Products, and Singapore Government Tech Stack | [HTML](data-frameworks/03-singapore-open-government.html){.external target="_blank"} [PPTX](data-frameworks/03-singapore-open-government.pptx) [PDF](data-frameworks/03-singapore-open-government.pdf)
 **Session 4:** Case Study: The United Nations and its technological and data challenges | [HTML](data-frameworks/04-un-tech.html){.external target="_blank"} [PPTX](data-frameworks/04-un-tech.pptx) [PDF](data-frameworks/04-un-tech.pdf)
