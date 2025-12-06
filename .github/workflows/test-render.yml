@@ -23,6 +23,12 @@ jobs:
           apt-get update && apt-get install -y --no-install-recommends \
           libxt6 libglpk-dev gh curl jq
 
+      - name: Install Chrome
+        run: |
+          curl -LO https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          apt-get install -y ./google-chrome-stable_current_amd64.deb
+          rm google-chrome-stable_current_amd64.deb
+
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:
@@ -40,8 +46,13 @@ jobs:
           renv::restore()
         shell: Rscript {0}
         
-      - name: Render document
+      - name: Render slides
         run: quarto render
+
+      - name: Render slides to PDF
+        run: |
+          source("render_pdf.R")
+        shell: Rscript {0}
 
       - name: Deploy to Netlify
         uses: nwtgck/actions-netlify@v3.0
