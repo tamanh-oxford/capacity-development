@@ -6,13 +6,6 @@ title-slide-attributes:
 # output-file: global-landscape
 ---
 
-## Outline {.center}
-
-* Definitions
-
-* 
-
-
 ## Definitions {.center background-color="#002147"}
 
 

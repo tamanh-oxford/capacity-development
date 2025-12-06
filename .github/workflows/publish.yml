@@ -43,6 +43,11 @@ jobs:
       - name: Render slides
         run: |
           quarto render
+
+      - name: Render slides to PDF
+        run: |
+          source("render_pdf.R")
+        shell: Rscript {0}
       
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
