@@ -5,12 +5,13 @@ project:
 format:
   revealjs: 
     slide-number: true
-    chalkboard: 
-      buttons: false
+    # chalkboard: 
+    #   buttons: false
     preview-links: auto
     logo: images/top_logo.jpg
     css: styles.css
     footer: "Tam Anh Oxford Partnership"
+    embed-resources: true
   pptx: default
 
 # author:
