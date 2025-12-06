@@ -10,41 +10,6 @@ title-slide-attributes:
 
 ![](../images/sg_smart_nation.png){.r-stretch fig-align="center"}
 
-<!-- ## Smart Nation Journey {auto-animate=true auto-animate-easing="ease-in-out"}
-
-::: {.r-hstack}
-
-
-::: {data-id="pt01" auto-animate-delay="0"}
-
-![1963](../images/sg_milestone_1963.png)
-
-:::
-
-::: {data-id="pt02" auto-animate-delay="0.1"}
-
-![1981](../images/sg_milestone_1981.png)
-
-:::
-
-::: {data-id="pt03" auto-animate-delay="0.2"}
-
-![1997](../images/sg_milestone_1997.png)
-
-:::
-
-
-:::
-
-## Milestone 1963 {auto-animate=true auto-animate-easing="ease-in-out"}
-
-::: {data-id="pt01" auto-animate-delay="0"}
-
-![1963](../images/sg_milestone_1963.png)
-
-::: -->
-
-
 ## Smart Nation journey {.center}
 
 ::: {layout-ncol="6" layout-valign="bottom"}
@@ -98,11 +63,11 @@ title-slide-attributes:
 
 ::: {layout-ncol="3"}
 
-![1. Enhance the security and resilience of our digital infrastructure](../images/sg_trust_1.png)
+![Enhance the security and resilience of our digital infrastructure](../images/sg_trust_1.png)
 
-![2. Strengthen our fight against harmful online activities](../images/sg_trust_2.png)
+![Strengthen our fight against harmful online activities](../images/sg_trust_2.png)
 
-![3. Expand our trusted digital spaces together](../images/sg_trust_3.png)
+![Expand our trusted digital spaces together](../images/sg_trust_3.png)
 
 :::
 
@@ -110,11 +75,11 @@ title-slide-attributes:
 
 ::: {layout-ncol="3"}
 
-![1. Power our digital economy](../images/sg_growth_1.png)
+![Power our digital economy](../images/sg_growth_1.png)
 
-![2. Empower our enterprises and workers](../images/sg_growth_2.png)
+![Empower our enterprises and workers](../images/sg_growth_2.png)
 
-![3. Prepare our next generation](../images/sg_growth_3.png)
+![Prepare our next generation](../images/sg_growth_3.png)
 
 :::
 
@@ -122,11 +87,11 @@ title-slide-attributes:
 
 ::: {layout-ncol="3"}
 
-![1. Strengthen inclusion: leaving no one behind](../images/sg_community_1.png)
+![Strengthen inclusion: leaving no one behind](../images/sg_community_1.png)
 
-![2. Strengthen the unity of our community](../images/sg_community_2.png)
+![Strengthen the unity of our community](../images/sg_community_2.png)
 
-![3. Strengthen partnerships with citizens](../images/sg_community_3.png)
+![Strengthen partnerships with citizens](../images/sg_community_3.png)
 
 :::
 
@@ -143,7 +108,6 @@ title-slide-attributes:
 ## National AI Strategy {.center}
 
 ![](../images/sg_nais_2.png){.r-stretch fig-align="center"}
-
 
 ## Open Government Products {.center background-color="#002147"}
 
@@ -191,7 +155,6 @@ Share product outcomes to ensure delivery of clear value to the public.
 
 :::
 
-
 ::::
 
 ## {.center}
@@ -219,7 +182,7 @@ Share product outcomes to ensure delivery of clear value to the public.
 
 ## {.center}
 
-![](../images/sg_distribute_sg_logo.svg){fig-align="center" width="1200px"}
+![](../images/sg_distribute_sg_logo.svg){fig-align="center" width="2000px"}
 
 * Paper-based tracking made it difficult for organisations to monitor distributions or adapt plans in real time.
 

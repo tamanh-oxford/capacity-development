@@ -108,46 +108,19 @@ title-slide-attributes:
 
 ## Cutting costs with data {.center}
 
-:::: {.columns}
-
-::: {.column width="50%"}
+![](../images/fin_costs_02.png){fig-align="center"}
 
 * About 530,000 days of managers’ time wasted by poor quality and undocumented data (equivalent to some $250 million in wages annually)
 
 * By just simply documenting your metadata can reduce data-related expenses by up to 97%
 
-:::
-
-::: {.column width="50%"}
-
-![](../images/fin_costs_02.png){fig-align="center"}
-
-:::
-
-
-::::
-
 ## Reducing risk with data {.center}
 
-:::: {.columns}
-
-::: {.column with="50%"}
+![](../images/fin_costs_03.png){fig-align="center"}
 
 * Regulatory risk (GDPR fines, for example)
 
 * Cybersecurity risk (both costs of the response and erosion of customer trust)
-
-<!-- * Specifically for the CFO – Financial restatement risk -->
-
-:::
-
-::: {.column width="50%"}
-
-![](../images/fin_costs_03.png){fig-align="center"}
-
-:::
-
-::::
 
 ## Generating financial resources for data
 
