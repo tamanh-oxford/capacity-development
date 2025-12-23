@@ -1,5 +1,11 @@
 # Tam Anh Oxford Partnership Capacity Development Course <img src="images/top_logo.jpg" width="300" align="right" />
 
+## Introduction to Research Methods
+
+**Session** | **Links**
+:--- | :---
+Research Data Managemet | [HTML](https://tamanh-oxford.github.io/data-management/index.html) [PPTX](data-management/index.pptx) [PDF](data-management/data_management.pdf)
+
 ## Data Concepts and Applications
 
 **Session** | **Links**
