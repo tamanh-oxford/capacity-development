@@ -22,4 +22,7 @@ Map(
   )
 )
 
-pagedown::chrome_print(input = "_slides/data-management/index.html")
+pagedown::chrome_print(
+  input = "_slides/data-management/index.html", timeout = 300,
+  extra_args = "--no-sandbox", "--disable-dev-shm-usage"
+)

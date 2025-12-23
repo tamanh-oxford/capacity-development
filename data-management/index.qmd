@@ -15,6 +15,14 @@ title-slide-attributes:
   data-background-color: "#002147"
 ---
 
+## {.center background-color="#002147"}
+
+### Go to the people. Live with them. Learn from them. Love them.
+
+### Start with what they know. Build with what they have.
+
+### But with the best leaders, when the work is done, the task accomplished, the people will say "We have done it ourselves".
+
 ## Who, what, when, where, why, and how of data {.center background-color="#002147"}
 
 ::: {.notes}
@@ -86,6 +94,17 @@ Indicates the location where the data is stored or accessed. This could be withi
 
 :::
 
+## Why
+
+* purpose behind collecting and analysing the data;
+* guides appropriate actions based on the stated purpose
+
+::: {.notes}
+
+Asks for the purpose behind collecting and analysing the data. It clarifies why this information is being gathered i.e., whether it’s for reporting, decision-making, monitoring performance, or other objectives. This in turn guides appropriate actions based on the data insights.
+
+:::
+
 ## How
 
 Methods used to:
@@ -101,18 +120,13 @@ Focuses on the methods used to collect, process, or extract the data. This inclu
 
 :::
 
-## Why
-
-* purpose behind collecting and analysing the data;
-* guides appropriate actions based on the stated purpose
-
-::: {.notes}
-
-Asks for the purpose behind collecting and analysing the data. It clarifies why this information is being gathered i.e., whether it’s for reporting, decision-making, monitoring performance, or other objectives. This in turn guides appropriate actions based on the data insights.
-
-:::
-
 ## Group exercise {.center background-color="#002147"}
+
+Given your current research question/s, identify the **who**, **what**, **when**, **where**, **why**, and **how** of the data that you will need.
+
+## Data lifecycle
+
+![](../images/data_lifecycle.png){fig-align="center"}
 
 ## Data systems {.center background-color="#002147"}
 
@@ -233,6 +247,8 @@ Data systems involve platforms that manage and store data effectively such as **
     * institutions responsible for the security of other types of information that they own or are responsible for
 
 ## Data tools {.center background-color="#002147"}
+
+Given your research questions and your answers to the previous exercise, identify data tools that you think you will need.
 
 ## Data tools 
 
