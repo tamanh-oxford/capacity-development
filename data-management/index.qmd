@@ -234,17 +234,17 @@ Data systems involve platforms that manage and store data effectively such as **
 
 * Includes securing physical hardware, software, storage devices, and user devices, as well as implementing access controls, policies, and procedures.
 
-## Layers of data security
+## Layers of data security - Personal/individual layer
 
-* Personal/individual layer - us as individuals responsible for the security of our own personal information and any other information that we own or are responsible for.
+* Each one of us as individuals are responsible for the security of our own personal information and any other information that we own or are responsible for.
 
-## Layers of data security
+## Layers of data security - Institutional layer
 
-* Institutional layer
+* institutions responsible for the security of the personal information of its own employees and/or members/affiliates
 
-    * institutions responsible for the security of the personal information of its own employees and/or members/affiliates
-    * institutions responsible for the security of the personal information of others from whom they collect information from as part of the service they render.
-    * institutions responsible for the security of other types of information that they own or are responsible for
+* institutions responsible for the security of the personal information of others from whom they collect information from as part of the service they render.
+    
+* institutions responsible for the security of other types of information that they own or are responsible for
 
 ## Data tools {.center background-color="#002147"}
 
@@ -252,9 +252,9 @@ Given your research questions and your answers to the previous exercise, identif
 
 ## Data tools 
 
-* Our choice of tools or the tools that we are made to use dictate how we implement the different steps in the data management pathway as such also influence the resulting quality of data that we obtain
+* Our choice of tools or the tools that we are made to use dictate how we implement the different steps in the data management pathway 
 
-* Since every step of the data pathway used by the course participants involve Microsoft Excel, this tool has the greatest influence in the data quality of the current ecosystem of data in Seychelles
+* As such, our data tools also influence the resulting quality of data that we obtain
 
 ## The dangers of spreadsheets
 
@@ -299,7 +299,7 @@ Given your research questions and your answers to the previous exercise, identif
 
 ## Choose good names for things
 
-* Do not use spaces in variables names and file anmes
+* Do not use spaces in variables names and file names
 
 * Avoid special characters
 
