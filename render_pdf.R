@@ -23,6 +23,8 @@ Map(
 )
 
 pagedown::chrome_print(
-  input = "_slides/data-management/index.html", timeout = 300,
-  extra_args = "--no-sandbox", "--disable-dev-shm-usage"
+  input = "_slides/data-management/index.html",
+  output = "_slides/data-management/data_management.pdf",
+  timeout = 300,
+  extra_args = c("--no-sandbox", "--disable-dev-shm-usage")
 )
