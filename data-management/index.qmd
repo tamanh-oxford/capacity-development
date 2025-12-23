@@ -121,7 +121,7 @@ Asks for the purpose behind collecting and analysing the data. It clarifies why 
 :::: {.columns}
 
 ::: {.column width="50%"}
-![](../images/oranges.jpg){fig-align="center"}
+![](../images/oranges.jpg){width=400 fig-align="center"}
 :::
 
 ::: {.column width="50%"}

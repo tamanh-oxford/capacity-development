@@ -21,3 +21,5 @@ Map(
     list(c("--no-sandbox", "--disable-dev-shm-usage")), length(html_files)
   )
 )
+
+pagedown::chrome_print(input = "_slides/data-management/index.html")
