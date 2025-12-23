@@ -14,7 +14,7 @@ format:
 
 **Session** | **Links**
 :--- | :---
-Research Data Managemet | [HTML](data-management/index.html) [PPTX](data-management/index.pptx) [PDF](data-management/data_management.pdf)
+Research Data Managemet | [HTML](data-management/index.html){.external target="_blank"} [PPTX](data-management/index.pptx) [PDF](data-management/data_management.pdf)
 
 
 ## Data Concepts and Applications
