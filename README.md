@@ -4,7 +4,7 @@
 
 **Session** | **Links**
 :--- | :---
-Research Data Managemet | [HTML](https://tamanh-oxford.github.io/data-management/index.html) [PPTX](data-management/index.pptx) [PDF](data-management/data_management.pdf)
+Research Data Managemet | [HTML](https://tamanh-oxford.github.io/capacity-development/data-management/index.html) [PPTX](data-management/index.pptx) [PDF](data-management/data_management.pdf)
 
 ## Data Concepts and Applications
 
