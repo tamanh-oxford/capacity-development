@@ -169,7 +169,6 @@ Share product outcomes to ensure delivery of clear value to the public.
 
 ![](../images/sg_redeemsg_logo.svg){fig-align="center" width="800px"}
 
-
 * Paper voucher campaigns were slow to launch and difficult for residents to claim and use.
 
 * Merchants experienced long delays in receiving payments.
@@ -180,9 +179,9 @@ Share product outcomes to ensure delivery of clear value to the public.
 
 * Citizens redeem vouchers and merchants accept them through the same system.
 
-## {.center}
+## {.center .smaller}
 
-![](../images/sg_distribute_sg_logo.svg){fig-align="center" width="2000px"}
+![](../images/sg_distribute_sg_logo.svg){fig-align="center"}
 
 * Paper-based tracking made it difficult for organisations to monitor distributions or adapt plans in real time.
 

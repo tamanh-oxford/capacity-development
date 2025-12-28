@@ -4,7 +4,7 @@
 library(pagedown)
 
 
-## Render slides to PDF ----
+## Render data frameworks slides to PDF ----
 
 html_files <- list.files(
   path = "_slides/data-frameworks", 
@@ -22,9 +22,25 @@ Map(
   )
 )
 
+## Combine data frameworks slides into a single PDF ----
+
+pdf_files <- list.files(
+  path = "_slides/data-frameworks",
+  pattern ="pdf",
+  full.names = TRUE
+)
+
+qpdf::pdf_combine(
+  input = pdf_files, output = "_slides/data-frameworks/data_governance.pdf"
+)
+
+## Render data management slides to PDF ----
+
 pagedown::chrome_print(
   input = "_slides/data-management/index.html",
   output = "_slides/data-management/data_management.pdf",
   timeout = 300,
   extra_args = c("--no-sandbox", "--disable-dev-shm-usage")
 )
+
+
