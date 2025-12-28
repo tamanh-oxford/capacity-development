@@ -12,7 +12,7 @@ title-slide-attributes:
 
 ## Theory of change: data for development {.center}
 
-![](../images/theory_of_change.png){fig-align="center"}
+![](../images/theory_of_change.png){fig-align="center" height="500px"}
 
 
 ## Data governance layers {.center}
