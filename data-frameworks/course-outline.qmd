@@ -1,0 +1,34 @@
+---
+title: "Course Outline"
+subtitle: "Data Concepts and Applications for Managers"
+title-slide-attributes: 
+  data-background-color: "#002147"
+# output-file: manager-personas
+---
+
+## Day 1
+
+* Global landscape of data governance institutions and frameworks
+
+* Case study: The United Nations and its technological and data challenges
+
+## Day 2
+
+* Global landscape of available technologies for data
+
+* Data Exercise: Working with Excel
+
+* Activity: The landscape of technologies for data in Vietnam
+
+* Global landscape of human resources for data
+
+* Activity: The landscape of human resources for data in Vietnam
+
+## Day 3
+
+* Guiding principles and best practices for data capacity building
+
+* Financing data governance
+
+* Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam
+
