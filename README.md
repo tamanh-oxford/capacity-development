@@ -8,6 +8,8 @@ Research Data Managemet | [HTML](https://tamanh-oxford.github.io/capacity-develo
 
 ## Data Concepts and Applications
 
+**Course outline** - [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.html){.external target="_blank"} [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pptx) [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pdf)
+
 **Session** | **Links**
 :--- | :---
 **Session 1:** Global landscape of data governance institutions and framework | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/01-global-landscape.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/01-global-landscape.pptx) [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/01-global-landscape.pdf)
@@ -24,4 +26,8 @@ Research Data Managemet | [HTML](https://tamanh-oxford.github.io/capacity-develo
 **Session 12:** Financing data governance | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/12-financing-data.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/12-financing-data.pptx) [POF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/12-financing-data.pdf)
 **Session 13:** Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/13-manager-personas.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/13-manager-personas.pptx) [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/13-manager-personas.pdf)
 
-All sessions slides combined - [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/data_governance.pdf)
+**All sessions slides combined** - [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/data_governance.pdf)
+
+**Data Exercise** | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/data-exercise.html){.external target="_blank"} [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/data-exercise.pptx) [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/data-exercise.pdf)
+
+**Data for data exercise** - [XLSX](https://tamanh-oxford.github.io/data/fem.xlsx)
