@@ -16,8 +16,6 @@ title-slide-attributes:
 
 * Global landscape of available technologies for data
 
-* Data Exercise: Working with Excel
-
 * Activity: The landscape of technologies for data in Vietnam
 
 * Global landscape of human resources for data
