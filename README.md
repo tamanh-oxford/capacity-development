@@ -28,6 +28,3 @@ Research Data Managemet | [HTML](https://tamanh-oxford.github.io/capacity-develo
 
 **All sessions slides combined** - [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/data_governance.pdf)
 
-**Data Exercise** | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/data-exercise.html){.external target="_blank"} [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/data-exercise.pptx) [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/data-exercise.pdf)
-
-**Data for data exercise** - [XLSX](https://tamanh-oxford.github.io/data/fem.xlsx)

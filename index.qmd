@@ -38,7 +38,3 @@ Research Data Managemet | [HTML](data-management/index.html){.external target="_
 **Session 13:** Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam | [HTML](data-frameworks/13-manager-personas.html){.external target="_blank"} [PPTX](data-frameworks/13-manager-personas.pptx) [PDF](data-frameworks/13-manager-personas.pdf)
 
 **All sessions slides combined** - [PDF](data-frameworks/data_governance.pdf)
-
-**Data Exercise** | [HTML](data-frameworks/data-exercise.html){.external target="_blank"} [PPTX](data-frameworks/data-exercise.pptx) [PDF](data-frameworks/data-exercise.pdf)
-
-**Data for data exercise** - [XLSX](data/fem.xlsx)
