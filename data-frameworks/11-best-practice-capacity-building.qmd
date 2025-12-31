@@ -14,7 +14,7 @@ title-slide-attributes:
 
 * Strengthening these abilities across different teams is essential.
 
-* Complementary skillsets help reinforce the entire data value chain and improve overall decision-making.
+* Complementary skill sets help reinforce the entire data value chain and improve overall decision-making.
 
 
 ## 1. Identify gaps in data skills and statistical capacities {.center background-color="#002147"}
@@ -27,9 +27,69 @@ title-slide-attributes:
 
 ![](../images/hr_roles_04.png){fig-align="center"}
 
+## Data Capability Framework - example {.smaller}
+
+* **Capability:** Employ data coding and classification principles
+
+* **Catgory:** Describe, Store, Use, and Save/Destroy
+
+:::: {.columns}
+
+::: {.column width="33.3%"}
+### New
+
+* Is aware of relevant data classifications and coding protocols, and their proper application to data in general.
+
+* Knows who to consult for expert knowledge.
+:::
+
+::: {.column width="33.3%"}
+
+### Proficient
+
+* Has a comprehensive knowledge of data classifications and coding protocols.
+
+* Knows where to obtain expert advice about coding and classifications as needed.
+
+:::
+
+::: {.column width="33.3%"}
+
+### Expert
+
+* Is consulted regularly by others about data classifications and coding protocols.
+
+* Can employ conceptual frameworks in support of data classification and coding.
+
+:::
+
+::::
+
+## Data Capability Framework Guide {.center}
+
+![](../images/qrcode_data.govt.nz.png){fig-align="center"}
+
+[Link](https://data.govt.nz/toolkit/data-capability-framework/data-capability-framework-guide)
+
 ## Data Maturity Assessment Framework {.center}
 
 ![](../images/hr_roles_05.png){fig-align="center"}
+
+## Data Maturity Assessment Framework
+
+* **Themes:** Uses, Data, Leadership, Culture, Tools, Skills
+
+* **Maturity Levels:** Beginning, Emerging, Learning, Developing, Mastering
+
+## Data Maturity Assessment Framework - example {.center}
+
+![](../images/dma_example.png){fig-align="center"}
+
+## Data Maturity Assessment Framework Guide {.center}
+
+![](../images/qrcode_assets.publishing.service.gov.uk.png){fig-align="center"}
+
+[Link](https://assets.publishing.service.gov.uk/media/64184bccd3bf7f79d9675dbd/Data_Maturity_Assessment_for_Government_-_FINAL_PDF.pdf)
 
 ## 2. Build data capacities in your team {.center background-color="#002147"}
 
