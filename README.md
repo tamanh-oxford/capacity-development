@@ -2,13 +2,18 @@
 
 ## Introduction to Research Methods
 
-**Session** | **Links**
-:--- | :---
-Research Data Managemet | [HTML](https://tamanh-oxford.github.io/capacity-development/data-management/index.html) [PPTX](data-management/index.pptx) [PDF](data-management/data_management.pdf)
+**Topic:** Research Data Management    
+**Date:** 24 December 2025    
+**Presentation:** [HTML](https://tamanh-oxford.github.io/capacity-development/data-management/index.html) [PPTX](data-management/index.pptx) [PDF](data-management/data_management.pdf)
+
+&nbsp;
 
 ## Data Concepts and Applications
 
-**Course outline** - [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.html){.external target="_blank"} [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pptx) [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pdf)
+**Date:** 29-31 December 2025    
+**Course outline:** [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pptx) [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pdf)
+
+&nbsp;
 
 **Session** | **Links**
 :--- | :---
@@ -25,6 +30,8 @@ Research Data Managemet | [HTML](https://tamanh-oxford.github.io/capacity-develo
 **Session 11:** Guiding principles and best practices for data capacity building | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/11-best-practice-capacity-building.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/11-best-practice-capacity-building.pptx) [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/11-best-practice-capacity-building.pdf)
 **Session 12:** Financing data governance | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/12-financing-data.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/12-financing-data.pptx) [POF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/12-financing-data.pdf)
 **Session 13:** Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/13-manager-personas.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/13-manager-personas.pptx) [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/13-manager-personas.pdf)
+
+&nbsp;
 
 **All sessions slides combined** - [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/data_governance.pdf)
 
