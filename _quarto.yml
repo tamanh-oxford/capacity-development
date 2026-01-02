@@ -14,7 +14,8 @@ format:
     embed-resources: true
   pptx: default
 
-# author:
-#   name: Ernest Guevarra
-#   email: ernest@guevarra.io
-#   affiliation: University of Oxford
+author:
+  name: Ernest Guevarra
+  email: ernest@guevarra.io
+  affiliation: University of Oxford
+  

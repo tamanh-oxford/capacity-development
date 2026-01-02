@@ -10,16 +10,24 @@ format:
     toc: false
 ---
 
+&nbsp;
+
 ## Introduction to Research Methods
 
-**Session** | **Links**
-:--- | :---
-Research Data Managemet | [HTML](data-management/index.html){.external target="_blank"} [PPTX](data-management/index.pptx) [PDF](data-management/data_management.pdf)
+**Topic:** Research Data Management    
+**Date:** 24 December 2025    
+**Presentations:** [HTML](data-management/index.html){.external target="_blank"} [PPTX](data-management/index.pptx) [PDF](data-management/data_management.pdf)
 
+&nbsp;
 
 ## Data Concepts and Applications
 
-**Course outline** - [HTML](data-frameworks/course-outline.html){.external target="_blank"} [PPTX](data-frameworks/course-outline.pptx) [PDF](data-frameworks/course-outline.pdf)
+**Date:** 29-31 December 2025    
+**Course outline:** [HTML](data-frameworks/course-outline.html){.external target="_blank"} [PPTX](data-frameworks/course-outline.pptx) [PDF](data-frameworks/course-outline.pdf)
+
+&nbsp;
+
+&nbsp;
 
 **Session** | **Links**
 :--- | :---
@@ -37,4 +45,6 @@ Research Data Managemet | [HTML](data-management/index.html){.external target="_
 **Session 12:** Financing data governance | [HTML](data-frameworks/12-financing-data.html){.external target="_blank"} [PPTX](data-frameworks/12-financing-data.pptx) [POF](data-frameworks/12-financing-data.pdf)
 **Session 13:** Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam | [HTML](data-frameworks/13-manager-personas.html){.external target="_blank"} [PPTX](data-frameworks/13-manager-personas.pptx) [PDF](data-frameworks/13-manager-personas.pdf)
 
-**All sessions slides combined** - [PDF](data-frameworks/data_governance.pdf)
+&nbsp;
+
+**All sessions slides combined:** [PDF](data-frameworks/data_governance.pdf)
