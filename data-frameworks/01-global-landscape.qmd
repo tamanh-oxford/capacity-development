@@ -1,6 +1,7 @@
 ---
 title: "Session 1"
 subtitle: "Global landscape of data governance institutions and frameworks"
+author: Ernest Guevarra
 title-slide-attributes: 
   data-background-color: "#002147"
 # output-file: global-landscape
