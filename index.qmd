@@ -10,17 +10,22 @@ format:
     toc: false
 ---
 
+&nbsp;
+
 ## Introduction to Research Methods
 
-**Session** | **Links**
-:--- | :---
-Research Data Management | [HTML](data-management/index.html){.external target="_blank"} [PPTX](data-management/index.pptx) [PDF](data-management/data_management.pdf)
+**Topic:** Research Data Management    
+**Date:** 24 December 2025    
+**Presentations:** [HTML](data-management/index.html){.external target="_blank"} [PPTX](data-management/index.pptx) [PDF](data-management/data_management.pdf)
 
 &nbsp;
 
 ## Data Concepts and Applications
 
-**Course outline** - [HTML](data-frameworks/course-outline.html){.external target="_blank"} [PPTX](data-frameworks/course-outline.pptx) [PDF](data-frameworks/course-outline.pdf)
+**Date:** 29-31 December 2025    
+**Course outline:** [HTML](data-frameworks/course-outline.html){.external target="_blank"} [PPTX](data-frameworks/course-outline.pptx) [PDF](data-frameworks/course-outline.pdf)
+
+&nbsp;
 
 &nbsp;
 
@@ -42,4 +47,4 @@ Research Data Management | [HTML](data-management/index.html){.external target="
 
 &nbsp;
 
-**All sessions slides combined** - [PDF](data-frameworks/data_governance.pdf)
+**All sessions slides combined:** [PDF](data-frameworks/data_governance.pdf)
