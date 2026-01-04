@@ -1,5 +1,5 @@
 ---
-title: "Tam Anh Oxford Partnership Capacity Development"
+title: "Tam Anh Oxford Partnership Data Capacity Development Courses"
 format:
   html:
     grid:
@@ -15,14 +15,12 @@ format:
 ## Introduction to Research Methods
 
 **Topic:** Research Data Management    
-**Date:** 24 December 2025    
 **Presentations:** [HTML](data-management/index.html){.external target="_blank"} [PPTX](data-management/index.pptx) [PDF](data-management/data_management.pdf)
 
 &nbsp;
 
 ## Data Concepts and Applications
 
-**Date:** 29-31 December 2025    
 **Course outline:** [HTML](data-frameworks/course-outline.html){.external target="_blank"} [PPTX](data-frameworks/course-outline.pptx) [PDF](data-frameworks/course-outline.pdf)
 
 &nbsp;

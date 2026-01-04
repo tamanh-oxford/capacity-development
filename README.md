@@ -1,16 +1,15 @@
-# Tam Anh Oxford Partnership Capacity Development Course <img src="images/top_logo.jpg" width="300" align="right" />
+# Tam Anh Oxford Partnership Data Capacity Development Courses <img src="images/top_logo.jpg" width="300" align="right" />
 
 ## Introduction to Research Methods
 
 **Topic:** Research Data Management    
-**Date:** 24 December 2025    
-**Presentation:** [HTML](https://tamanh-oxford.github.io/capacity-development/data-management/index.html) [PPTX](data-management/index.pptx) [PDF](data-management/data_management.pdf)
+**Presentation:** [HTML](https://tamanh-oxford.github.io/capacity-development/data-management/index.html) [PPTX](data-management/index.pptx) [PDF](data-management/data_management.pdf)     
+**Description:** The **Introduction to Research Methods** course 
 
 &nbsp;
 
 ## Data Concepts and Applications
 
-**Date:** 29-31 December 2025    
 **Course outline:** [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pptx) [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pdf)
 
 &nbsp;
