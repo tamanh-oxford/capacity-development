@@ -1,6 +1,6 @@
 project:
   title: "capacity-development"
-  output-dir: _slides
+  output-dir: _site
 
 format:
   revealjs: 
