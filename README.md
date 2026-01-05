@@ -1,6 +1,14 @@
 # Tam Anh Oxford Partnership Data Capacity Development Courses <img src="images/top_logo.jpg" width="300" align="right" />
 
-## Introduction to Research Design
+This is an [R](https://www.r-project.org/)-based and [Quarto](https://quarto.org/)-powered repository containing source code for the various data-specific presentations developed and used for the [Tam Anh Oxford Partnership (TOP)](https://tamri.vn/en/events/tam-anh-oxford-partnership/) capacity development courses.
+
+## About Tam Anh Oxford Partnership (TOP)
+
+## About the TOP Capacity Development Courses
+
+
+
+### Introduction to Research Design
 
 The **Introduction to Research Design** course was developed to support participants in:
 ​
@@ -23,7 +31,7 @@ Within this course, one day was allocated to the topic of *Research Data Managem
  
 &nbsp;
 
-## Data Concepts and Applications
+### Data Concepts and Applications
 
 **Course outline:** [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.html) | [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pptx) | [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pdf)
 
