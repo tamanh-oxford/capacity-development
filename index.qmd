@@ -7,8 +7,9 @@ format:
       body-width: 900px
       margin-width: 250px
       gutter-width: 1.5rem
-    toc: false
-    image: images/top_logo.jpg
+    toc: true
+    toc-location: left
+    embed-resources: true
 ---
 
 &nbsp;

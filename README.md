@@ -1,6 +1,18 @@
 # Tam Anh Oxford Partnership Data Capacity Development Courses <img src="images/top_logo.jpg" width="300" align="right" />
 
-## Introduction to Research Design
+This is an [R](https://www.r-project.org/)-based and [Quarto](https://quarto.org/)-powered repository containing source code for the various data-specific presentations developed and used for the [Tam Anh Oxford Partnership (TOP)](https://tamri.vn/en/events/tam-anh-oxford-partnership/) capacity development courses.
+
+## About Tam Anh Oxford Partnership (TOP)
+
+In January 2025, the [Tam Anh Research Institute](https://tamri.vn/en/) signed an MoU with the [International Health and Tropical Medicine Group](https://www.tropicalmedicine.ox.ac.uk/study-with-us/msc-ihtm), [Centre for Global Health Research](https://www.tropicalmedicine.ox.ac.uk/research/ndm-cghr), [Nuffield Department of Medicine](https://www.ndm.ox.ac.uk/), launching the start of an innovative partnership between one of Vietnam’s leading private healthcare and vaccine establishments and [Oxford University](https://ox.ac.uk). This is an exciting time for such a partnership given Vietnam’s rapid economic growth, epidemiological transition, and national prioritisation for healthcare innovations. This also aligns with the University’s agenda to cultivate strategic and equitable international partnerships to tackle global challenges.
+
+TOP aims to foster a sustainable, demand-driven partnership that sets a framework for collaboration, maximising local impact and generating global health insights with a focus on non-communicable diseases and innovations in preventive healthcare. Capacity sharing through expert exchanges and reciprocal training is at the heart of this alliance.
+
+TOP flips the traditional global health dynamic. Priorities are set by Vietnamese leadership to ensure that research is rooted in the needs of Vietnam’s healthcare system with funding provided by Vietnam’s growing private sector and evidence translated to national policies. This creates a powerful synergy with Oxford bringing global expertise, rigour, and integrity and Tam Anh bringing agility, innovation, and alignment with government to facilitate national policy adoption.
+
+## About the TOP Capacity Development Courses
+
+### Introduction to Research Design
 
 The **Introduction to Research Design** course was developed to support participants in:
 ​
@@ -23,7 +35,7 @@ Within this course, one day was allocated to the topic of *Research Data Managem
  
 &nbsp;
 
-## Data Concepts and Applications
+### Data Concepts and Applications
 
 **Course outline:** [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.html) | [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pptx) | [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pdf)
 
@@ -48,4 +60,27 @@ Within this course, one day was allocated to the topic of *Research Data Managem
 &nbsp;
 
 **All sessions slides combined** - [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/data_governance.pdf)
+
+## Reproducibility
+
+### System dependencies
+
+
+
+### R version
+
+This project is built using `R 4.5.2`. To manage R versions, it is recommended to use [`rig`](https://github.com/r-lib/rig) - an R installation manager - to be able to install multiple versions of R and switch between them as needed.
+
+### R package dependencies
+
+This project uses the `{renv}` framework to record R package dependencies and versions. Packages and versions used are recorded in `renv.lock` and code used to manage dependencies is in the `renv` directory and other files in the root project directory.
+
+On starting an R session in the working directory of this repository, first run 
+
+```R
+renv::restore()
+```
+
+to install R package dependencies. This is only done once when the project is being initiated for the first time by a user.
+
 
