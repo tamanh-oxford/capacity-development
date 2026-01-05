@@ -4,14 +4,13 @@ subtitle: Guiding Principles and Best Practices
 author:
   - name: Ernest Guevarra
     affiliations:
-      - Nuffield Department of Medicine
-      - University of Oxford
+      - name: University of Oxford
+        department: Nuffield Department of Medicine
   - name: Dr Minh Cong Tran
     affiliations:
-      - Nuffield Department of Medicine
-      - University of Oxford
-          
-title-slide-attributes: 
+      - name: University of Oxford
+        department: Nuffield Department of Medicine
+title-slide-attributes:
   data-background-color: "#002147"
 ---
 
