@@ -1,9 +1,11 @@
 # Tam Anh Oxford Partnership Data Capacity Development Courses <img src="images/top_logo.jpg" width="300" align="right" />
 
-[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active)
 ![version](https://img.shields.io/badge/version-0.0.0.9000-orange)
 [![License for code](https://img.shields.io/badge/license (for code)-GPL3.0-blue.svg)](https://opensource.org/licenses/gpl-3.0.html)
 [![License for text](https://img.shields.io/badge/license (for writing)-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/)
+[![test slides render](https://github.com/tamanh-oxford/capacity-development/actions/workflows/test-render.yml/badge.svg)](https://github.com/tamanh-oxford/capacity-development/actions/workflows/test-render.yml)
+[![Quarto publish](https://github.com/tamanh-oxford/capacity-development/actions/workflows/publish.yml/badge.svg)](https://github.com/tamanh-oxford/capacity-development/actions/workflows/publish.yml)
 
 
 This is an [R](https://www.r-project.org/)-based and [Quarto](https://quarto.org/)-powered repository containing source code for the various data-specific presentations developed and used for the [Tam Anh Oxford Partnership (TOP)](https://tamri.vn/en/events/tam-anh-oxford-partnership/) capacity development courses.
@@ -69,14 +71,21 @@ Within this course, one day was allocated to the topic of *Research Data Managem
 
 This project requires the following system dependencies:
 
-* `quarto`
+* `Quarto`
 
-This project uses the [`quarto`](https://quarto.org/) open-source scientific and technical publishing system. Instructions on how to download and install `quarto` can be found [here](https://quarto.org/docs/get-started/).
+This project uses the [`Quarto`](https://quarto.org/) open-source scientific and technical publishing system. Instructions on how to download and install `quarto` can be found [here](https://quarto.org/docs/get-started/).
+
+* `TeX`
+
+This project requires `TeX` for rendering PDF. It is recommended to use [`TinyTex`](https://yihui.org/tinytex/) for this purpose. Quarto provides a utility to install `TinyTex` via the following command on terminal:
+
+```bash
+quarto install tinytex
+```
 
 * `Google Chrome` or `Chromium`
 
 This project requires either `Google Chrome` or `Chromium` browser to be able to convert HTML files (used for the slide presentations) into PDF. Instructions on how to download and install `Google Chrome` can be found [here](https://support.google.com/chrome/answer/95346?hl=en-GB&co=GENIE.Platform%3DDesktop). Instructions on how to download and install `Chromium` can be found [here](https://www.chromium.org/getting-involved/download-chromium/).
-
 
 ### R version
 
@@ -93,5 +102,43 @@ renv::restore()
 ```
 
 to install R package dependencies. This is only done once when the project is being initiated for the first time by a user.
+
+### Rendering the presentations
+
+To render the HTML presentations/slide decks, run the following on terminal:
+
+```bash
+quarto render
+```
+
+To render the PDF versions of the presentations/slide decks, run the following on terminal:
+
+```bash
+Rscript -e "source('render_pdf.R')"
+```
+
+To ensure that the PDF versions are the most updated ones, render the HTML versions first before rendering the PDF versions. This is because the PDF versions are rendered from the HTML versions.
+
+## License
+
+All code in this project is released under a [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text) license. All text in this project is released under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license.
+
+## Citation
+
+If you use the code and text in this repository for your work/research, please cite this project accordingly. If you refer to any of the slides in this project, please cite the respective presentation accordingly. The suggested appropriate citation metadata for this project and the various presentations within is provided in [CITATION.cff](https://github.com/tamanh-oxford/capacity-development/blob/main/CITATION.cff).
+
+## Community guidelines
+
+Feedback, bug reports, and feature requests are welcome; file issues or seek support [here](https://github.com/tamanh-oxford/capacity-development/issues). If you would like to contribute to the project, please see our [contributing guidelines](https://github.com/tamanh-oxford/capacity-development/blob/main/.github/CONTRIBUTING.md).
+
+This project is released with a [Contributor Code of Conduct](https://github.com/tamanh-oxford/capacity-development/blob/main/.github/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
+
+
+
+
+
+
+
+
 
 
