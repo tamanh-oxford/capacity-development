@@ -1,16 +1,31 @@
 # Tam Anh Oxford Partnership Data Capacity Development Courses <img src="images/top_logo.jpg" width="300" align="right" />
 
-## Introduction to Research Methods
+## Introduction to Research Design
+
+The **Introduction to Research Design** course was developed to support participants in:
+​
+* Navigating peer-reviewed literature to inform research​;
+
+* Formulating research questions to address identified research gaps​;
+
+* Devising appropriate methodology to answer the research question(s)​;
+
+* Identifying (or planning the collection of) and managing data needed to address research question(s)​;
+
+* Characterising relevant ethical issues related to their research and devising mitigation plan​; and,
+
+* Engaging with different audiences to disseminate research outcomes.
+
+Within this course, one day was allocated to the topic of *Research Data Management*. Following is the presentation/slide deck used for that topic.
 
 **Topic:** Research Data Management    
-**Presentation:** [HTML](https://tamanh-oxford.github.io/capacity-development/data-management/index.html) [PPTX](data-management/index.pptx) [PDF](data-management/data_management.pdf)     
-**Description:** The **Introduction to Research Methods** course 
-
+**Presentation:** [HTML](https://tamanh-oxford.github.io/capacity-development/data-management/index.html) | [PPTX](data-management/index.pptx) | [PDF](data-management/data_management.pdf)     
+ 
 &nbsp;
 
 ## Data Concepts and Applications
 
-**Course outline:** [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pptx) [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pdf)
+**Course outline:** [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.html) | [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pptx) | [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pdf)
 
 &nbsp;
 
