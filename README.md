@@ -1,14 +1,16 @@
 # Tam Anh Oxford Partnership Data Capacity Development Courses <img src="images/top_logo.jpg" width="300" align="right" />
 
+[![Project Status: WIP – Initial development is in progress, but there has not yet been a stable, usable release suitable for the public.](https://www.repostatus.org/badges/latest/wip.svg)](https://www.repostatus.org/#wip)
+![version](https://img.shields.io/badge/version-0.0.0.9000-orange)
+[![License for code](https://img.shields.io/badge/license (for code)-GPL3.0-blue.svg)](https://opensource.org/licenses/gpl-3.0.html)
+[![License for text](https://img.shields.io/badge/license (for writing)-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/)
+
+
 This is an [R](https://www.r-project.org/)-based and [Quarto](https://quarto.org/)-powered repository containing source code for the various data-specific presentations developed and used for the [Tam Anh Oxford Partnership (TOP)](https://tamri.vn/en/events/tam-anh-oxford-partnership/) capacity development courses.
 
 ## About Tam Anh Oxford Partnership (TOP)
 
-In January 2025, the [Tam Anh Research Institute](https://tamri.vn/en/) signed an MoU with the [International Health and Tropical Medicine Group](https://www.tropicalmedicine.ox.ac.uk/study-with-us/msc-ihtm), [Centre for Global Health Research](https://www.tropicalmedicine.ox.ac.uk/research/ndm-cghr), [Nuffield Department of Medicine](https://www.ndm.ox.ac.uk/), launching the start of an innovative partnership between one of Vietnam’s leading private healthcare and vaccine establishments and [Oxford University](https://ox.ac.uk). This is an exciting time for such a partnership given Vietnam’s rapid economic growth, epidemiological transition, and national prioritisation for healthcare innovations. This also aligns with the University’s agenda to cultivate strategic and equitable international partnerships to tackle global challenges.
-
-TOP aims to foster a sustainable, demand-driven partnership that sets a framework for collaboration, maximising local impact and generating global health insights with a focus on non-communicable diseases and innovations in preventive healthcare. Capacity sharing through expert exchanges and reciprocal training is at the heart of this alliance.
-
-TOP flips the traditional global health dynamic. Priorities are set by Vietnamese leadership to ensure that research is rooted in the needs of Vietnam’s healthcare system with funding provided by Vietnam’s growing private sector and evidence translated to national policies. This creates a powerful synergy with Oxford bringing global expertise, rigour, and integrity and Tam Anh bringing agility, innovation, and alignment with government to facilitate national policy adoption.
+In January 2025, the [Tam Anh Research Institute](https://tamri.vn/en/) and the [International Health and Tropical Medicine Group](https://www.tropicalmedicine.ox.ac.uk/study-with-us/msc-ihtm), [Centre for Global Health Research](https://www.tropicalmedicine.ox.ac.uk/research/ndm-cghr), [Nuffield Department of Medicine](https://www.ndm.ox.ac.uk/) launched a new partnership. The collaboration aims to build a sustainable, demand-driven model focused on non-communicable diseases and preventive healthcare, with strong emphasis on capacity sharing through expert exchange and reciprocal training. Led by Vietnamese priorities and supported by local private-sector funding, the partnership seeks to ground research in Vietnam’s healthcare needs while leveraging Oxford’s global expertise to translate evidence into national policy, creating a balanced and innovative approach to global health collaboration.
 
 ## About the TOP Capacity Development Courses
 
@@ -65,6 +67,15 @@ Within this course, one day was allocated to the topic of *Research Data Managem
 
 ### System dependencies
 
+This project requires the following system dependencies:
+
+* `quarto`
+
+This project uses the [`quarto`](https://quarto.org/) open-source scientific and technical publishing system. Instructions on how to download and install `quarto` can be found [here](https://quarto.org/docs/get-started/).
+
+* `Google Chrome` or `Chromium`
+
+This project requires either `Google Chrome` or `Chromium` browser to be able to convert HTML files (used for the slide presentations) into PDF. Instructions on how to download and install `Google Chrome` can be found [here](https://support.google.com/chrome/answer/95346?hl=en-GB&co=GENIE.Platform%3DDesktop). Instructions on how to download and install `Chromium` can be found [here](https://www.chromium.org/getting-involved/download-chromium/).
 
 
 ### R version
