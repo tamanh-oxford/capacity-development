@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this repository to rebuild the presentations, please specifically cite the software using this metadata. If you reference the presentation/s, please cite the appropriate reference from preferred-citation."
+authors:
+  - family-names: Guevarra
+    given-names: Ernest
+    orcid: https://orcid.org/0000-0002-4887-4415
+title: "Tam Anh Oxford Partnership Data Capacity Development Courses"
+version: 0.0.0.9000
+date-released: 2026-01-06
+license: GPL-3.0
+repository-code: https://github.com/tamanh-oxford/capacity-development
+preferred-citation:
+  - authors:
+      - family-names: Guevarra
+        given-names: Ernest
+    title: "Session 1: Global landscape of data governance institutions and framework"
+    note: "[Revealjs presentation]"
+    url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/01-global-landscape.html
+    year: 2025
+    type: misc
+  - authors:
+      - family-names: Guevarra
+        given-names: Ernest
+    title: "Session 2: Case Study: The UK Data Landscape"
+    note: "[Revealjs presentation]"
+    url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/02-uk-landscape.html
+    year: 2025
+    type: misc
+
