@@ -5,11 +5,9 @@ authors:
     given-names: Ernest
     orcid: https://orcid.org/0000-0002-4887-4415
 title: "Tam Anh Oxford Partnership Data Capacity Development Courses"
-version: 0.0.0.9000
+version: 0.0.0.9001
 date-released: 2026-01-06
-license: 
-  - GPL-3.0
-  - CC-BY-NC-4.0
+license: GPL-3.0
 repository-code: https://github.com/tamanh-oxford/capacity-development
 identifiers:
   - type: doi
@@ -19,116 +17,129 @@ references:
       - family-names: Guevarra
         given-names: Ernest
     title: "Session 1: Global landscape of data governance institutions and framework"
-    note: "[Revealjs presentation]"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/01-global-landscape.html
-    month: Dec
     year: 2025
+    date-released: 2025-12-31
+    medium: "[Revealjs presentation]"
+    license: CC-BY-NC-4.0
     type: misc
   - authors:
       - family-names: Guevarra
         given-names: Ernest
     title: "Session 2: Case Study: The UK Data Landscape"
-    note: "[Revealjs presentation]"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/02-uk-landscape.html
-    month: Dec
     year: 2025
+    date-released: 2025-12-31
+    medium: "[Revealjs presentation]"
+    license: CC-BY-NC-4.0
     type: misc
   - authors:
       - family-names: Guevarra
         given-names: Ernest
-    title: "Session 3: Case Study: Singapore’s Smart Nation, Open Government Products, and Singapore Government Tech Stack"
-    note: "[Revealjs presentation]"
+    title: "Session 3: Case Study: Singapore's Smart Nation, Open Government Products, and Singapore Government Tech Stack"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/03-singapore-open-government.html
-    month: Dec
     year: 2025
+    date-released: 2025-12-31
+    medium: "[Revealjs presentation]"
+    license: CC-BY-NC-4.0
     type: misc
   - authors:
       - family-names: Guevarra
         given-names: Ernest
     title: "Session 4: Case Study: The United Nations and its technological and data challenges"
-    note: "[Revealjs presentation]"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/04-un-tech.html
-    month: Dec
     year: 2025
+    date-released: 2025-12-31
+    medium: "[Revealjs presentation]"
+    license: CC-BY-NC-4.0    
     type: misc
   - authors:
       - family-names: Guevarra
         given-names: Ernest
     title: "Session 5: Guiding principles on policymaking on national level data governance frameworks"
-    note: "[Revealjs presentation]"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/05-principles-poliycmaking.html
-    month: Dec
     year: 2025
+    date-released: 2025-12-31
+    medium: "[Revealjs presentation]"
+    license: CC-BY-NC-4.0
     type: misc
   - authors:
       - family-names: Guevarra
         given-names: Ernest
     title: "Session 6: Best practices in setting up and implementing data governance structures"
-    note: "[Revealjs presentation]"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/06-best-practice-data-governance.html
-    month: Dec
     year: 2025
+    date-released: 2025-12-31
+    medium: "[Revealjs presentation]"
+    license: CC-BY-NC-4.0
     type: misc
   - authors:
       - family-names: Guevarra
         given-names: Ernest
     title: "Session 7: Global landscape of available technologies for data"
-    note: "[Revealjs presentation]"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/07-global-landscape-technologies.html
-    month: Dec
     year: 2025
+    date-released: 2025-12-31
+    medium: "[Revealjs presentation]"
+    license: CC-BY-NC-4.0
     type: misc
   - authors:
       - family-names: Guevarra
         given-names: Ernest
     title: "Session 8: The landscape of technologies for data in Vietnam"
-    note: "[Revealjs presentation]"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/08-vietnam-landscape-technologies.html
-    month: Dec
     year: 2025
+    date-released: 2025-12-31
+    medium: "[Revealjs presentation]"
+    license: CC-BY-NC-4.0
     type: misc    
   - authors:
       - family-names: Guevarra
         given-names: Ernest
     title: "Session 9: Global landscape of human resources for data"
-    note: "[Revealjs presentation]"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/09-global-landscape-human-resources.html
-    month: Dec
     year: 2025
+    date-released: 2025-12-31
+    medium: "[Revealjs presentation]"
+    license: CC-BY-NC-4.0
     type: misc
   - authors:
       - family-names: Guevarra
         given-names: Ernest
     title: "Session 10: The landscape of human resources for data in Vietnam"
-    note: "[Revealjs presentation]"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/10-vietnam-landscape-human-resources.html
-    month: Dec
     year: 2025
+    date-released: 2025-12-31
+    medium: "[Revealjs presentation]"
+    license: CC-BY-NC-4.0
     type: misc
   - authors:
       - family-names: Guevarra
         given-names: Ernest
     title: "Session 11: Guiding principles and best practices for data capacity building"
-    note: "[Revealjs presentation]"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/11-best-practice-capacity-building.html
-    month: Dec
     year: 2025
+    date-released: 2025-12-31
+    medium: "[Revealjs presentation]"
+    license: CC-BY-NC-4.0
     type: misc
   - authors:
       - family-names: Guevarra
         given-names: Ernest
     title: "Session 12: Financing data governance"
-    note: "[Revealjs presentation]"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/12-financing-data.html
-    month: Dec
     year: 2025
+    date-released: 2025-12-31
+    medium: "[Revealjs presentation]"
+    license: CC-BY-NC-4.0
     type: misc
   - authors:
       - family-names: Guevarra
         given-names: Ernest
     title: "Session 13: Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam"
-    note: "[Revealjs presentation]"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/13-manager-personas.html
-    month: Dec
     year: 2025
+    date-released: 2025-12-31
+    medium: "[Revealjs presentation]"
+    license: CC-BY-NC-4.0
     type: misc
