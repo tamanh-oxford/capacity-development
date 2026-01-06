@@ -12,9 +12,17 @@ format:
     embed-resources: true
 ---
 
-&nbsp;
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) ![version](https://img.shields.io/badge/version-0.0.0.9000-orange) [![License for code](https://img.shields.io/badge/license_(for%20code)-GPL3.0-blue)](https://opensource.org/licenses/gpl-3.0.html) [![License for text](https://img.shields.io/badge/license_(for%20writing)-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/)
 
-## Introduction to Research Methods
+## About Tam Anh Oxford Partnership (TOP)
+
+In January 2025, the [Tam Anh Research Institute](https://tamri.vn/en/) and the [International Health and Tropical Medicine Group](https://www.tropicalmedicine.ox.ac.uk/study-with-us/msc-ihtm), [Centre for Global Health Research](https://www.tropicalmedicine.ox.ac.uk/research/ndm-cghr), [Nuffield Department of Medicine](https://www.ndm.ox.ac.uk/) launched a new partnership.
+The collaboration aims to build a sustainable, demand-driven model focused on non-communicable diseases and preventive healthcare, with strong emphasis on capacity sharing through expert exchange and reciprocal training.
+Led by Vietnamese priorities and supported by local private-sector funding, the partnership seeks to ground research in Vietnam’s healthcare needs while leveraging Oxford’s global expertise to translate evidence into national policy, creating a balanced and innovative approach to global health collaboration.
+
+## About the TOP Capacity Development Courses
+
+### Introduction to Research Methods
 
 The **Introduction to Research Design** course was developed to support participants in:
 
@@ -37,7 +45,7 @@ Within this course, one day was allocated to the topic of *Research Data Managem
 
 &nbsp;
 
-## Data Concepts and Applications
+### Data Concepts and Applications
 
 **Course outline:** [HTML](data-frameworks/course-outline.html){.external target="_blank"} | [PPTX](data-frameworks/course-outline.pptx) | [PDF](data-frameworks/course-outline.pdf)
 
