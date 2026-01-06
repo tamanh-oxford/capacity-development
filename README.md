@@ -1,6 +1,6 @@
 # Tam Anh Oxford Partnership Data Capacity Development Courses <img src="images/top_logo.jpg" width="300" align="right"/>
 
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) ![version](https://img.shields.io/badge/version-0.0.0.9000-orange) [![License for code](https://img.shields.io/badge/license_(for%20code)-GPL3.0-blue)](https://opensource.org/licenses/gpl-3.0.html) [![License for text](https://img.shields.io/badge/license_(for%20writing)-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/) [![test slides render](https://github.com/tamanh-oxford/capacity-development/actions/workflows/test-render.yml/badge.svg)](https://github.com/tamanh-oxford/capacity-development/actions/workflows/test-render.yml) [![Quarto publish](https://github.com/tamanh-oxford/capacity-development/actions/workflows/publish.yml/badge.svg)](https://github.com/tamanh-oxford/capacity-development/actions/workflows/publish.yml) [![DOI](https://zenodo.org/badge/1101904454.svg)](https://doi.org/10.5281/zenodo.18161537)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) ![version](https://img.shields.io/badge/version-0.0.0.9001-orange) [![License for code](https://img.shields.io/badge/license_(for%20code)-GPL3.0-blue)](https://opensource.org/licenses/gpl-3.0.html) [![License for text](https://img.shields.io/badge/license_(for%20writing)-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/) [![test slides render](https://github.com/tamanh-oxford/capacity-development/actions/workflows/test-render.yml/badge.svg)](https://github.com/tamanh-oxford/capacity-development/actions/workflows/test-render.yml) [![Quarto publish](https://github.com/tamanh-oxford/capacity-development/actions/workflows/publish.yml/badge.svg)](https://github.com/tamanh-oxford/capacity-development/actions/workflows/publish.yml) [![DOI](https://zenodo.org/badge/1101904454.svg)](https://doi.org/10.5281/zenodo.18161537)
 
 This is an [R](https://www.r-project.org/)-based and [Quarto](https://quarto.org/)-powered repository containing source code for the various data-specific presentations developed and used for the [Tam Anh Oxford Partnership (TOP)](https://tamri.vn/en/events/tam-anh-oxford-partnership/) capacity development courses.
 
@@ -130,9 +130,9 @@ All text in this project is released under a [CC-BY-4.0](https://creativecommons
 
 ## Citation
 
-If you use the code and text in this repository for your work/research, please cite this project accordingly.
-If you refer to any of the slides in this project, please cite the respective presentation accordingly.
 The suggested appropriate citation metadata for this project and the various presentations within is provided in [CITATION.cff](https://github.com/tamanh-oxford/capacity-development/blob/main/CITATION.cff).
+If you use the code and text in this repository for your work/research, please cite this project using the software metadata found in [CITATION.cff](https://github.com/tamanh-oxford/capacity-development/blob/main/CITATION.cff).
+If you refer to any of the slides in this project, please cite the respective presentation/s accordingly using the `references` metadata found in [CITATION.cff](https://github.com/tamanh-oxford/capacity-development/blob/main/CITATION.cff).
 
 ## Community guidelines
 

@@ -12,7 +12,7 @@ format:
     embed-resources: true
 ---
 
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) ![version](https://img.shields.io/badge/version-0.0.0.9000-orange) [![License for code](https://img.shields.io/badge/license_(for%20code)-GPL3.0-blue)](https://opensource.org/licenses/gpl-3.0.html) [![License for text](https://img.shields.io/badge/license_(for%20writing)-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/1101904454.svg)](https://doi.org/10.5281/zenodo.18161537)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) ![version](https://img.shields.io/badge/version-0.0.0.9001-orange) [![License for code](https://img.shields.io/badge/license_(for%20code)-GPL3.0-blue)](https://opensource.org/licenses/gpl-3.0.html) [![License for text](https://img.shields.io/badge/license_(for%20writing)-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/) [![DOI](https://zenodo.org/badge/1101904454.svg)](https://doi.org/10.5281/zenodo.18161537)
 
 ## About Tam Anh Oxford Partnership (TOP)
 
