@@ -1,6 +1,9 @@
 project:
   title: "capacity-development"
   output-dir: _site
+  render:
+    - "*.qmd"
+    - "!LICENSE.md"
 
 format:
   revealjs: 
