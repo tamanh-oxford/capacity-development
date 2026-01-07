@@ -20,6 +20,7 @@ references:
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/01-global-landscape.html
     year: 2025
     date-released: 2025-12-31
+    doi: 10.5281/zenodo.18176881
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
     type: misc
@@ -30,6 +31,7 @@ references:
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/02-uk-landscape.html
     year: 2025
     date-released: 2025-12-31
+    doi: 10.5281/zenodo.18176886
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
     type: misc
@@ -40,6 +42,7 @@ references:
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/03-singapore-open-government.html
     year: 2025
     date-released: 2025-12-31
+    doi: 10.5281/zenodo.18176890
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
     type: misc
@@ -50,6 +53,7 @@ references:
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/04-un-tech.html
     year: 2025
     date-released: 2025-12-31
+    doi: 10.5281/zenodo.18176894
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0    
     type: misc
@@ -60,6 +64,7 @@ references:
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/05-principles-poliycmaking.html
     year: 2025
     date-released: 2025-12-31
+    doi: 10.5281/zenodo.18176896
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
     type: misc
@@ -70,6 +75,7 @@ references:
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/06-best-practice-data-governance.html
     year: 2025
     date-released: 2025-12-31
+    doi: 10.5281/zenodo.18176900
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
     type: misc
@@ -80,6 +86,7 @@ references:
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/07-global-landscape-technologies.html
     year: 2025
     date-released: 2025-12-31
+    doi: 10.5281/zenodo.18176902
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
     type: misc
@@ -90,6 +97,7 @@ references:
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/08-vietnam-landscape-technologies.html
     year: 2025
     date-released: 2025-12-31
+    doi: 10.5281/zenodo.18176904
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
     type: misc    
@@ -100,6 +108,7 @@ references:
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/09-global-landscape-human-resources.html
     year: 2025
     date-released: 2025-12-31
+    doi: 10.5281/zenodo.18176906
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
     type: misc
@@ -110,6 +119,7 @@ references:
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/10-vietnam-landscape-human-resources.html
     year: 2025
     date-released: 2025-12-31
+    doi: 10.5281/zenodo.18176910
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
     type: misc
@@ -120,6 +130,7 @@ references:
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/11-best-practice-capacity-building.html
     year: 2025
     date-released: 2025-12-31
+    doi: 10.5281/zenodo.18176912
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
     type: misc
@@ -130,6 +141,7 @@ references:
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/12-financing-data.html
     year: 2025
     date-released: 2025-12-31
+    doi: 10.5281/zenodo.18176914
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
     type: misc
@@ -140,6 +152,7 @@ references:
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/13-manager-personas.html
     year: 2025
     date-released: 2025-12-31
+    doi: 10.5281/zenodo.18176919
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
     type: misc
