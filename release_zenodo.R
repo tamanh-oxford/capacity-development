@@ -8,7 +8,7 @@ pdfs <- list.files(
   recursive = TRUE, 
   full.names = TRUE
 ) |>
-  grepv(pattern = "course-outline|data_governance", invert = TRUE)
+  grepv(pattern = "course-outline|data_governance|data_management", invert = TRUE)
 
 
 ## Create metadata for the presentations ----
@@ -69,7 +69,7 @@ zenodo_license <- "CC-BY-NC-4.0"
 
 creator <- list(
   list(
-    name = "Ernest Guevarra",
+    name = "Guevarra, Ernest",
     affiliation = "University of Oxford",
     orcid = "https://orcid.org/0000-0002-4887-4415"
   )
@@ -77,51 +77,74 @@ creator <- list(
 
 contributor <- list(
   list(
-    name = "Tran Cong Minh",
+    name = "Trần Công, Minh",
     type = "Editor",
     affiliation = "University of Oxford",
     orcid = "https://orcid.org/0000-0003-2622-1365"
   ),
   list(
-    name = "Chu Tấn Huy",
+    name = "Chu Tấn, Huy",
     type = "Editor",
     affiliation = "Tâm Anh Research Institute"
   ),
   list(
-    name = "Đinh Thị Thu Huyền",
+    name = "Đinh Thị Thu, Huyền",
     type = "Editor",
     affiliation = "Tâm Anh Research Institute"
   ),
   list(
-    name = "Phương Lễ Trí",
+    name = "Phương Lễ, Trí",
     type = "ProjectLeader",
     affiliation = "Tâm Anh Research Institute"    
   ),
   list(
-    name = "Dr Proochista Ariana",
+    name = "Ariana, Proochista",
     type = "ProjectLeader",
     affiliation = "University of Oxford",
     orcid = "https://orcid.org/0000-0002-0154-2237"
   )
 )
 
-cli <- deposits::depositsClient$new(service = "zenodo", sandbox = FALSE)
-
-cli$deposit_fill_metadata(
-  metadata = list(
-    title = zenodo_title[[1]],
-    abstract = abstract[[1]],
-    created = zenodo_date[[1]],
-    creator = creator,
-    contributor = contributor,
-    format = zenodo_format,
-    license = zenodo_license
-  )
+metadata <- rep(
+  list(
+    list(
+      title = NULL, 
+      abstract = NULL, 
+      issued = NULL, 
+      creator = NULL, 
+      contributor = NULL, 
+      format = NULL, 
+      license = NULL
+    )
+  ), 
+  13
 )
 
-cli$deposit_new()
+for (i in seq_len(length(metadata))) {
+  metadata[[i]]$title       <- zenodo_title[[i]]
+  metadata[[i]]$abstract    <- abstract[[i]]
+  metadata[[i]]$issued      <- zenodo_date[[i]]
+  metadata[[i]]$creator     <- creator
+  metadata[[i]]$contributor <- contributor
+  metadata[[i]]$format      <- zenodo_format
+  metadata[[i]]$license     <- zenodo_license
+}
 
-cli$deposit_upload_file(path = pdfs[1])
+
+cli <- deposits::depositsClient$new(service = "zenodo", sandbox = FALSE)
+
+Map(
+  f = function(x, y) {
+    cli$deposit_fill_metadata(metadata = x)
+    cli$deposit_new()
+    cli$deposit_upload_file(path = y)
+  },
+  x = metadata,
+  y = pdfs
+)
+
+
+
 
 
 
