@@ -1,6 +1,6 @@
 # Setup Zenodo release uploads -------------------------------------------------
 
-## Get list and organise PDF files for upload ----
+## Get list and organise data frameworks PDF files for upload ----
 
 pdfs <- list.files(
   path = "_site", 
@@ -11,7 +11,7 @@ pdfs <- list.files(
   grepv(pattern = "course-outline|data_governance|data_management", invert = TRUE)
 
 
-## Create metadata for the presentations ----
+## Create metadata for the data frameworks presentations ----
 
 ### Abstract ----
 
@@ -31,6 +31,8 @@ abstract <- list(
   session13 = "Personas for the successful building and implementation of data governance structures and frameworks represent the key roles and stakeholders needed to turn policy into practice. They typically include senior leaders who set vision and provide authority, data stewards and owners who ensure data quality and accountability, technical experts who design and maintain systems, legal and ethics specialists who safeguard rights and compliance, and end users who apply data responsibly to generate value. Clearly defining these personas helps clarify responsibilities, align incentives, and foster collaboration across institutions, ensuring that data governance frameworks are both effective and sustainable."
 )
 
+### Title ----
+
 zenodo_title <- list(
   session1  = "Session 1: Global landscape of data governance institutions and frameworks",
   session2  = "Session 2: Case Study: The UK Data Landscape",
@@ -47,25 +49,7 @@ zenodo_title <- list(
   session13 = "Session 13: Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam"
 )
 
-zenodo_date <- list(
-  session1  = "2025-12-29",
-  session2  = "2025-12-29",
-  session3  = "2025-12-29",
-  session4  = "2025-12-29",
-  session5  = "2025-12-29",
-  session6  = "2025-12-29",
-  session7  = "2025-12-30",
-  session8  = "2025-12-30",
-  session9  = "2025-12-30",
-  session10 = "2025-12-30",
-  session11 = "2025-12-31",
-  session12 = "2025-12-31",
-  session13 = "2025-12-31"
-)
-
-zenodo_format <- "presentation"
-
-zenodo_license <- "CC-BY-NC-4.0"
+### Creator ----
 
 creator <- list(
   list(
@@ -74,6 +58,8 @@ creator <- list(
     orcid = "https://orcid.org/0000-0002-4887-4415"
   )
 )
+
+### Contributor ----
 
 contributor <- list(
   list(
@@ -105,46 +91,121 @@ contributor <- list(
   )
 )
 
+### Create a dummy metadata object ----
+
 metadata <- rep(
   list(
     list(
       title = NULL, 
       abstract = NULL, 
-      issued = NULL, 
+      issued = Sys.Date(),
       creator = NULL, 
       contributor = NULL, 
-      format = NULL, 
-      license = NULL
+      format = "presentation", 
+      license = "CC-BY-NC-4.0"
     )
   ), 
   13
 )
 
+### Fill in metadata information in metadata object ----
+
 for (i in seq_len(length(metadata))) {
   metadata[[i]]$title       <- zenodo_title[[i]]
   metadata[[i]]$abstract    <- abstract[[i]]
-  metadata[[i]]$issued      <- zenodo_date[[i]]
   metadata[[i]]$creator     <- creator
   metadata[[i]]$contributor <- contributor
-  metadata[[i]]$format      <- zenodo_format
-  metadata[[i]]$license     <- zenodo_license
 }
 
 
+## Create new client for Zenodo ----
+
 cli <- deposits::depositsClient$new(service = "zenodo", sandbox = FALSE)
 
+
+## Send metadata and resource/s to Zenodo ----
+
 Map(
-  f = function(x, y) {
+  f = function(cli, x, y) {
     cli$deposit_fill_metadata(metadata = x)
     cli$deposit_new()
     cli$deposit_upload_file(path = y)
   },
+  cli = cli,
   x = metadata,
   y = pdfs
 )
 
+## Get list and organise data management PDF file for upload ----
+
+pdfs <- list.files(
+  path = "_site/data-management", 
+  pattern = "pdf",
+  full.names = TRUE
+)
+
+## Create metadata for the data frameworks presentations ----
+
+metadata <- list(
+  title = "Research Data Management: Guiding Principles and Best Practices", 
+  abstract = "Research data management is guided by principles that promote data quality, integrity, accessibility, and responsible use throughout the research lifecycle. Best practices include planning for data management from the outset, using standards and metadata to ensure documentation and reproducibility, and applying the FAIR principles so data are findable, accessible, interoperable, and reusable. Strong attention is also given to ethical considerations, privacy, and intellectual property, alongside secure storage and long-term preservation. Together, these practices support transparent, efficient, and trustworthy research, enabling data to be shared and reused for greater scientific and societal impact.",
+  created = "2025-12-24",
+  issued = "2026-01-07",
+  creator = list(
+    list(
+      name = "Guevarra, Ernest",
+      affiliation = "University of Oxford",
+      orcid = "https://orcid.org/0000-0002-4887-4415"
+    ),
+    list(
+      name = "Trần Công, Minh",
+      affiliation = "University of Oxford",
+      orcid = "https://orcid.org/0000-0003-2622-1365"
+    )
+  ),
+  contributor = list(
+    list(
+      name = "Trần Đào, Quyên",
+      type = "Editor",
+      affiliation = "University of Oxford"
+    ),
+    list(
+      name = "Chu Tấn, Huy",
+      type = "Editor",
+      affiliation = "Tâm Anh Research Institute"
+    ),
+    list(
+      name = "Đinh Thị Thu, Huyền",
+      type = "Editor",
+      affiliation = "Tâm Anh Research Institute"
+    ),
+    list(
+      name = "Phương Lễ, Trí",
+      type = "ProjectLeader",
+      affiliation = "Tâm Anh Research Institute"    
+    ),
+    list(
+      name = "Ariana, Proochista",
+      type = "ProjectLeader",
+      affiliation = "University of Oxford",
+      orcid = "https://orcid.org/0000-0002-0154-2237"
+    )
+  ), 
+  format = "presentation", 
+  license = "CC-BY-NC-4.0"
+)
 
 
+## Create new client for Zenodo ----
+
+cli <- deposits::depositsClient$new(service = "zenodo", sandbox = FALSE)
+
+
+## Send metadata and resource/s to Zenodo ----
+
+cli$deposit_fill_metadata(metadata = metadata)
+cli$deposit_new()
+cli$deposit_upload_file(path = pdfs)
 
 
 

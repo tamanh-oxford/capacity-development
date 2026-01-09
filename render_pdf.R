@@ -28,7 +28,9 @@ pdf_files <- list.files(
   path = "_site/data-frameworks",
   pattern ="pdf",
   full.names = TRUE
-)
+) |>
+  grepv(pattern = "data_governance", invert = TRUE) |>
+  (\(x) x[c(14, 1:13)])()
 
 qpdf::pdf_combine(
   input = pdf_files, output = "_site/data-frameworks/data_governance.pdf"
