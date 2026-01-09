@@ -5,8 +5,8 @@ authors:
     given-names: Ernest
     orcid: https://orcid.org/0000-0002-4887-4415
 title: "Tam Anh Oxford Partnership Data Capacity Development Courses"
-version: 0.0.0.9001
-date-released: 2026-01-06
+version: 0.0.0.9002
+date-released: 2026-01-08
 license: GPL-3.0
 repository-code: https://github.com/tamanh-oxford/capacity-development
 identifiers:
@@ -16,10 +16,23 @@ references:
   - authors:
       - family-names: Guevarra
         given-names: Ernest
+      - family-names: Trần Công
+        given-names: Minh
+    title: "Research Data Management: Guiding Principles and Best Practices"
+    url: https://tamanh-oxford.github.io/capacity-development/data-management
+    year: 2025
+    date-released: 2025-12-24
+    doi: 10.5281/zenodo.18196405
+    medium: "[Revealjs presentation]"
+    license: CC-BY-NC-4.0
+    type: misc    
+  - authors:
+      - family-names: Guevarra
+        given-names: Ernest
     title: "Session 1: Global landscape of data governance institutions and framework"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/01-global-landscape.html
     year: 2025
-    date-released: 2025-12-31
+    date-released: 2025-12-29
     doi: 10.5281/zenodo.18176881
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
@@ -30,7 +43,7 @@ references:
     title: "Session 2: Case Study: The UK Data Landscape"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/02-uk-landscape.html
     year: 2025
-    date-released: 2025-12-31
+    date-released: 2025-12-29
     doi: 10.5281/zenodo.18176886
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
@@ -41,7 +54,7 @@ references:
     title: "Session 3: Case Study: Singapore's Smart Nation, Open Government Products, and Singapore Government Tech Stack"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/03-singapore-open-government.html
     year: 2025
-    date-released: 2025-12-31
+    date-released: 2025-12-29
     doi: 10.5281/zenodo.18176890
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
@@ -52,7 +65,7 @@ references:
     title: "Session 4: Case Study: The United Nations and its technological and data challenges"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/04-un-tech.html
     year: 2025
-    date-released: 2025-12-31
+    date-released: 2025-12-29
     doi: 10.5281/zenodo.18176894
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0    
@@ -63,7 +76,7 @@ references:
     title: "Session 5: Guiding principles on policymaking on national level data governance frameworks"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/05-principles-poliycmaking.html
     year: 2025
-    date-released: 2025-12-31
+    date-released: 2025-12-29
     doi: 10.5281/zenodo.18176896
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
@@ -74,7 +87,7 @@ references:
     title: "Session 6: Best practices in setting up and implementing data governance structures"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/06-best-practice-data-governance.html
     year: 2025
-    date-released: 2025-12-31
+    date-released: 2025-12-29
     doi: 10.5281/zenodo.18176900
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
@@ -85,7 +98,7 @@ references:
     title: "Session 7: Global landscape of available technologies for data"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/07-global-landscape-technologies.html
     year: 2025
-    date-released: 2025-12-31
+    date-released: 2025-12-30
     doi: 10.5281/zenodo.18176902
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
@@ -96,7 +109,7 @@ references:
     title: "Session 8: The landscape of technologies for data in Vietnam"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/08-vietnam-landscape-technologies.html
     year: 2025
-    date-released: 2025-12-31
+    date-released: 2025-12-30
     doi: 10.5281/zenodo.18176904
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
@@ -107,7 +120,7 @@ references:
     title: "Session 9: Global landscape of human resources for data"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/09-global-landscape-human-resources.html
     year: 2025
-    date-released: 2025-12-31
+    date-released: 2025-12-30
     doi: 10.5281/zenodo.18176906
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
@@ -118,7 +131,7 @@ references:
     title: "Session 10: The landscape of human resources for data in Vietnam"
     url: https://tamanh-oxford.github.io/capacity-development/data-frameworks/10-vietnam-landscape-human-resources.html
     year: 2025
-    date-released: 2025-12-31
+    date-released: 2025-12-30
     doi: 10.5281/zenodo.18176910
     medium: "[Revealjs presentation]"
     license: CC-BY-NC-4.0
