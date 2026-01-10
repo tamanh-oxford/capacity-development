@@ -1,6 +1,6 @@
 # Tam Anh Oxford Partnership Data Capacity Development Courses <img src="images/top_logo.jpg" width="300" align="right"/>
 
-[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) ![version](https://img.shields.io/badge/version-0.0.0.9002-orange) [![License for code](https://img.shields.io/badge/license_(for%20code)-GPL3.0-blue)](https://opensource.org/licenses/gpl-3.0.html) [![License for text](https://img.shields.io/badge/license_(for%20writing)-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/) [![test slides render](https://github.com/tamanh-oxford/capacity-development/actions/workflows/test-render.yml/badge.svg)](https://github.com/tamanh-oxford/capacity-development/actions/workflows/test-render.yml) [![Quarto publish](https://github.com/tamanh-oxford/capacity-development/actions/workflows/publish.yml/badge.svg)](https://github.com/tamanh-oxford/capacity-development/actions/workflows/publish.yml) [![DOI](https://zenodo.org/badge/1101904454.svg)](https://doi.org/10.5281/zenodo.18161537)
+[![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](https://www.repostatus.org/badges/latest/active.svg)](https://www.repostatus.org/#active) ![version](https://img.shields.io/badge/version-0.0.0.9003-orange) [![License for code](https://img.shields.io/badge/license_(for%20code)-GPL3.0-blue)](https://opensource.org/licenses/gpl-3.0.html) [![License for text](https://img.shields.io/badge/license_(for%20writing)-CC_BY_4.0-blue)](https://creativecommons.org/licenses/by/4.0/) [![test slides render](https://github.com/tamanh-oxford/capacity-development/actions/workflows/test-render.yml/badge.svg)](https://github.com/tamanh-oxford/capacity-development/actions/workflows/test-render.yml) [![Quarto publish](https://github.com/tamanh-oxford/capacity-development/actions/workflows/publish.yml/badge.svg)](https://github.com/tamanh-oxford/capacity-development/actions/workflows/publish.yml) [![DOI](https://zenodo.org/badge/1101904454.svg)](https://doi.org/10.5281/zenodo.18161537)
 
 This is an [R](https://www.r-project.org/)-based and [Quarto](https://quarto.org/)-powered repository containing source code for the various data-specific presentations developed and used for the [Tam Anh Oxford Partnership (TOP)](https://tamri.vn/en/events/tam-anh-oxford-partnership/) capacity development courses.
 
@@ -39,7 +39,8 @@ Following is the presentation/slide deck used for that topic.
 
 #### Research Data Management
 
-Presentation/Slide deck: [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-management/index.html){.external target="_blank"} [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)] [![Static Badge](https://img.shields.io/badge/view-PDF-red?style=for-the-badge)](https://tamanh-oxford.github.io/data-management/data_management.pdf)
+Presentation/Slide deck: [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-management/index.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-management/index.pptx)
+[![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18196405)
 
 ### Data Concepts and Applications
 
@@ -61,28 +62,30 @@ The following core topics were covered:
 
 -   Build networks across management and leadership levels for collaborative governance.
 
+#### Course outline
 
-**Course outline:** [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.html) \| [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pptx) \| [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pdf)
+Presentation/Slide deck: [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pptx)
+[![Static Badge](https://img.shields.io/badge/view-PDF-red?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/course-outline.pdf)
 
  
 
 | **Session** | **Links** |
 |:-----------------------------------|:-----------------------------------|
-| **Session 1:** Global landscape of data governance institutions and framework | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/01-global-landscape.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/01-global-landscape.pptx) [PDF](https://doi.org/10.5281/zenodo.18176881) |
-| **Session 2:** Case Study: The UK Data Landscape | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/02-uk-landscape.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/02-uk-landscape.pptx) [PDF](https://doi.org/10.5281/zenodo.18176886) |
-| **Session 3:** Case Study: Singapore’s Smart Nation, Open Government Products, and Singapore Government Tech Stack | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/03-singapore-open-government.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/03-singapore-open-government.pptx) [PDF](https://doi.org/10.5281/zenodo.18176890) |
-| **Session 4:** Case Study: The United Nations and its technological and data challenges | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/04-un-tech.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/04-un-tech.pptx) [PDF](https://doi.org/10.5281/zenodo.18176894) |
-| **Session 5:** Guiding principles on policymaking on national level data governance frameworks | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/05-principles-poliycmaking.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/05-principles-poliycmaking.pptx) [PDF](https://doi.org/10.5281/zenodo.18176896) |
-| **Session 6:** Best practices in setting up and implementing data governance structures | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/06-best-practice-data-governance.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/06-best-practice-data-governance.pptx) [PDF](https://doi.org/10.5281/zenodo.18176900) |
-| **Session 7:** Global landscape of available technologies for data | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/07-global-landscape-technologies.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/07-global-landscape-technologies.pptx) [PDF](https://doi.org/10.5281/zenodo.18176902) |
-| **Session 8:** The landscape of technologies for data in Vietnam | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/08-vietnam-landscape-technologies.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/08-vietnam-landscape-technologies.pptx) [PDF](https://doi.org/10.5281/zenodo.18176904) |
-| **Session 9:** Global landscape of human resources for data | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/09-global-landscape-human-resources.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/09-global-landscape-human-resources.pptx) [PDF](https://doi.org/10.5281/zenodo.18176906) |
-| **Session 10:** The landscape of human resources for data in Vietnam | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/10-vietnam-landscape-human-resources.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/10-vietnam-landscape-human-resources.pptx) [PDF](https://doi.org/10.5281/zenodo.18176910) |
-| **Session 11:** Guiding principles and best practices for data capacity building | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/11-best-practice-capacity-building.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/11-best-practice-capacity-building.pptx) [PDF](https://doi.org/10.5281/zenodo.18176912) |
-| **Session 12:** Financing data governance | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/12-financing-data.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/12-financing-data.pptx) [POF](https://doi.org/10.5281/zenodo.18176914) |
-| **Session 13:** Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam | [HTML](https://tamanh-oxford.github.io/capacity-development/data-frameworks/13-manager-personas.html) [PPTX](https://tamanh-oxford.github.io/capacity-development/data-frameworks/13-manager-personas.pptx) [PDF](https://doi.org/10.5281/zenodo.18176919) |
+| **Session 1:** Global landscape of data governance institutions and framework | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/01-global-landscape.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/01-global-landscape.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176881) |
+| **Session 2:** Case Study: The UK Data Landscape | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/02-uk-landscape.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/02-uk-landscape.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176886) |
+| **Session 3:** Case Study: Singapore’s Smart Nation, Open Government Products, and Singapore Government Tech Stack | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/03-singapore-open-government.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/03-singapore-open-government.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176890) |
+| **Session 4:** Case Study: The United Nations and its technological and data challenges | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/04-un-tech.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/04-un-tech.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176894) |
+| **Session 5:** Guiding principles on policymaking on national level data governance frameworks | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/05-principles-poliycmaking.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/05-principles-poliycmaking.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176896) |
+| **Session 6:** Best practices in setting up and implementing data governance structures | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/06-best-practice-data-governance.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/06-best-practice-data-governance.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176900) |
+| **Session 7:** Global landscape of available technologies for data | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/07-global-landscape-technologies.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/07-global-landscape-technologies.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176902) |
+| **Session 8:** The landscape of technologies for data in Vietnam | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/08-vietnam-landscape-technologies.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/08-vietnam-landscape-technologies.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176904) |
+| **Session 9:** Global landscape of human resources for data | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/09-global-landscape-human-resources.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/09-global-landscape-human-resources.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176906) |
+| **Session 10:** The landscape of human resources for data in Vietnam | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/10-vietnam-landscape-human-resources.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/10-vietnam-landscape-human-resources.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176910) |
+| **Session 11:** Guiding principles and best practices for data capacity building | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/11-best-practice-capacity-building.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/11-best-practice-capacity-building.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176912) |
+| **Session 12:** Financing data governance | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/12-financing-data.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/12-financing-data.pptx) [POF](https://doi.org/10.5281/zenodo.18176914) |
+| **Session 13:** Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/13-manager-personas.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/13-manager-personas.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176919) |
 
-**All sessions slides combined** - [PDF](https://tamanh-oxford.github.io/capacity-development/data-frameworks/data_governance.pdf)
+**All sessions slides combined:** [![Static Badge](https://img.shields.io/badge/view-PDF-red?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/data_governance.pdf)
 
 ## Reproducibility
 
@@ -147,23 +150,94 @@ Rscript -e "source('render_pdf.R')"
 To ensure that the PDF versions are the most updated ones, render the HTML versions first before rendering the PDF versions.
 This is because the PDF versions are rendered from the HTML versions.
 
+## Contributors
+
+### Trần Đào Quyên
+
+Tâm Anh Oxford Partnership (TOP) Strategic Programme Lead\
+University of Oxford
+
+-   Editor and co-facilitator of the session on *Research Data Management* for the *Introduction to Research Design* course.
+
+### Trần Công Minh
+
+Tâm Anh Oxford Partnership (TOP) Senior Research Fellow for Innovation\
+University of Oxford
+
+-   Author of session on *Research Data Management* for the *Introduction to Research Design* course.
+
+-   Editor and co-facilitator of the sessions for the *Data Concepts and Applications for Managers* course.
+
+### Đinh Thị Thu Huyền
+
+Tâm Anh Research Institute
+
+-   Editor and co-facilitator of the session on *Research Data Management* for the *Introduction to Research Design* course.
+
+-   Editor and co-facilitator of the sessions for the *Data Concepts and Applications for Managers* course.
+
+### Chu Tấn Huy
+
+Tâm Anh Research Institute
+
+-   Editor and co-facilitator of the session on *Research Data Management* for the *Introduction to Research Design* course.
+
+-   Editor and co-facilitator of the sessions for the *Data Concepts and Applications for Managers* course.
+
+### Ernest Guevarra
+
+Senior Research and Teaching Associate\
+University of Oxford
+
+-   Author and facilitator of the session on *Research Data Management* for the *Introduction to Research Design* course.
+
+-   Author and facilitator of the sessions for the *Data Concepts and Applications for Managers* course.
+
+-   Author of source code for all session presentations/slide decks.
+
+### Proochista Ariana
+
+Associate Professor / Tâm Anh Oxford Partnership Programme Director\
+University of Oxford
+
+-   Capacity development project lead
+
+-   Editor of the session on *Research Data Management* for the *Introduction to Research Design* course.
+
+-   Editor of the sessions for the *Data Concepts and Applications for Managers* course.
+
+-   Co-facilitator of *Session 13: Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam* for the *Data Concepts and Applications for Managers* course.
+
+### Phương Lễ Trí
+
+Chief Operating Officer\
+Tâm Anh Research Institute
+
+-   Capacity development project lead
+
 ## License
 
-All code in this project is released under a [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text) license.
+All presentations/slide decks are released under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license.
 
-All text in this project is released under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license.
+[Source code](https://github.com/tamanh-oxford/capacity-development) developed to produce the various presentations/slide decks are released under a [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text) license.
 
 ## Citation
 
-The suggested appropriate citation metadata for this project and the various presentations within is provided in [CITATION.cff](https://github.com/tamanh-oxford/capacity-development/blob/main/CITATION.cff).
+### Citing the HTML presentations/slide decks
 
-If you use the code and text in this repository for your work/research, please cite this project using the software metadata found in [CITATION.cff](https://github.com/tamanh-oxford/capacity-development/blob/main/CITATION.cff).
+If you refer to/use the HTML presentations/slide decks for your work or research, please cite the appropriate presentation/slide deck using the metadata available from the [CITATION.cff](https://github.com/tamanh-oxford/capacity-development/blob/main/CITATION.cff) under the `references` tag.
 
-If you refer to any of the slides in this project, please cite the respective presentation/s accordingly using the metadata found in [CITATION.cff](https://github.com/tamanh-oxford/capacity-development/blob/main/CITATION.cff) under the `references` tag.
+### Citing the PDF presentations/slide decks
+
+If you refer to/use the PDF presentations/slide decks for your work or research, please cite the appropriate presentation/slide deck using the metadata available from their respective Zenodo digital object identifiers (DOIs).
+
+### Citing the source code
+
+If you use the [source code](https://github.com/tamanh-oxford/capacity-development) developed to produce the various presentations/slide decks, please use the software metadata found in [CITATION.cff](https://github.com/tamanh-oxford/capacity-development/blob/main/CITATION.cff).
 
 ## Community guidelines
 
-Feedback, bug reports, and feature requests are welcome; file issues or seek support [here](https://github.com/tamanh-oxford/capacity-development/issues).
+Feedback, comments, and content requests are welcome; file issues or seek support [here](https://github.com/tamanh-oxford/capacity-development/issues).
 If you would like to contribute to the project, please see our [contributing guidelines](https://github.com/tamanh-oxford/capacity-development/blob/main/.github/CONTRIBUTING.md).
 
 This project is released with a [Contributor Code of Conduct](https://github.com/tamanh-oxford/capacity-development/blob/main/.github/CODE_OF_CONDUCT.md).
