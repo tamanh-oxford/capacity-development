@@ -182,6 +182,8 @@ If you use the [source code](https://github.com/tamanh-oxford/capacity-developme
 Feedback, comments, and content requests are welcome; file issues or seek support [here](https://github.com/tamanh-oxford/capacity-development/issues).
 If you would like to contribute to the development of these materials, please see our [contributing guidelines](https://github.com/tamanh-oxford/capacity-development/blob/main/.github/CONTRIBUTING.md).
 
-This project is released with a [Contributor Code of Conduct](https://github.com/tamanh-oxford/capacity-development/blob/main/.github/CODE_OF_CONDUCT.md).
-By participating in this project you agree to abide by its terms.
+Participants to the data capacity development courses are also welcome to join the [Data for Decision Makers](https://d4dm.org) community of practice on data and its use for transformative change. This is an online community that mainly organises and communicates via [Zulip](https://zulip.com/) chat. You can join and participate in the general community of practice through this [link](https://d4dm.zulipchat.com/join/w27up2ve4us2lwyyeck3pjay/).
+
+This project and its community is governed by a [Contributor Code of Conduct](https://github.com/tamanh-oxford/capacity-development/blob/main/.github/CODE_OF_CONDUCT.md).
+By participating in this project/community you agree to abide by its terms.
 
