@@ -8,7 +8,8 @@ pdfs <- list.files(
   pattern = "pdf",
   recursive = TRUE, 
   full.names = TRUE
-)
+) |>
+  grepv(pattern = "data_governance", invert = TRUE)
 
 ppts <- list.files(
   path = "_site", 
