@@ -22,7 +22,7 @@ jobs:
         run: |
           apt-get update && apt-get install -y --no-install-recommends \
           libxt6 libglpk-dev gh curl jq rsync libjpeg-dev libcurl4-openssl-dev \
-          libssl-dev
+          libssl-dev libxslt1-dev
 
       - name: Install Chrome
         run: |
