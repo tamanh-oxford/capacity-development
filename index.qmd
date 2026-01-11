@@ -1,34 +1,24 @@
 ---
-title: "Tam Anh Oxford Partnership Data Capacity Development Courses"
-format:
-  html:
-    theme: zephyr
-    css: styles.css
-    grid:
-      sidebar-width: 250px
-      body-width: 900px
-      margin-width: 250px
-      gutter-width: 1.5rem
-    toc: true
-    toc-depth: 4
-    toc-location: left
-    embed-resources: true
+title: "Tâm Anh Oxford Partnership Data Capacity Development Courses"
+page-layout: full
+section-divs: false
+toc: false
 ---
 
-## About Tam Anh Oxford Partnership (TOP)
+## About Tam Anh Oxford Partnership (TOP) {#sec-about-top}
 
 <img src="images/top_logo.jpg" width="300" align="right"/>
 
-In January 2025, the [Tam Anh Research Institute](https://tamri.vn/en/) and the [International Health and Tropical Medicine Group](https://www.tropicalmedicine.ox.ac.uk/study-with-us/msc-ihtm), [Centre for Global Health Research](https://www.tropicalmedicine.ox.ac.uk/research/ndm-cghr), [Nuffield Department of Medicine](https://www.ndm.ox.ac.uk/) launched a new partnership.
+In January 2025, the [Tâm Anh Research Institute](https://tamri.vn/en/) and the [International Health and Tropical Medicine Group](https://www.tropicalmedicine.ox.ac.uk/study-with-us/msc-ihtm), [Centre for Global Health Research](https://www.tropicalmedicine.ox.ac.uk/research/ndm-cghr), [Nuffield Department of Medicine](https://www.ndm.ox.ac.uk/) launched a new partnership.
 The collaboration aims to build a sustainable, demand-driven model focused on non-communicable diseases and preventive healthcare, with strong emphasis on capacity sharing through expert exchange and reciprocal training.
 Led by Vietnamese priorities and supported by local private-sector funding, the partnership seeks to ground research in Vietnam’s healthcare needs while leveraging Oxford’s global expertise to translate evidence into national policy, creating a balanced and innovative approach to global health collaboration.
 
-## About the TOP Capacity Development Courses
+## About the TOP Capacity Development Courses {#sec-about-top-courses}
 
-The [Tam Anh Oxford Partnership (TOP)](https://tamri.vn/en/events/tam-anh-oxford-partnership/) has organised intensive training courses on strengthening research capacity and data governance for scientists and managers in Vietnam.
+The [Tâm Anh Oxford Partnership (TOP)](https://tamri.vn/en/events/tam-anh-oxford-partnership/) has organised intensive training courses on strengthening research capacity and data governance for scientists and managers in Vietnam.
 The first set of these training courses were on *Introduction to Research Design* and on *Data Concepts and Applications*.
 
-### Introduction to Research Design
+### Introduction to Research Design {#sec-research-design-course}
 
 This course is a foundational training programme that aims to strengthen core research capacity among healthcare professionals.
 Upon completion, participants will be able to proactively propose ideas, design and implement high-quality studies grounded in solid scientific principles, ethical standards, data governance and methodological rigour.
@@ -55,7 +45,7 @@ Following is the presentation/slide deck presented for that topic.
 Presentation/Slide deck: [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-management/index.html){.external target="_blank"} [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-management/index.pptx)
 [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18196405){.external target="_blank"}
 
-### Data Concepts and Applications
+### Data Concepts and Applications {#sec-data-concepts-applications}
 
 In a context where data is increasingly becoming the foundation of all management and operational decision-making, managers must not only understand data but also be able to use it systematically and strategically.
 The course "Data Concepts and Applications for Managers" is specifically designed for mid-level managers and leaders.
@@ -75,12 +65,12 @@ The following core topics were covered:
 
 -   Build networks across management and leadership levels for collaborative governance.
 
-#### Course outline
+#### Course outline {#sec-data-course-outline}
 
 Presentation/Slide deck: [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/course-outline.html){.external target="_blank"} [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/course-outline.pptx)
 [![Static Badge](https://img.shields.io/badge/view-PDF-red?style=for-the-badge)](data-frameworks/course-outline.pdf)
 
-#### Sessions
+#### Sessions {#sec-data-course-sessions}
 
 | **Session** | **Links** |
 |:-----------------------------------|:-----------------------------------|
@@ -100,90 +90,97 @@ Presentation/Slide deck: [![Static Badge](https://img.shields.io/badge/view-HTML
 
 **All sessions slides combined:** [![Static Badge](https://img.shields.io/badge/view-PDF-red?style=for-the-badge)](data-frameworks/data_governance.pdf)
 
-## Contributors
+## Contributors {#sec-top-contributors}
 
-### Trần Đào Quyên
-Tâm Anh Oxford Partnership (TOP) Strategic Programme Lead     
-University of Oxford     
+### Trần Đào Quyên {#sec-contributor-quyen}
 
-* Editor and co-facilitator of the session on *Research Data Management* for the *Introduction to Research Design* course.
-
-### Trần Công Minh
-Tâm Anh Oxford Partnership (TOP) Senior Research Fellow for Innovation     
+Tâm Anh Oxford Partnership (TOP) Strategic Programme Lead\
 University of Oxford
 
-* Author of session on *Research Data Management* for the *Introduction to Research Design* course.
+-   Editor and co-facilitator of the session on *Research Data Management* for the *Introduction to Research Design* course.
 
-* Editor and co-facilitator of the sessions for the *Data Concepts and Applications for Managers* course.
+### Trần Công Minh {#sec-contributor-minh}
 
-### Đinh Thị Thu Huyền
-Tâm Anh Research Institute
-
-* Editor and co-facilitator of the session on *Research Data Management* for the *Introduction to Research Design* course.
-
-* Editor and co-facilitator of the sessions for the *Data Concepts and Applications for Managers* course.
-
-### Chu Tấn Huy
-Tâm Anh Research Institute
-
-* Editor and co-facilitator of the session on *Research Data Management* for the *Introduction to Research Design* course.
-
-* Editor and co-facilitator of the sessions for the *Data Concepts and Applications for Managers* course.
-
-### Ernest Guevarra
-Senior Research and Teaching Associate     
+Tâm Anh Oxford Partnership (TOP) Senior Research Fellow for Innovation\
 University of Oxford
 
-* Author and facilitator of the session on *Research Data Management* for the *Introduction to Research Design* course.
+-   Author of session on *Research Data Management* for the *Introduction to Research Design* course.
 
-* Author and facilitator of the sessions for the *Data Concepts and Applications for Managers* course.
+-   Editor and co-facilitator of the sessions for the *Data Concepts and Applications for Managers* course.
 
-### Proochista Ariana
-Associate Professor / Tâm Anh Oxford Partnership Programme Director     
-University of Oxford
+### Đinh Thị Thu Huyền {#sec-contributor-huyen}
 
-* Capacity development project lead
-
-* Editor of the session on *Research Data Management* for the *Introduction to Research Design* course.
-
-* Editor of the sessions for the *Data Concepts and Applications for Managers* course.
-
-* Co-facilitator of *Session 13: Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam* for the *Data Concepts and Applications for Managers* course.
-
-### Phương Lễ Trí
-Chief Operating Officer     
 Tâm Anh Research Institute
 
-* Capacity development project lead
+-   Editor and co-facilitator of the session on *Research Data Management* for the *Introduction to Research Design* course.
 
-## License
+-   Editor and co-facilitator of the sessions for the *Data Concepts and Applications for Managers* course.
+
+### Chu Tấn Huy {#sec-contributor-huy}
+
+Tâm Anh Research Institute
+
+-   Editor and co-facilitator of the session on *Research Data Management* for the *Introduction to Research Design* course.
+
+-   Editor and co-facilitator of the sessions for the *Data Concepts and Applications for Managers* course.
+
+### Ernest Guevarra {#sec-contributor-ernest}
+
+Senior Research and Teaching Associate\
+University of Oxford
+
+-   Author and facilitator of the session on *Research Data Management* for the *Introduction to Research Design* course.
+
+-   Author and facilitator of the sessions for the *Data Concepts and Applications for Managers* course.
+
+### Proochista Ariana {#sec-contributor-proochista}
+
+Associate Professor / Tâm Anh Oxford Partnership Programme Director\
+University of Oxford
+
+-   Capacity development project lead
+
+-   Editor of the session on *Research Data Management* for the *Introduction to Research Design* course.
+
+-   Editor of the sessions for the *Data Concepts and Applications for Managers* course.
+
+-   Co-facilitator of *Session 13: Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam* for the *Data Concepts and Applications for Managers* course.
+
+### Phương Lễ Trí {#sec-contributor-tri}
+
+Chief Operating Officer\
+Tâm Anh Research Institute
+
+-   Capacity development project lead
+
+## License {#sec-license}
 
 All presentations/slide decks are released under a [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en) license.
 
 [Source code](https://github.com/tamanh-oxford/capacity-development) developed to produce the various presentations/slide decks are released under a [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text) license.
 
-## Citation
+## Citation {#sec-citation}
 
-### Citing the HTML presentations/slide decks
+### Citing the HTML presentations/slide decks {#sec-citation-html}
 
 If you refer to/use the HTML presentations/slide decks for your work or research, please cite the appropriate presentation/slide deck using the metadata available from the [CITATION.cff](https://github.com/tamanh-oxford/capacity-development/blob/main/CITATION.cff) under the `references` tag.
 
-
-### Citing the PDF presentations/slide decks
+### Citing the PDF presentations/slide decks {#sec-citation-pdf}
 
 If you refer to/use the PDF presentations/slide decks for your work or research, please cite the appropriate presentation/slide deck using the metadata available from their respective Zenodo digital object identifiers (DOIs).
 
-### Citing the source code
+### Citing the source code {#sec-citation-source-code}
 
 If you use the [source code](https://github.com/tamanh-oxford/capacity-development) developed to produce the various presentations/slide decks, please use the software metadata found in [CITATION.cff](https://github.com/tamanh-oxford/capacity-development/blob/main/CITATION.cff).
 
-## Community guidelines
+## Community guidelines {#sec-community}
 
 Feedback, comments, and content requests are welcome; file issues or seek support [here](https://github.com/tamanh-oxford/capacity-development/issues).
 If you would like to contribute to the development of these materials, please see our [contributing guidelines](https://github.com/tamanh-oxford/capacity-development/blob/main/.github/CONTRIBUTING.md).
 
-Participants to the data capacity development courses are also welcome to join the [Data for Decision Makers](https://d4dm.org) community of practice on data and its use for transformative change. This is an online community that mainly organises and communicates via [Zulip](https://zulip.com/) chat. You can join and participate in the general community of practice through this [link](https://d4dm.zulipchat.com/join/w27up2ve4us2lwyyeck3pjay/).
+Participants to the data capacity development courses are also welcome to join the [Data for Decision Makers](https://d4dm.org) community of practice on data and its use for transformative change.
+This is an online community that mainly organises and communicates via [Zulip](https://zulip.com/) chat.
+You can join and participate in the general community of practice through this [link](https://d4dm.zulipchat.com/join/w27up2ve4us2lwyyeck3pjay/).
 
 This project and its community is governed by a [Contributor Code of Conduct](https://github.com/tamanh-oxford/capacity-development/blob/main/.github/CODE_OF_CONDUCT.md).
 By participating in this project/community you agree to abide by its terms.
-
