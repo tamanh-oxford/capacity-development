@@ -47,8 +47,10 @@ jobs:
           renv::restore()
         shell: Rscript {0}
         
-      - name: Render slides
-        run: quarto render
+      - name: Render multilingual slides
+        run: |
+          babelquarto::render_website()
+        shell: Rscript {0}
 
       - name: Render slides to PDF
         run: |
