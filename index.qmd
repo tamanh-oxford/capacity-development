@@ -28,7 +28,7 @@ Led by Vietnamese priorities and supported by local private-sector funding, the 
 The [Tam Anh Oxford Partnership (TOP)](https://tamri.vn/en/events/tam-anh-oxford-partnership/) has organised intensive training courses on strengthening research capacity and data governance for scientists and managers in Vietnam.
 The first set of these training courses were on *Introduction to Research Design* and on *Data Concepts and Applications*.
 
-### Introduction to Research Methods
+### Introduction to Research Design
 
 This course is a foundational training programme that aims to strengthen core research capacity among healthcare professionals.
 Upon completion, participants will be able to proactively propose ideas, design and implement high-quality studies grounded in solid scientific principles, ethical standards, data governance and methodological rigour.
