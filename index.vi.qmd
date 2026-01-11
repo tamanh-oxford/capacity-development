@@ -1,0 +1,186 @@
+---
+title: Các khóa đào tạo phát triển năng lực dữ liệu của Hợp tác Tâm Anh Oxford
+page-layout: full
+section-divs: false
+toc: false
+---
+
+## Về Đối tác Tam Anh Oxford (TOP) {#sec-about-top}
+
+<img src="images/top_logo.jpg" width="300" align="right"/>
+
+Vào tháng 1 năm 2025, [Viện nghiên cứu Tâm Anh](https://tamri.vn/en/) và [International Health and Tropical Medicine Group](https://www.tropicalmedicine.ox.ac.uk/study-with-us/msc-ihtm), [Centre for Global Health Research](https://www.tropicalmedicine.ox.ac.uk/research/ndm-cghr), [Nuffield Department of Medicine](https://www.ndm.ox.ac.uk/) đã khởi động một hợp tác mới.
+Mục tiêu của hợp tác này là xây dựng một mô hình bền vững, dựa trên nhu cầu, tập trung vào các bệnh không lây nhiễm và chăm sóc sức khỏe phòng ngừa, với trọng tâm mạnh mẽ vào chia sẻ năng lực thông qua trao đổi chuyên gia và đào tạo lẫn nhau.
+Dưới sự dẫn dắt của các ưu tiên của Việt Nam và được hỗ trợ bởi nguồn vốn từ khu vực tư nhân địa phương, hợp tác này nhằm gắn kết nghiên cứu với nhu cầu chăm sóc sức khỏe của Việt Nam đồng thời tận dụng chuyên môn toàn cầu của Oxford để chuyển đổi bằng chứng thành chính sách quốc gia, tạo ra một cách tiếp cận cân bằng và sáng tạo cho hợp tác y tế toàn cầu.
+
+## Về các khóa đào tạo phát triển năng lực TOP {#sec-about-top-courses}
+
+[Hợp tác Tâm Anh Oxford](https://tamri.vn/en/events/tam-anh-oxford-partnership/) đã tổ chức các khóa đào tạo chuyên sâu về nâng cao năng lực nghiên cứu và quản trị dữ liệu cho các nhà khoa học và quản lý tại Việt Nam.
+Đợt đầu tiên của các khóa đào tạo này tập trung vào*"Giới thiệu về Thiết kế Nghiên cứu*" và "*Khái niệm và Ứng dụng Dữ liệu*".
+
+### Giới thiệu về Thiết kế Nghiên cứu {#sec-research-design-course}
+
+Khóa học này là chương trình đào tạo cơ bản nhằm nâng cao năng lực nghiên cứu cốt lõi cho các chuyên gia y tế.
+Sau khi hoàn thành, các học viên sẽ có khả năng chủ động đề xuất ý tưởng, thiết kế và triển khai các nghiên cứu chất lượng cao dựa trên các nguyên tắc khoa học vững chắc, tiêu chuẩn đạo đức, quản trị dữ liệu và tính nghiêm ngặt phương pháp luận.
+
+Khóahọc **Giới thiệu về Thiết kế Nghiên cứu** được phát triển để hỗ trợ học viên trong:
+
+-   Tìm kiếm và phân tích tài liệu khoa học đã được đánh giá ngang hàng để định hướng nghiên cứu;
+
+-   Xác định câu hỏi nghiên cứu để giải quyết các khoảng trống nghiên cứu đã xác định;
+
+-   Xác định phương pháp nghiên cứu phù hợp để trả lời câu hỏi nghiên cứu;
+
+-   Xác định hoặc lập kế hoạch thu thập và quản lý dữ liệu cần thiết để giải quyết câu hỏi nghiên cứu;
+
+-   Xác định các vấn đề đạo đức liên quan đến nghiên cứu của họ và thiết kế kế hoạch giảm thiểu rủi ro; và,
+
+-   Tương tác với các đối tượng khác nhau để phổ biến kết quả nghiên cứu.
+
+Trong khóa học này, một ngày được dành cho chủ đề *Quản lý Dữ liệu Nghiên cứu*.
+Dưới đây là bài thuyết trình/bộ slide được trình bày cho chủ đề này.
+
+#### Quản lý dữ liệu nghiên cứu {#sec-data-concepts-applications}
+
+Bản trình bày/Bộ slide:[![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-management/index.html){.external target="_blank"}[![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-management/index.pptx)
+[![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18196405){.external target="_blank"}
+
+### Khái niệm và Ứng dụng Dữ liệu
+
+Trong bối cảnh dữ liệu ngày càng trở thành nền tảng của mọi quyết định quản lý và vận hành, các nhà quản lý không chỉ cần hiểu dữ liệu mà còn phải có khả năng sử dụng nó một cách hệ thống và chiến lược.
+Khóa học "Khái niệm và Ứng dụng Dữ liệu cho Nhà Quản lý" được thiết kế riêng cho các nhà quản lý cấp trung và lãnh đạo.
+Khóa học cung cấp nền tảng vững chắc về dữ liệu, khung quản trị dữ liệu và các ứng dụng thực tiễn, giúp các nhà quản lý xây dựng, vận hành và giám sát các hệ thống dữ liệu đáng tin cậy, tạo nền tảng cho việc ra quyết định chính xác, minh bạch và bền vững.
+
+Các chủ đề chính sau đây đã được đề cập:
+
+-   Phân tích các mô hình quản trị dữ liệu toàn cầu và khu vực;
+
+-   Xác định khoảng cách trong sự sẵn sàng về công nghệ và nguồn nhân lực của Việt Nam đối với dữ liệu;
+
+-   Xây dựng chiến lược để kết nối chính sách và thực tiễn;
+
+-   Áp dụng các nguyên tắc hướng dẫn cho các khung quản trị dữ liệu đạo đức và bền vững;
+
+-   Tăng cường năng lực tổ chức (cán bộ quản lý) và năng lực giám sát quốc gia (lãnh đạo); và,
+
+-   Xây dựng mạng lưới liên kết giữa các cấp quản lý và lãnh đạo để thực hiện quản trị hợp tác.
+
+#### Nội dung khóa học {#sec-data-course-outline}
+
+Bài thuyết trình/Bộ slide:[![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/course-outline.html){.external target="_blank"}[![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/course-outline.pptx)
+[![Static Badge](https://img.shields.io/badge/view-PDF-red?style=for-the-badge)](data-frameworks/course-outline.pdf)
+
+#### Các buổi học {#sec-data-course-sessions}
+
+| **Phiên họp** | **Liên kết** |
+|:---------------------------------------------------|:-------------------|
+| **Buổi 1:** Bối cảnh toàn cầu về các cơ quan và khung khổ quản trị dữ liệu | [![Biểu tượng tĩnh](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/01-global-landscape.html){.external target="_blank"}[![Biểu tượng tĩnh](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/01-global-landscape.pptx)[![Biểu tượng tĩnh](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176881){.external target="_blank"} |
+| **Phiên họp 2:** Nghiên cứu trường hợp: Bối cảnh dữ liệu của Vương quốc Anh | [![Biểu tượng tĩnh](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/02-uk-landscape.html){.external target="_blank"}[![Biểu tượng tĩnh](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/02-uk-landscape.pptx)[![Biểu tượng tĩnh](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176886){.external target="_blank"} |
+| **Phiên 3:** Nghiên cứu trường hợp: Quốc gia thông minh Singapore, Sản phẩm Chính phủ Mở và Hệ thống Công nghệ Chính phủ Singapore | [![Biểu tượng tĩnh](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/03-singapore-open-government.html){.external target="_blank"}[![Biểu tượng tĩnh](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/03-singapore-open-government.pptx)[![Biểu tượng tĩnh](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176890){.external target="_blank"} |
+| **Phiên 4:** Nghiên cứu trường hợp: Liên Hợp Quốc và các thách thức công nghệ và dữ liệu | [![Biểu tượng tĩnh](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/04-un-tech.html){.external target="_blank"}[![Biểu tượng tĩnh](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/04-un-tech.pptx)[![Biểu tượng tĩnh](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176894){.external target="_blank"} |
+| **Phiên 5:** Nguyên tắc hướng dẫn về xây dựng khung quản trị dữ liệu cấp quốc gia | [![Biểu tượng tĩnh](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/05-principles-poliycmaking.html){.external target="_blank"}[![Biểu tượng tĩnh](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/05-principles-poliycmaking.pptx)[![Biểu tượng tĩnh](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176896){.external target="_blank"} |
+| **Phiên 6:** Các thực hành tốt nhất trong việc thiết lập và triển khai cấu trúc quản trị dữ liệu | [![Biểu tượng tĩnh](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/06-best-practice-data-governance.html){.external target="_blank"}[![Biểu tượng tĩnh](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/06-best-practice-data-governance.pptx)[![Biểu tượng tĩnh](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176900){.external target="_blank"} |
+| **Phiên 7:** Bối cảnh toàn cầu về các công nghệ sẵn có cho dữ liệu | [![Biểu tượng tĩnh](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/07-global-landscape-technologies.html){.external target="_blank"}[![Biểu tượng tĩnh](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/07-global-landscape-technologies.pptx)[![Biểu tượng tĩnh](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176902){.external target="_blank"} |
+| **Phiên 8:** Bối cảnh công nghệ dữ liệu tại Việt Nam | [![Biểu tượng tĩnh](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/08-vietnam-landscape-technologies.html){.external target="_blank"}[![Biểu tượng tĩnh](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/08-vietnam-landscape-technologies.pptx)[![Biểu tượng tĩnh](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176904){.external target="_blank"} |
+| **Phiên 9:** Cảnh quan toàn cầu về nguồn nhân lực cho dữ liệu | [![Biểu tượng tĩnh](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/09-global-landscape-human-resources.html){.external target="_blank"}[![Biểu tượng tĩnh](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/09-global-landscape-human-resources.pptx)[![Biểu tượng tĩnh](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176906){.external target="_blank"} |
+| **Phiên họp 10:** Bối cảnh nguồn nhân lực cho dữ liệu tại Việt Nam | [![Biểu tượng tĩnh](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/10-vietnam-landscape-human-resources.html){.external target="_blank"}[![Biểu tượng tĩnh](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/10-vietnam-landscape-human-resources.pptx)[![Biểu tượng tĩnh](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176910){.external target="_blank"} |
+| **Phiên 11:** Nguyên tắc hướng dẫn và thực hành tốt nhất cho việc xây dựng năng lực dữ liệu | [![Biểu tượng tĩnh](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/11-best-practice-capacity-building.html){.external target="_blank"}[![Biểu tượng tĩnh](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/11-best-practice-capacity-building.pptx)[![Biểu tượng tĩnh](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176912){.external target="_blank"} |
+| **Phiên 12:** Tài trợ cho quản trị dữ liệu | [![Biểu tượng tĩnh](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/12-financing-data.html){.external target="_blank"}[![Biểu tượng tĩnh](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/12-financing-data.pptx)[![Biểu tượng tĩnh](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176914){.external target="_blank"} |
+| **Phiên họp 13:** Hình mẫu quản lý cho việc xây dựng và triển khai thành công các cấu trúc và khung quản trị dữ liệu cho Việt Nam | [![Biểu tượng tĩnh](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/13-manager-personas.html){.external target="_blank"}[![Biểu tượng tĩnh](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/13-manager-personas.pptx)[![Biểu tượng tĩnh](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176919){.external target="_blank"} |
+
+**Tất cả các slide của các phiên họp kết hợp:** [![Biểu tượng tĩnh](https://img.shields.io/badge/view-PDF-red?style=for-the-badge)](data-frameworks/data_governance.pdf)
+
+## Người đóng góp {#sec-top-contributors}
+
+### Trần Đào Quyên {#sec-contributor-quyen}
+
+Hợp tác Tâm Anh Oxford Trưởng chương trình chiến lược\
+Đại học Oxford
+
+-   Biên tập viên và đồng điều phối viên của buổi học về *Quản lý Dữ liệu Nghiên cứu* trong khóahọc *Giới thiệu về Thiết kế Nghiên cứu*.
+
+### Trần Công Minh {#sec-contributor-minh}
+
+Hợp tác Tâm Anh Oxford Nghiên cứu viên cao cấp về đổi mới sáng tạo\
+Đại học Oxford
+
+-   Tác giả của phiên thảo luận về *Quản lý Dữ liệu Nghiên cứu* trongkhóa học *Giới thiệu về Thiết kế Nghiên cứu*.
+
+-   Biên tập viên và đồng điều phối viên các buổi học cho khóahọc *Khái niệm và Ứng dụng Dữ liệu cho Nhà quản lý*.
+
+### Đinh Thị Thu Huyền {#sec-contributor-huyen}
+
+Viện nghiên cứu Tâm Anh
+
+-   Chủ biên và đồng điều phối viên của buổi học về *Quản lý Dữ liệu Nghiên cứu* trongkhóa học *Giới thiệu về Thiết kế Nghiên cứu*.
+
+-   Biên tập viên và đồng điều phối viên các buổi học cho khóahọc *Khái niệm và Ứng dụng Dữ liệu cho Nhà quản lý*.
+
+### Chu Tấn Huy {#sec-contributor-huy}
+
+Viện Nghiên cứu Tâm Anh
+
+-   Chủ biên và đồng điều phối viên của buổi học về *Quản lý Dữ liệu Nghiên cứu* trongkhóa học *Giới thiệu về Thiết kế Nghiên cứu*.
+
+-   Biên tập viên và đồng điều phối viên các buổi học cho khóahọc *Khái niệm và Ứng dụng Dữ liệu cho Nhà quản lý*.
+
+### Ernest Guevarra {#sec-contributor-ernest}
+
+Giảng viên nghiên cứu và giảng dạy cao cấp tại\
+Đại học Oxford
+
+-   Tác giả và điều phối viên của buổi học về *Quản lý Dữ liệu Nghiên cứu* trongkhóa học *Giới thiệu về Thiết kế Nghiên cứu*.
+
+-   Tác giả và điều phối viên của các buổi học trongkhóa học *Khái niệm và Ứng dụng Dữ liệu cho Quản lý*.
+
+### Proochista Ariana {#sec-contributor-proochista}
+
+Giáo sư Phụ tá / Giám đốc Chương trình Hợp tác\
+Tâm Anh Oxford,Đại học Oxford
+
+-   Trưởng dự án phát triển năng lực
+
+-   Biên tập viên của buổi học về *Quản lý Dữ liệu Nghiên cứu* trongkhóa học *Giới thiệu về Thiết kế Nghiên cứu*.
+
+-   Biên tập viên các buổi học cho khóahọc *Khái niệm và Ứng dụng Dữ liệu cho Nhà quản lý*.
+
+-   Đồng điều phối viên của *Phiên 13: Hình mẫu quản lý cho việc xây dựng và triển khai thành công các cấu trúc và khung quản trị dữ liệu cho Việt Nam* trongKhóa học *Khái niệm và Ứng dụng Dữ liệu cho Quản lý*.
+
+### Phương Lễ Trí {#sec-contributor-tri}
+
+Giám đốc Điều hành\
+Viện Nghiên cứu Tâm Anh
+
+-   Trưởng dự án phát triển năng lực
+
+## Giấy phép {#sec-license}
+
+Tất cả các bài thuyết trình/bộ slide đều được phát hành theo giấyphép [CC-BY-4.0](https://creativecommons.org/licenses/by/4.0/deed.en).
+
+[Mã nguồn](https://github.com/tamanh-oxford/capacity-development)được phát triển để tạo ra các bài thuyết trình/bộ slide được phát hành theo giấyphép [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html#license-text).
+
+## Trích dẫn {#sec-citation}
+
+### Trích dẫn các bài thuyết trình/bộ slide HTML {#sec-citation-html}
+
+Nếu bạn tham khảo/sử dụng các bài thuyết trình/bộ slide HTML cho công việc hoặc nghiên cứu của mình, vui lòng trích dẫn bài thuyết trình/bộ slide tương ứng bằng cách sử dụng metadata có sẵn từ tệp [CITATION.cff](https://github.com/tamanh-oxford/capacity-development/blob/main/CITATION.cff) dướithẻ `references`.
+
+### Trích dẫn các bản trình bày/bộ slide PDF {#sec-citation-pdf}
+
+Nếu bạn tham khảo/sử dụng các bản trình bày PDF/bộ slide cho công việc hoặc nghiên cứu của mình, vui lòng trích dẫn bản trình bày/bộ slide tương ứng bằng cách sử dụng metadata có sẵn từ các mã định danh đối tượng kỹ thuật số (DOI) của Zenodo tương ứng.
+
+### Trích dẫn mã nguồn {#sec-citation-source-code}
+
+Nếu bạn sử dụng [mãnguồn](https://github.com/tamanh-oxford/capacity-development) được phát triển để tạo ra các bài thuyết trình/bộ slide khác nhau, vui lòng sử dụng metadata phần mềm có trong [CITATION.cff](https://github.com/tamanh-oxford/capacity-development/blob/main/CITATION.cff).
+
+## Hướng dẫn cộng đồng {sec-community}
+
+Phản hồi, bình luận và yêu cầu nội dung đều được hoan nghênh; vui lòng báo cáo vấn đề hoặc yêu cầu hỗ trợ [tại đây](https://github.com/tamanh-oxford/capacity-development/issues).
+Nếu bạn muốn đóng góp vào việc phát triển các tài liệu này, vui lòng tham khảo [hướng dẫn đóng góp](https://github.com/tamanh-oxford/capacity-development/blob/main/.github/CONTRIBUTING.md) của chúng tôi.
+
+Các học viên tham gia các khóa đào tạo phát triển năng lực dữ liệu cũng được mời tham giaCộng đồng Thực hành [Dữliệu cho Người Ra Quyết Định](https://d4dm.org) về dữ liệu và việc sử dụng dữ liệu cho sự thay đổi mang tính chuyển đổi.
+Đây là một cộng đồng trực tuyến chủ yếu tổ chức và giao tiếp qua [Zulip](https://zulip.com/) chat.
+Bạn có thể tham gia và tham gia vào cộng đồng thực hành chung qua [liên kết](https://d4dm.zulipchat.com/join/w27up2ve4us2lwyyeck3pjay/) này.
+
+Dự án này và cộng đồng của nó được điều hành bởi Quy [tắc Ứng xử choNgười đóng góp](https://github.com/tamanh-oxford/capacity-development/blob/main/.github/CODE_OF_CONDUCT.md).
+Bằng việc tham gia vào dự án/cộng đồng này, bạn đồng ý tuân thủ các điều khoản của nó.

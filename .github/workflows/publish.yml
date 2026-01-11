@@ -22,7 +22,7 @@ jobs:
         run: |
           apt-get update && apt-get install -y --no-install-recommends \
           libxt6 libglpk-dev gh curl jq rsync libjpeg-dev libcurl4-openssl-dev \
-          libssl-dev
+          libssl-dev libxslt1-dev
 
       - name: Install Chrome
         run: |
@@ -48,7 +48,9 @@ jobs:
         shell: Rscript {0}
         
       - name: Render slides
-        run: quarto render
+        run: |
+          babelquarto::render_website()
+        shell: Rscript {0}
 
       - name: Render slides to PDF
         run: |
