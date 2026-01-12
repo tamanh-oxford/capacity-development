@@ -1,30 +1,6 @@
 ---
 title: "Course Outline"
 subtitle: "Data Concepts and Applications for Managers"
-author:
-  name:
-    given: Ernest
-    family: Guevarra
-    literal: Ernest Guevarra
-  degrees:
-    - MD
-    - MPH
-  attributes:
-    corresponding: true
-  orcid: 0000-0002-4887-4415
-  url: https://ernest.guevarra.io
-  email: ernest@guevarra.io
-  affiliations: 
-    - name: University of Oxford
-      department: Nuffield Department of Medicine
-      group: Centre for Tropical Medicine and Global Health
-      address: Peter Medawar Building for Pathogen Research, South Parks Road
-      city: Oxford
-      country: United Kingdom
-      postal-code: OX1 3SY
-      url: https://www.tropicalmedicine.ox.ac.uk/study-with-us/msc-ihtm
-title-slide-attributes: 
-  data-background-color: "#002147"
 # output-file: manager-personas
 ---
 
