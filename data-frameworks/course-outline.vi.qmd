@@ -1,0 +1,30 @@
+---
+title: Giáo trình khóa học
+subtitle: Khái niệm và Ứng dụng Dữ liệu cho Quản lý
+---
+
+## Ngày 1
+
+- Bối cảnh toàn cầu về các tổ chức và khung khổ quản trị dữ liệu
+
+- Nghiên cứu trường hợp: Liên Hợp Quốc và những thách thức về công nghệ và dữ liệu
+
+## Ngày 2
+
+- Bối cảnh toàn cầu về các công nghệ sẵn có cho dữ liệu
+
+- Hoạt động: Bối cảnh công nghệ cho dữ liệu tại Việt Nam
+
+- Bối cảnh toàn cầu về nguồn nhân lực cho dữ liệu
+
+- Hoạt động: Bối cảnh nguồn nhân lực cho dữ liệu tại Việt Nam
+
+## Ngày 3
+
+- Nguyên tắc hướng dẫn và thực hành tốt nhất cho việc xây dựng năng lực dữ liệu
+
+- Tài trợ cho quản trị dữ liệu
+
+- Hình mẫu quản lý cho việc xây dựng và triển khai thành công các cấu trúc và khung quản trị dữ liệu tại Việt Nam
+
+

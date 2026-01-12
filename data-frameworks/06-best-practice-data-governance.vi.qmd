@@ -1,0 +1,79 @@
+---
+title: Buổi 6
+subtitle: Các phương pháp tốt nhất trong việc thiết lập và triển khai các cấu trúc
+  quản trị dữ liệu
+---
+
+## Quản trị dữ liệu liên quan đến con người, quy trình và công nghệ{.center background-color="#002147"}
+
+## Hãy nghĩ đến bức tranh tổng thể nhưng bắt đầu từ những việc nhỏ
+
+- Quản trị dữ liệu phụ thuộc vào việc đồng bộ hóa con người, quy trình và công nghệ.
+
+- Bắt đầu bằng việc bố trí đúng người, sau đó thiết kế các quy trình hỗ trợ, và cuối cùng là áp dụng công nghệ cần thiết.
+
+- Nếu không có những cá nhân phù hợp, việc thực hiện các quy trình hiệu quả và triển khai công nghệ suôn sẻ sẽ gặp nhiều khó khăn.
+
+- Khi đội ngũ phù hợp đã được xác định hoặc tuyển dụng, họ có thể phát triển các quy trình mạnh mẽ và lựa chọn công nghệ phù hợp để triển khai giải pháp thành công.
+
+## Xây dựng trường hợp kinh doanh
+
+- Một trường hợp kinh doanh mạnh mẽ cần phải thể hiện rõ ràng các lợi ích tổ chức từ việc cải thiện chất lượng dữ liệu, chẳng hạn như tăng doanh thu, cải thiện trải nghiệm khách hàng và nâng cao hiệu quả.
+
+- Tất cả các bên liên quan cần hiểu rõ cả nỗ lực cần thiết và giá trị lâu dài mà sáng kiến này mang lại.
+
+- Mặc dù các nhà lãnh đạo có thể thừa nhận các vấn đề do chất lượng dữ liệu kém và quản lý dữ liệu yếu kém gây ra, nhưng các nỗ lực quản trị vẫn có thể thất bại nếu họ không cam kết đầy đủ trong việc thúc đẩy sự thay đổi có ý nghĩa.
+
+## Xây dựng văn hóa dựa trên dữ liệu
+
+- Để xây dựng văn hóa dựa trên dữ liệu, hãy giúp đội ngũ của bạn hiểu tại sao dữ liệu lại quan trọng.
+
+- Cung cấp đào tạo và công cụ để minh họa lợi ích của dữ liệu được quản lý tốt và chất lượng cao.
+
+- Sự lãnh đạo mạnh mẽ là yếu tố thiết yếu để tạo ra sự thay đổi có ý nghĩa.
+
+- Một nhà lãnh đạo giỏi sẽ truyền đạt một cách rõ ràng và nhất quán về cách dữ liệu hỗ trợ các mục tiêu kinh doanh.
+
+- Làm cho dữ liệu trở thành một phần của các cuộc trò chuyện hàng ngày để nó trở thành một yếu tố tự nhiên trong quá trình ra quyết định trên toàn tổ chức.
+
+## Xác định mục tiêu và chỉ số đo lường rõ ràng.
+
+- Bạn không thể đạt được mục tiêu nếu không thể đo lường nó.
+
+- Trước khi thực hiện thay đổi, hãy thiết lập một mức cơ sở để có thể so sánh kết quả sau đó.
+
+- Thu thập các số liệu ban đầu sớm và theo dõi tiến độ một cách nhất quán trong suốt quá trình.
+
+- Các chỉ số nên thể hiện sự cải thiện theo thời gian và đóng vai trò như các điểm kiểm tra để đảm bảo các quy trình vẫn thực tế và hiệu quả.
+
+## Thông báo sớm và thường xuyên
+
+- Các cập nhật nhất quán và rõ ràng giúp thể hiện tác động, ghi nhận thành công và thẳng thắn đối mặt với những thách thức.
+
+- Giữ danh sách cập nhật các bên liên quan cần được thông tin.
+
+- Đảm bảo các thông tin liên lạc dễ tiếp cận và dễ hiểu.
+
+- Điều này giúp những người liên quan nắm bắt được những thông tin quan trọng, tránh những bất ngờ và hỗ trợ việc chia sẻ tiến độ trong toàn tổ chức.
+
+## Đây là một cuộc đua marathon, không phải cuộc đua nước rút.
+
+- Xem quản trị dữ liệu như một khoản đầu tư lâu dài thay vì một sáng kiến ngắn hạn.
+
+- Trong khi các dự án có thời gian bắt đầu và kết thúc rõ ràng và có thể tạo ra sự hào hứng, quản trị dữ liệu là một quá trình liên tục, lặp đi lặp lại và được tạo thành từ nhiều nỗ lực nhỏ hơn.
+
+- Bắt đầu với các dự án thí điểm nhỏ, học hỏi từ chúng và sử dụng những bài học đó để hướng dẫn các công việc lớn hơn, toàn diện hơn.
+
+- Việc tích hợp các dự án nhỏ vào chiến lược dài hạn giúp tạo ra sự thay đổi tổ chức sâu sắc và bền vững.
+
+## Xác định rõ ràng vai trò và trách nhiệm
+
+- Các vai trò được định nghĩa rõ ràng là yếu tố thiết yếu cho một chương trình quản trị hiệu quả.
+
+- Giao quyền sở hữu và trách nhiệm trên toàn tổ chức đảm bảo tính trách nhiệm.
+
+- Việc xác định rõ ai có quyền hạn giúp củng cố chương trình quản trị dữ liệu và thúc đẩy sự hiểu biết chung trong toàn tổ chức.
+
+- Điều này tạo ra một cấu trúc vững chắc để triển khai các sáng kiến dữ liệu một cách đồng bộ như một đội ngũ thống nhất.
+
+

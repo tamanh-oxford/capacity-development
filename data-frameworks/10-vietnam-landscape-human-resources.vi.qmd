@@ -1,0 +1,30 @@
+---
+title: Buổi 10
+subtitle: Bối cảnh nguồn nhân lực cho lĩnh vực dữ liệu tại Việt Nam
+---
+
+## Hoạt động 1:{.center background-color="#002147"}
+
+### Ghi lại các vai trò/chức vụ khác nhau trong nhóm của bạn (bao gồm cả vai trò của bạn).
+
+::: {.notes}
+
+- Ghi lại các vai trò/vị trí trên một thẻ ghi chú hoặc giấy dán.
+
+- Hãy cụ thể nhất có thể.
+
+- Tốt nhất, hãy ghi chính xác tên của vai trò/vị trí.
+
+:::
+
+## Hoạt động 2{.center background-color="#002147"}
+
+### Với các thẻ metacard hoặc giấy note dán mà bạn đã tạo, hãy dán chúng lên bảng hoặc tường và đặt chúng dưới các vai trò/trách nhiệm dữ liệu tương ứng.
+
+::: {.notes}
+
+- Nếu một vai trò/chức vụ trong nhóm của bạn đảm nhận nhiều vai trò/trách nhiệm dữ liệu khác nhau, hãy ghi thêm thẻ metacard hoặc giấy note dán cho vai trò/chức vụ đó và đặt chúng dưới các vai trò/trách nhiệm dữ liệu tương ứng.
+
+:::
+
+
