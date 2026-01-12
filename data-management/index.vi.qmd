@@ -117,7 +117,7 @@ Tập trung vào các phương pháp được sử dụng để thu thập, xử
 
 ## Bài tập nhóm {.center background-color="#002147"}
 
-Dựa trên câu hỏi nghiên cứu hiện tại của bạn, xác định các yếu tố **"ai**, **gì**, **khi nào**, **nơi**, **tại sao** và **làm thế nào** của dữ liệu mà bạn sẽ cần.
+Dựa trên câu hỏi nghiên cứu hiện tại của bạn, xác định các yếu tố **ai**, **gì**, **khi nào**, **nơi**, **tại sao** và **làm thế nào** của dữ liệu mà bạn sẽ cần.
 
 ## Vòng đời dữ liệu
 
