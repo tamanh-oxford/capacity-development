@@ -3,7 +3,7 @@ title: Buổi 8
 subtitle: Bối cảnh công nghệ dữ liệu tại Việt Nam
 ---
 
-## Hoạt động 1{.center background-color="#002147"}
+## Hoạt động 1 {.center background-color="#002147"}
 
 ### Ghi lại tên của các công cụ/ứng dụng/phần mềm dữ liệu khác nhau mà bạn và nhóm của bạn sử dụng hàng ngày
 
@@ -17,7 +17,7 @@ subtitle: Bối cảnh công nghệ dữ liệu tại Việt Nam
 
 :::
 
-## Hoạt động 2{.center background-color="#002147"}
+## Hoạt động 2 {.center background-color="#002147"}
 
 ### Với các thẻ ghi chú hoặc giấy ghi chú dán mà bạn đã tạo, hãy dán chúng lên bảng hoặc tường và xếp chúng vào danh mục công nghệ tương ứng.
 
