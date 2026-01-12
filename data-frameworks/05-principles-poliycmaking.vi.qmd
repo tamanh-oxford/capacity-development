@@ -1,33 +1,33 @@
 ---
 title: Buổi 5
-subtitle: Các nguyên tắc hướng dẫn về xây dựng chính sách cho khung quản trị dữ liệu cấp quốc gia
+subtitle: Nguyên tắc hướng dẫn về xây dựng chính sách khung quản trị dữ liệu cấp quốc gia
 ---
 
-## Hợp đồng xã hội về dữ liệu{.center}
+## Hợp đồng xã hội về dữ liệu {.center}
 
 ![](../images/social_contract.png){fig-align="center"}
 
-## Lý thuyết về sự thay đổi: Dữ liệu cho phát triển{.center}
+## Lý thuyết về sự thay đổi: Dữ liệu cho phát triển {.center}
 
 ![](../images/theory_of_change.png){fig-align="center" height="500px"}
 
-## Các tầng quản trị dữ liệu{.center}
+## Các tầng quản trị dữ liệu {.center}
 
 ![](../images/data_governance_layers.png){fig-align="center"}
 
-## Hệ thống dữ liệu quốc gia tích hợp{.center}
+## Hệ thống dữ liệu quốc gia tích hợp {.center}
 
 ![](../images/integrated_national_data_system.png){fig-align="center"}
 
-## Dòng chảy dữ liệu{.center}
+## Dòng chảy dữ liệu {.center}
 
 ![](../images/data_flow.png){fig-align="center"}
 
-## Cung cầu dữ liệu{.center}
+## Cung cầu dữ liệu {.center}
 
 ![](../images/data_supply_demand.png){fig-align="center"}
 
-## Chính sách dữ liệu{.center}
+## Chính sách dữ liệu {.center}
 
 ![](../images/data_policies.png){fig-align="center"}
 
