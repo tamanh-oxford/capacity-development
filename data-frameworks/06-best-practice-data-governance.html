@@ -1,24 +1,22 @@
 <!DOCTYPE html>
-<html lang="en"><head>
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
+<html lang="en">
+<head>
 <link rel="alternate" hreflang="en" href="https://tamanh-oxford.github.io/capacity-development/data-frameworks/06-best-practice-data-governance.html" />
 <link rel="alternate" hreflang="vi" href="https://tamanh-oxford.github.io/capacity-development/vi/data-frameworks/06-best-practice-data-governance.vi.html" />
-<script src="../site_libs/quarto-html/tabby.min.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<script src="../site_libs/clipboard/clipboard.min.js"></script><script src="../site_libs/quarto-html/tabby.min.js"></script><script src="../site_libs/quarto-html/popper.min.js"></script><script src="../site_libs/quarto-html/tippy.umd.min.js"></script><link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
 <link href="../site_libs/quarto-html/light-border.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles"><meta charset="utf-8">
-  <meta name="generator" content="quarto-1.8.26">
-
-  <meta name="author" content="Ernest Guevarra">
-  <title>TOP Data Capacity Development Courses – Session 6</title>
-  <meta name="apple-mobile-web-app-capable" content="yes">
-  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
-  <style>
+<link href="../site_libs/quarto-html/quarto-syntax-highlighting-587c61ba64f3a5504c4d52d930310e48.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<meta charset="utf-8">
+<meta name="generator" content="quarto-1.8.26">
+<meta name="author" content="Ernest Guevarra">
+<title>TOP Data Capacity Development Courses – Session 6</title>
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, minimal-ui">
+<link rel="stylesheet" href="../site_libs/revealjs/dist/reset.css">
+<link rel="stylesheet" href="../site_libs/revealjs/dist/reveal.css">
+<style>
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     div.columns{display: flex; gap: min(4vw, 1.5em);}
@@ -31,22 +29,19 @@
       vertical-align: middle;
     }
   </style>
-  <link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-534cd8e3a96973385dffff3f4709048d.css">
-  <link rel="stylesheet" href="../styles.css">
-  <script async="" src="https://www.googletagmanager.com/gtag/js?id="></script>
-
-  <script type="text/javascript">
+<link rel="stylesheet" href="../site_libs/revealjs/dist/theme/quarto-534cd8e3a96973385dffff3f4709048d.css">
+<link rel="stylesheet" href="../styles.css">
+<script async="" src="https://www.googletagmanager.com/gtag/js?id="></script><script type="text/javascript">
 
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
   gtag('config', '', { 'anonymize_ip': true});
-  </script>
-  <link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
-  <link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
-  <link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
-  <link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
-  <style type="text/css">
+  </script><link href="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.css" rel="stylesheet">
+<link href="../site_libs/revealjs/plugin/reveal-menu/menu.css" rel="stylesheet">
+<link href="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.css" rel="stylesheet">
+<link href="../site_libs/revealjs/plugin/quarto-support/footer.css" rel="stylesheet">
+<style type="text/css">
     .reveal div.sourceCode {
       margin: 0;
       overflow: auto;
@@ -142,8 +137,7 @@
   <div class="reveal">
     <div class="slides">
 
-<section id="title-slide" data-background-color="#002147" class="quarto-title-block center">
-  <h1 class="title">Session 6</h1>
+<section id="title-slide" data-background-color="#002147" class="quarto-title-block center"><h1 class="title">Session 6</h1>
   <p class="subtitle">Best practices in setting up and implementing data governance structures</p>
 
 <div class="quarto-title-authors">
@@ -162,100 +156,60 @@
     </div>
 </div>
 
-</section>
-<section id="data-governance-is-about-people-processes-and-technology" class="slide level2 center" data-background-color="#002147">
-<h2>Data governance is about people, processes, and technology</h2>
-</section>
-<section id="think-big-picture-but-start-small" class="slide level2">
-<h2>Think big picture but start small</h2>
+</section><section id="data-governance-is-about-people-processes-and-technology" class="slide level2 center" data-background-color="#002147"><h2>Data governance is about people, processes, and technology</h2>
+</section><section id="think-big-picture-but-start-small" class="slide level2"><h2>Think big picture but start small</h2>
 <ul>
 <li><p>Data governance depends on aligning people, processes, and technology.</p></li>
 <li><p>Start by putting the right people in place, then design the supporting processes, and lastly introduce the necessary technology.</p></li>
 <li><p>Without the right individuals, effective processes and smooth technical implementation are difficult to achieve.</p></li>
 <li><p>Once the right team is identified or hired, they can develop strong processes and choose the appropriate technology to deliver a successful solution.</p></li>
-</ul>
-</section>
-<section id="build-a-business-case" class="slide level2">
-<h2>Build a business case</h2>
+</ul></section><section id="build-a-business-case" class="slide level2"><h2>Build a business case</h2>
 <ul>
 <li><p>A strong business case should clearly show the organisational benefits of improved data quality, such as increased revenue, better customer experiences, and greater efficiency.</p></li>
 <li><p>Everyone involved needs to understand both the effort required and the long-term value the initiative will bring.</p></li>
 <li><p>Although leaders may acknowledge the problems caused by poor data quality and weak data management, governance efforts can still fail if they are not fully committed to driving meaningful change.</p></li>
-</ul>
-</section>
-<section id="foster-a-data-driven-culture" class="slide level2">
-<h2>Foster a data-driven culture</h2>
+</ul></section><section id="foster-a-data-driven-culture" class="slide level2"><h2>Foster a data-driven culture</h2>
 <ul>
 <li><p>To foster a data-driven culture, help your team understand why data is important.</p></li>
 <li><p>Provide training and tools that show the benefits of well-managed, high-quality data.</p></li>
 <li><p>Strong leadership is essential to make this shift meaningful.</p></li>
 <li><p>A good leader communicates clearly and consistently about how data supports business goals.</p></li>
 <li><p>Make data part of everyday conversations so that it becomes a natural element of decision-making across the organisation.</p></li>
-</ul>
-</section>
-<section id="establish-clear-objectives-and-metrics" class="slide level2">
-<h2>Establish clear objectives and metrics</h2>
+</ul></section><section id="establish-clear-objectives-and-metrics" class="slide level2"><h2>Establish clear objectives and metrics</h2>
 <ul>
 <li><p>You cannot achieve a goal if you are unable to measure it.</p></li>
 <li><p>Before making changes, establish a baseline so you can compare results afterward.</p></li>
 <li><p>Collect initial measurements early and track progress consistently throughout the process.</p></li>
 <li><p>Metrics should show how things improve over time and act as checkpoints to ensure the processes remain practical and effective.</p></li>
-</ul>
-</section>
-<section id="communicate-early-and-often" class="slide level2">
-<h2>Communicate early and often</h2>
+</ul></section><section id="communicate-early-and-often" class="slide level2"><h2>Communicate early and often</h2>
 <ul>
 <li><p>Consistent, clear updates help demonstrate impact, celebrate successes, and openly address setbacks.</p></li>
 <li><p>Maintain a current list of stakeholders who need to stay informed.</p></li>
 <li><p>Ensure communications are easy to access and simple to understand.</p></li>
 <li><p>This keeps the right people aware of what matters, prevents surprises, and helps share progress across the organisation.</p></li>
-</ul>
-</section>
-<section id="it-is-a-marathon-not-a-sprint" class="slide level2">
-<h2>It is a marathon not a sprint</h2>
+</ul></section><section id="it-is-a-marathon-not-a-sprint" class="slide level2"><h2>It is a marathon not a sprint</h2>
 <ul>
 <li><p>Position data governance as a long-term investment rather than a short-term initiative.</p></li>
 <li><p>While projects have clear start and end dates and may generate excitement, data governance is ongoing, iterative, and made up of many smaller efforts.</p></li>
 <li><p>Begin with small pilot projects, learn from them, and use those insights to guide larger, more comprehensive work.</p></li>
 <li><p>Incorporating smaller projects into a long-term strategy helps embed deeper, lasting organisational change.</p></li>
-</ul>
-</section>
-<section id="assign-clear-roles-and-responsibilities" class="slide level2">
-<h2>Assign clear roles and responsibilities</h2>
+</ul></section><section id="assign-clear-roles-and-responsibilities" class="slide level2"><h2>Assign clear roles and responsibilities</h2>
 <ul>
 <li><p>Clearly defined roles are essential for an effective governance programme.</p></li>
 <li><p>Assigning ownership and responsibility across the organisation ensures accountability.</p></li>
 <li><p>Knowing who has authority helps embed the data governance programme and promotes organisation-wide understanding.</p></li>
 <li><p>This creates a strong structure for tackling data initiatives collectively as one cohesive team.</p></li>
-</ul>
-
-
-</section>
-    </div>
+</ul></section>
+</div>
   <div class="quarto-auto-generated-content" style="display: none;">
 <p><img src="../images/top_logo.jpg" class="slide-logo"></p>
 <div class="footer footer-default">
 <p>Tâm Anh Oxford Partnership</p>
 </div>
-</div></div>
+</div>
+</div>
 
-  <script>window.backupDefine = window.define; window.define = undefined;</script>
-  <script src="../site_libs/revealjs/dist/reveal.js"></script>
-  <!-- reveal.js plugins -->
-  <script src="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script>
-  <script src="../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script>
-  <script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script>
-  <script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script>
-  <script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script>
-  
-
-  <script src="../site_libs/revealjs/plugin/notes/notes.js"></script>
-  <script src="../site_libs/revealjs/plugin/search/search.js"></script>
-  <script src="../site_libs/revealjs/plugin/zoom/zoom.js"></script>
-  <script src="../site_libs/revealjs/plugin/math/math.js"></script>
-  <script>window.define = window.backupDefine; window.backupDefine = undefined;</script>
-
-  <script>
+  <script>window.backupDefine = window.define; window.define = undefined;</script><script src="../site_libs/revealjs/dist/reveal.js"></script><!-- reveal.js plugins --><script src="../site_libs/revealjs/plugin/quarto-line-highlight/line-highlight.js"></script><script src="../site_libs/revealjs/plugin/pdf-export/pdfexport.js"></script><script src="../site_libs/revealjs/plugin/reveal-menu/menu.js"></script><script src="../site_libs/revealjs/plugin/reveal-menu/quarto-menu.js"></script><script src="../site_libs/revealjs/plugin/quarto-support/support.js"></script><script src="../site_libs/revealjs/plugin/notes/notes.js"></script><script src="../site_libs/revealjs/plugin/search/search.js"></script><script src="../site_libs/revealjs/plugin/zoom/zoom.js"></script><script src="../site_libs/revealjs/plugin/math/math.js"></script><script>window.define = window.backupDefine; window.backupDefine = undefined;</script><script>
 
       // Full list of configuration options available at:
       // https://revealjs.com/config/
@@ -446,8 +400,7 @@
           RevealZoom
         ]
       });
-    </script>
-    <script id="quarto-html-after-body" type="application/javascript">
+    </script><script id="quarto-html-after-body" type="application/javascript">
       window.document.addEventListener("DOMContentLoaded", function (event) {
         const tabsets =  window.document.querySelectorAll(".panel-tabset-tabby")
         tabsets.forEach(function(tabset) {
@@ -615,6 +568,5 @@
         }
       });
       </script>
-    
-
-</body></html>
+</body>
+</html>
