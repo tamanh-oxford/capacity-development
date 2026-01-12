@@ -43,26 +43,31 @@ qpdf::pdf_combine(
 
 ## Render Vietnamese data frameworks slides to PDF ----
 
-# html_files <- list.files(
-#   path = "_site/vi/data-frameworks", 
-#   pattern = "html", 
-#   full.names = TRUE
-# )
+html_files <- list.files(
+  path = "_site/vi/data-frameworks", 
+  pattern = "html", 
+  full.names = TRUE
+)
 
-# Map(
-#   f = pagedown::chrome_print,
-#   input = html_files,
-#   wait = 15,
-#   timeout = 300,
-#   extra_args = rep(
-#     list(c("--no-sandbox", "--disable-dev-shm-usage")), length(html_files)
-#   )
-# )
+file.copy(from = html_files, to = "_site")
 
-## Combine data frameworks slides into a single PDF ----
+Map(
+  f = pagedown::chrome_print,
+  input = sub(pattern = "vi/data-frameworks/", replacement = "", x = html_files),
+  output = sub(pattern = "html", replacement = "pdf", x = html_files),
+  wait = 15,
+  timeout = 300,
+  extra_args = rep(
+    list(c("--no-sandbox", "--disable-dev-shm-usage")), length(html_files)
+  )
+)
+
+file.remove(sub(pattern = "vi/data-frameworks/", replacement = "", x = html_files))
+
+## Combine Vietnamese data frameworks slides into a single PDF ----
 
 # pdf_files <- list.files(
-#   path = "_site/data-frameworks",
+#   path = "_site/vi/data-frameworks",
 #   pattern ="pdf",
 #   full.names = TRUE
 # ) |>
@@ -70,7 +75,7 @@ qpdf::pdf_combine(
 #   (\(x) x[c(14, 1:13)])()
 
 # qpdf::pdf_combine(
-#   input = pdf_files, output = "_site/data-frameworks/data_governance.pdf"
+#   input = pdf_files, output = "_site/vi/data-frameworks/data_governance.pdf"
 # )
 
 ## Render data management slides to PDF ----
