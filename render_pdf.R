@@ -12,15 +12,20 @@ html_files <- list.files(
   full.names = TRUE
 )
 
+file.copy(from = html_files, to = ".")
+
 Map(
   f = pagedown::chrome_print,
-  input = html_files,
+  input = basename(html_files),
+  output = sub(pattern = "html", replacement = "pdf", x = html_files)
   wait = 15,
   timeout = 300,
   extra_args = rep(
     list(c("--no-sandbox", "--disable-dev-shm-usage")), length(html_files)
   )
 )
+
+file.remove(basename(html_files))
 
 ## Combine data frameworks slides into a single PDF ----
 
