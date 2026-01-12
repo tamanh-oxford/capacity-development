@@ -7,17 +7,17 @@ subtitle: Bức tranh toàn cầu về các công nghệ có sẵn cho dữ li�
 
 ![](../images/tech_landscape_01.png){fig-align="center"}
 
-## Số lượng công cụ và công nghệ dữ liệu{.center}
+## Số lượng công cụ và công nghệ dữ liệu {.center}
 
 :::: {.columns}
 
 ::: {.column width="50%"}
 
-- Năm 2012, có khoảng**139**ứng dụng/công cụ/nền tảng liên quan đến dữ liệu.
+- Năm 2012, có khoảng **139** ứng dụng/công cụ/nền tảng liên quan đến dữ liệu.
 
-- Đến năm 2023, con số này đã tăng lên khoảng**1\.416**.
+- Đến năm 2023, con số này đã tăng lên khoảng **1416**.
 
-- Đến năm 2024, con số này đã tăng lên hơn**2000**.
+- Đến năm 2024, con số này đã tăng lên hơn **2000**.
 
 :::
 
@@ -37,27 +37,27 @@ subtitle: Bức tranh toàn cầu về các công nghệ có sẵn cho dữ li�
 
 - Công nghệ tạo ra tính minh bạch và niềm tin trong hồ sơ dữ liệu: công nghệ sổ cái phân tán, bao gồm blockchain
 
-## Các công ty nền tảng tại các quốc gia có thu nhập thấp và trung bình{.center}
+## Các công ty nền tảng tại các quốc gia có thu nhập thấp và trung bình {.center}
 
 ![](../images/data_platform_firms.png){fig-align="center"}
 
-## Các doanh nghiệp trong nước so với các doanh nghiệp có trụ sở nước ngoài{.center}
+## Các doanh nghiệp trong nước so với các doanh nghiệp có trụ sở nước ngoài {.center}
 
 ![](../images/data_foreign_domestic_firms.png){fig-align="center"}
 
-## Người dùng dành nhiều thời gian hơn trên Facebook, Google và YouTube{.center}
+## Người dùng dành nhiều thời gian hơn trên Facebook, Google và YouTube {.center}
 
 ![](../images/data_website_visits.png){fig-align="center"}
 
-## Lưu lượng truy cập Internet tại các quốc gia có thu nhập thấp và trung bình{.center}
+## Lưu lượng truy cập Internet tại các quốc gia có thu nhập thấp và trung bình {.center}
 
 ![](../images/data_global_internet_share.png){fig-align="center"}
 
-## Vòng đời dữ liệu{.center}
+## Vòng đời dữ liệu {.center}
 
 ![](../images/data_lifecycle.png){fig-align="center"}
 
-## Bản đồ công nghệ dữ liệu{.center}
+## Bản đồ công nghệ dữ liệu {.center}
 
 ![](../images/tech_landscape_02.png){fig-align="center"}
 
