@@ -3,7 +3,7 @@ title: Buổi 9
 subtitle: Bức tranh toàn cầu về nguồn nhân lực cho dữ liệu
 ---
 
-## Mô hình vai trò và trách nhiệm về dữ liệu - Đại học Oxford{.center}
+## Mô hình vai trò và trách nhiệm về dữ liệu - Đại học Oxford {.center}
 
 ![](../images/hr_roles_01.jpg){fig-align="center"}
 
@@ -23,7 +23,7 @@ subtitle: Bức tranh toàn cầu về nguồn nhân lực cho dữ liệu
   
   - Hỗ trợ cải thiện độ chính xác, độ tin cậy và hiệu quả trong việc tái sử dụng dữ liệu, báo cáo và ra quyết định.
 
-## Chuyên gia về dữ liệu{.smaller}
+## Chuyên gia về dữ liệu {.smaller}
 
 - Xử lý dữ liệu trong các vai trò hàng ngày của họ như tạo, sử dụng, lưu trữ, định nghĩa, quản lý hoặc xóa dữ liệu. Họ chịu trách nhiệm:
   
@@ -35,7 +35,7 @@ subtitle: Bức tranh toàn cầu về nguồn nhân lực cho dữ liệu
   
   - Thúc đẩy hợp tác giữa các đội ngũ kinh doanh và kỹ thuật để hỗ trợ việc ra quyết định dựa trên dữ liệu một cách hiệu quả.
 
-## Mô hình vai trò và trách nhiệm về dữ liệu - OECD{.center}
+## Mô hình vai trò và trách nhiệm về dữ liệu - OECD {.center}
 
 ![](../images/hr_roles_02.png){fig-align="center"}
 
@@ -67,7 +67,7 @@ subtitle: Bức tranh toàn cầu về nguồn nhân lực cho dữ liệu
 
 :::
 
-## Nhóm vai trò - Nhóm điều phối dữ liệu{.smaller}
+## Nhóm vai trò - Nhóm điều phối dữ liệu {.smaller}
 
 - Phát triển, triển khai, giám sát và thúc đẩy các chính sách dữ liệu trong phạm vi trách nhiệm của mình, phù hợp với quản trị dữ liệu của công ty.
 
@@ -85,7 +85,7 @@ subtitle: Bức tranh toàn cầu về nguồn nhân lực cho dữ liệu
 
 - Các ủy ban, mạng lưới và cộng đồng khác nhau đã được thành lập để cải thiện sự phối hợp trong các vấn đề dữ liệu và hỗ trợ việc triển khai các chính sách dữ liệu trong Ủy ban.
 
-- Các nhóm này hoạt động như**các nhóm phối hợp dữ liệu**trong khung quản trị dữ liệu doanh nghiệp.
+- Các nhóm này hoạt động như **các nhóm phối hợp dữ liệu** trong khung quản trị dữ liệu doanh nghiệp.
 
 - Một nhóm điều phối dữ liệu có thể là bất kỳ cơ quan chính thức hoặc không chính thức nào tập trung vào các chủ đề liên quan đến dữ liệu và phải có nhiệm vụ rõ ràng được phê duyệt bởi các DG/dịch vụ yêu cầu.
 
@@ -95,7 +95,7 @@ subtitle: Bức tranh toàn cầu về nguồn nhân lực cho dữ liệu
 
 :::
 
-## Vai trò của nhóm - Ban quản trị dữ liệu{.smaller}
+## Vai trò của nhóm - Ban quản trị dữ liệu {.smaller}
 
 - Hỗ trợ việc triển khai hiệu quả các chính sách và quản trị dữ liệu của công ty.
 
@@ -119,7 +119,7 @@ subtitle: Bức tranh toàn cầu về nguồn nhân lực cho dữ liệu
 
 - Chủ sở hữu dữ liệu là các nhà quản lý hoặc nhân viên được lãnh đạo chiến lược chỉ định để chịu trách nhiệm về một lĩnh vực dữ liệu cụ thể hoặc tài sản dữ liệu.
 
-- Thuật ngữ này đề cập đến chủ sở hữu dữ liệu trong kinh doanh, không phải chủ sở hữu hoặc nhà cung cấp hệ thống CNTT.
+- Thuật ngữ này đề cập đến chủ sở hữu dữ liệu trong kinh doanh, không phải chủ sở hữu hoặc nhà cung cấp hệ thống IT.
 
 - Mỗi tài sản dữ liệu phải có chủ sở hữu dữ liệu được chỉ định rõ ràng.
 
@@ -133,20 +133,20 @@ subtitle: Bức tranh toàn cầu về nguồn nhân lực cho dữ liệu
 
 - Quản trị viên dữ liệu có thể hoạt động ngoài đơn vị tổ chức của mình nếu cần thiết.
 
-- Họ thường hợp tác với các kiến trúc sư dữ liệu chuyên môn trong các nhiệm vụ như mô hình hóa dữ liệu và truyền đạt yêu cầu dữ liệu cho các đội ngũ CNTT.
+- Họ thường hợp tác với các kiến trúc sư dữ liệu chuyên môn trong các nhiệm vụ như mô hình hóa dữ liệu và truyền đạt yêu cầu dữ liệu cho các đội ngũ IT.
 
-## Các vai trò cá nhân - Người sử dụng dữ liệu{.smaller}
+## Các vai trò cá nhân - Người sử dụng dữ liệu {.smaller}
 
-- **Nhân****viên chính sách**sử dụng dữ liệu để hỗ trợ phát triển chính sách và ra quyết định.
+- **Nhân viên chính sách** sử dụng dữ liệu để hỗ trợ phát triển chính sách và ra quyết định.
 
-- **Các nhà****phân tích dữ liệu**phân tích, tích hợp và trực quan hóa dữ liệu để tạo ra các thông tin chi tiết.
+- **Các nhà phân tích dữ liệu** phân tích, tích hợp và trực quan hóa dữ liệu để tạo ra các thông tin chi tiết.
 
-- **Các kiến trúc sư dữ liệu hoặc thông tin**thiết kế mô hình và kiến trúc để quản lý và sử dụng dữ liệu.
+- **Các kiến trúc sư dữ liệu hoặc thông tin** thiết kế mô hình và kiến trúc để quản lý và sử dụng dữ liệu.
 
-- **Kỹ sư dữ liệu**chịu trách nhiệm làm sạch, tích hợp và chuẩn bị dữ liệu cho phân tích, đồng thời hỗ trợ xác định kiến trúc dữ liệu.
+- **Kỹ sư dữ liệu** chịu trách nhiệm làm sạch, tích hợp và chuẩn bị dữ liệu cho phân tích, đồng thời hỗ trợ xác định kiến trúc dữ liệu.
 
-- **Nhà****khoa học dữ liệu**phân tích các tập dữ liệu lớn bằng thống kê, phân tích nâng cao, học máy và trí tuệ nhân tạo để xác định các mẫu và thông tin chi tiết.
+- **Nhà khoa học dữ liệu** phân tích các tập dữ liệu lớn bằng thống kê, phân tích nâng cao, học máy và trí tuệ nhân tạo để xác định các mẫu và thông tin chi tiết.
 
-- **Nhân****viên**phát triển**phần mềm**xây dựng các đường ống dữ liệu, triển khai kiến trúc dữ liệu, tạo giao diện truy cập dữ liệu và tích hợp chính sách dữ liệu vào hệ thống CNTT.
+- **Nhân viên** phát triển **phần mềm** xây dựng các đường ống dữ liệu, triển khai kiến trúc dữ liệu, tạo giao diện truy cập dữ liệu và tích hợp chính sách dữ liệu vào hệ thống IT.
 
 
