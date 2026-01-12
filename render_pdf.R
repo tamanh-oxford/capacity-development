@@ -12,11 +12,11 @@ html_files <- list.files(
   full.names = TRUE
 )
 
-file.copy(from = html_files, to = ".")
+file.copy(from = html_files, to = "_site")
 
 Map(
   f = pagedown::chrome_print,
-  input = basename(html_files),
+  input = sub(pattern = "data-frameworks/", replacement = "", x = html_files),
   output = sub(pattern = "html", replacement = "pdf", x = html_files),
   wait = 15,
   timeout = 300,
@@ -25,7 +25,7 @@ Map(
   )
 )
 
-file.remove(basename(html_files))
+file.remove(sub(pattern = "data-frameworks/", replacement = "", x = html_files))
 
 ## Combine data frameworks slides into a single PDF ----
 
