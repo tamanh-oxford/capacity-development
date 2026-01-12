@@ -80,7 +80,7 @@ Presentation/Slide deck: [![Static Badge](https://img.shields.io/badge/view-HTML
 | **Session 7:** Global landscape of available technologies for data | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/07-global-landscape-technologies.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/07-global-landscape-technologies.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176902) |
 | **Session 8:** The landscape of technologies for data in Vietnam | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/08-vietnam-landscape-technologies.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/08-vietnam-landscape-technologies.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176904) |
 | **Session 9:** Global landscape of human resources for data | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/09-global-landscape-human-resources.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/09-global-landscape-human-resources.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176906) |
-| **Session 10:** The landscape of human resources for data in Vietnam | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/10-vietnam-landscape-human-resources.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/10-vietnam-landscape-human-resources.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176910) |
+| **Session 10:** The landscape of human resources for data in Vietnam | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/10-vietnam-landscape-human-resources.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/10-vietnam-landscape-human-resources.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176910) |e-badge)](https://doi.org/10.5281/zenodo.18176910) |
 | **Session 11:** Guiding principles and best practices for data capacity building | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/11-best-practice-capacity-building.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/11-best-practice-capacity-building.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176912) |
 | **Session 12:** Financing data governance | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/12-financing-data.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/12-financing-data.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176914) |
 | **Session 13:** Manager personas for successful building and implementation of data governance structures and frameworks for Vietnam | [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/13-manager-personas.html) [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-frameworks/13-manager-personas.pptx) [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18176919) |
@@ -133,13 +133,28 @@ renv::restore()
 to install R package dependencies.
 This is only done once when the project is being initiated for the first time by a user.
 
+### Environment variables (optional)
+
+This project uses [DeepL](https://deepl.com/) neural machine translation service via its [application programming interface (API)](https://www.deepl.com/en/products/api) interfaced with [R](https://r-project.org).
+If you would like to run the translation workflow (`render_translation.R`), you will need to setup your own DeepL account (free account available) and retrieve your own API key. Then set an appropriate DeepL environment variable for your API key. In R, this can be set as follows:
+
+```R
+Sys.setenv(DEEPL_API_KEY = "YOUR_DEEPL_API_KEY_HERE")
+```
+
+remembering to replace "YOUR_DEEPL_API_KEY_HERE" with your API key.
+
+Note that this is optional as translations have already been performed and translated Quarto documents are already included.
+
 ### Rendering the presentations
 
 To render the HTML presentations/slide decks, run the following on terminal:
 
 ``` bash
-quarto render
+Rscript -e "babelquarto::render_website()"
 ```
+
+Note that the presentations are rendered using `{babelquarto}` R package rather than via a direct call to `quarto render`. This is because the presentations are served as bilingual (English and Vietnamese) resources built using `{babelquarto}`.
 
 To render the PDF versions of the presentations/slide decks, run the following on terminal:
 

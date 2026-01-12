@@ -27,10 +27,10 @@ website:
   repo-url: https://github.com/tamanh-oxford/capacity-development
   repo-actions: [edit, issue]
   issue-url: https://github.com/tamanh-oxford/capacity-development/issues
-  cookie-consent:
-    type: express
-    style: simple
-    palette: light
+  # cookie-consent:
+  #   type: express
+  #   style: simple
+  #   palette: light
   google-analytics:
     tracking-id: ""
     anonymize-ip: true

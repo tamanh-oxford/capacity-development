@@ -6,6 +6,8 @@ format:
     preview-links: auto
     logo: ../images/top_logo.jpg
     css: ../styles.css
-    footer: "Tam Anh Oxford Partnership"
-    embed-resources: true
+    footer: "Tâm Anh Oxford Partnership"
+    #embed-resources: true
   pptx: default
+title-slide-attributes:
+  data-background-color: '#002147'
