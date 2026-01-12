@@ -123,7 +123,7 @@ subtitle: 'Nghiên cứu trường hợp: Chương trình Quốc gia Thông minh
 
 - Hơn 40 sản phẩm đang trong quá trình phát triển
 
-- Sử dụngcơ chế**báo cáo tiến độ**để cung cấp cái nhìn tổng quan minh bạch về công việc đang được thực hiện trên từng sản phẩm
+- Sử dụngcơ chế **báo cáo tiến độ** để cung cấp cái nhìn tổng quan minh bạch về công việc đang được thực hiện trên từng sản phẩm
 
 :::: {.columns}
 
@@ -157,7 +157,7 @@ Chia sẻ kết quả sản phẩm để đảm bảo mang lại giá trị rõ 
 
 ![](../images/sg_scamshield.png){fig-align="center"}
 
-- [**ScamShield**](https://www.scamshield.gov.sg/)hỗ trợ người dùng phát hiện, kiểm tra và báo cáo các tin nhắn, cuộc gọi và liên kết đáng ngờ.
+- [**ScamShield**](https://www.scamshield.gov.sg/) hỗ trợ người dùng phát hiện, kiểm tra và báo cáo các tin nhắn, cuộc gọi và liên kết đáng ngờ.
 
 - Các vụ lừa đảo được báo cáo sẽ được cơ quan chức năng xác minh, giúp họ theo dõi và phản ứng với các biến thể lừa đảo mới.
 
@@ -171,7 +171,7 @@ Chia sẻ kết quả sản phẩm để đảm bảo mang lại giá trị rõ 
 
 - Các giải pháp kỹ thuật số hiện có sẵn nhưng phân tán trên nhiều ứng dụng phức tạp.
 
-- [**RedeemSG**](https://redeem.gov.sg/)cung cấp một nền tảng thống nhất cho các cơ quan chính phủ và tổ chức phi lợi nhuận để tạo, phân phối và theo dõi phiếu giảm giá trên toàn quốc.
+- [**RedeemSG**](https://redeem.gov.sg/) cung cấp một nền tảng thống nhất cho các cơ quan chính phủ và tổ chức phi lợi nhuận để tạo, phân phối và theo dõi phiếu giảm giá trên toàn quốc.
 
 - Công dân có thể đổi phiếu giảm giá và các doanh nghiệp có thể chấp nhận chúng thông qua cùng một hệ thống.
 
@@ -183,13 +183,13 @@ Chia sẻ kết quả sản phẩm để đảm bảo mang lại giá trị rõ 
 
 - Điều này dẫn đến thời gian chờ đợi kéo dài, hồ sơ không chính xác và khả năng tiếp cận thêm người hưởng lợi bị hạn chế.
 
-- [**DistributeSG**](https://distribute.gov.sg/)cho phép các cơ quan chính phủ và tổ chức phi lợi nhuận triển khai và theo dõi các chiến dịch phân phối với khả năng theo dõi theo thời gian thực.
+- [**DistributeSG**](https://distribute.gov.sg/) cho phép các cơ quan chính phủ và tổ chức phi lợi nhuận triển khai và theo dõi các chiến dịch phân phối với khả năng theo dõi theo thời gian thực.
 
 - Nó bao gồm một cổng thông tin quản trị cho các nhà tổ chức thiết lập chiến dịch và một ứng dụng di động để theo dõi trực tiếp các mặt hàng đã phân phối.
 
 ## Các sáng kiến {.center background-color="#002147"}
 
-## {.center}
+## {.center .smaller}
 
 ![](../images/sg_build_for_good.png){fig-align="center"}
 
@@ -199,7 +199,7 @@ Chia sẻ kết quả sản phẩm để đảm bảo mang lại giá trị rõ 
 
 - Sáng kiến này nhằm tạo ra một không gian hỗ trợ nơi cá nhân cảm thấy được trao quyền để đóng góp tích cực, thử nghiệm và xây dựng các giải pháp làm cho thế giới tốt đẹp hơn.
 
-## {.center}
+## {.center .smaller}
 
 ![](../images/sg_hack_for_good.svg){fig-align="center"}
 
