@@ -1,0 +1,136 @@
+---
+title: Buổi 11
+subtitle: Nguyên tắc hướng dẫn và các thực hành tốt nhất trong việc xây dựng năng
+  lực dữ liệu
+---
+
+## Xây dựng năng lực dữ liệu
+
+- Không phải ai cũng cần trở thành nhà khoa học dữ liệu.
+
+- Năng lực dữ liệu trong quá trình ra quyết định chính sách đề cập đến mức độ mà cơ sở hạ tầng, hệ thống và con người có thể sử dụng dữ liệu một cách hiệu quả để đưa ra quyết định.
+
+- Việc củng cố các khả năng này trên các đội ngũ khác nhau là điều thiết yếu.
+
+- Các kỹ năng bổ sung giúp củng cố toàn bộ chuỗi giá trị dữ liệu và nâng cao chất lượng ra quyết định tổng thể.
+
+## 1\. Xác định khoảng trống trong kỹ năng dữ liệu và khả năng thống kê{.center background-color="#002147"}
+
+## Các loại kỹ năng{.center}
+
+![](../images/hr_roles_03.svg){fig-align="center"}
+
+## Khung năng lực dữ liệu{.center}
+
+![](../images/hr_roles_04.png){fig-align="center"}
+
+## Khung năng lực dữ liệu - ví dụ{.smaller}
+
+- **Năng lực:**Áp dụng các nguyên tắc mã hóa và phân loại dữ liệu
+
+- **Danh mục:**Mô tả, Lưu trữ, Sử dụng và Lưu trữ/Xóa bỏ
+
+:::: {.columns}
+
+::: {.column width="33.3%"}
+
+### Mới
+
+- Nắm rõ các phân loại dữ liệu và quy trình mã hóa liên quan, cũng như cách áp dụng đúng đắn chúng vào dữ liệu nói chung.
+
+- Biết liên hệ với ai để tham khảo kiến thức chuyên môn.
+  :::
+
+::: {.column width="33.3%"}
+
+### Thành thạo
+
+- Có kiến thức toàn diện về phân loại dữ liệu và các quy trình mã hóa.
+
+- Biết nơi để tìm kiếm tư vấn chuyên môn về mã hóa và phân loại khi cần thiết.
+
+:::
+
+::: {.column width="33.3%"}
+
+### Chuyên gia
+
+- Thường xuyên được người khác tham khảo ý kiến về phân loại dữ liệu và quy trình mã hóa.
+
+- Có khả năng áp dụng các khung khái niệm để hỗ trợ phân loại dữ liệu và mã hóa.
+
+:::
+
+::::
+
+## Hướng dẫn Khung Năng lực Dữ liệu{.center}
+
+![](../images/qrcode_data.govt.nz.png){fig-align="center"}
+
+[Liên kết](https://data.govt.nz/toolkit/data-capability-framework/data-capability-framework-guide)
+
+## Khung đánh giá mức độ trưởng thành dữ liệu{.center}
+
+![](../images/hr_roles_05.png){fig-align="center"}
+
+## Khung đánh giá mức độ trưởng thành của dữ liệu
+
+- **Các chủ đề:**Ứng dụng, Dữ liệu, Lãnh đạo, Văn hóa, Công cụ, Kỹ năng
+
+- **Các cấp độ trưởng thành:**Bắt đầu, Phát triển ban đầu, Học hỏi, Phát triển, Thành thạo
+
+## Khung đánh giá mức độ trưởng thành của dữ liệu - ví dụ{.center}
+
+![](../images/dma_example.png){fig-align="center"}
+
+## Hướng dẫn Khung đánh giá mức độ trưởng thành dữ liệu{.center}
+
+![](../images/qrcode_assets.publishing.service.gov.uk.png){fig-align="center"}
+
+[Liên kết](https://assets.publishing.service.gov.uk/media/64184bccd3bf7f79d9675dbd/Data_Maturity_Assessment_for_Government_-_FINAL_PDF.pdf)
+
+## 2\. Xây dựng năng lực dữ liệu trong đội ngũ của bạn{.center background-color="#002147"}
+
+## Trình độ hiểu biết về dữ liệu{.center}
+
+![](../images/hr_roles_06.png){fig-align="center"}
+
+## Khung năng lực kỹ năng dữ liệu{.center}
+
+![](../images/hr_roles_07.png){fig-align="center"}
+
+## 3\. Triển khai xây dựng năng lực dữ liệu{.center background-color="#002147"}
+
+## Ngắn hạn
+
+- Các buổi đào tạo
+
+- Nguồn tài liệu đào tạo trực tuyến
+
+- Chia sẻ kiến thức về các đổi mới toàn cầu và các trường hợp ứng dụng
+
+## Trung hạn
+
+- Chuyên gia dữ liệu nội bộ
+
+- Đào tạo kỹ năng dữ liệu định kỳ
+
+- ‍Dự án dữ liệu thử nghiệm
+
+- ‍Phát triển kỹ năng bổ trợ cùng các bên liên quan
+
+- ‍Phát triển dựa trên kiến thức và năng lực địa phương
+
+- ‍Xây dựng mạng lưới các chuyên gia dữ liệu trong tổ chức của bạn
+
+## Dài hạn
+
+- Tích hợp kỹ năng dữ liệu vào các vị trí công việc
+
+- Hệ thống hóa các chương trình đào tạo dữ liệu
+
+- Hợp tác với các tổ chức tư vấn và tổ chức bên ngoài
+
+- Hợp tác với các cơ sở giáo dục đại học và các trường đại học địa phương
+
+

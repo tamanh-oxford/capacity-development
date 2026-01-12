@@ -1,0 +1,109 @@
+---
+title: Buổi 13
+subtitle: Xây dựng và triển khai các cấu trúc và khung quản trị dữ liệu hiệu quả cho
+  Việt Nam
+---
+
+## Nhân vật 1: Quyen{.center background-color="#002147"}
+
+## {.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Quyen gần đây đã được bổ nhiệm làm Giám đốc Phát triển Sáng tạo trẻ nhất của một công ty dịch vụ công ích tư nhân.
+
+- Công ty này là nhà cung cấp dịch vụ nước và điện lâu đời và lớn nhất trong khu vực.
+
+- Hiện tại, công ty vẫn sử dụng phương pháp thu thập dữ liệu đồng hồ nước và điện theo cách thủ công.
+
+- Công ty cũng áp dụng các quy tắc lỗi thời để xác định vị trí triển khai nguồn lực cho việc lắp đặt các đường ống nước và đường dây điện mới.
+
+- Trong vòng một năm, Quyen đặt mục tiêu hiện đại hóa cách thức công ty cung cấp dịch vụ cho khách hàng.
+
+:::
+
+::: {.column width="50%"}
+
+![](../images/persona_data_01.png){fig-align="center"}
+
+:::
+
+::::
+
+## Persona 2: Phúc{.center background-color="#002147"}
+
+## {.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](../images/persona_data_02.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+- Phúc là một nhà nghiên cứu/giảng viên trung niên tại một trường đại học danh tiếng, làm việc trong một khoa có các đơn vị nghiên cứu tập trung vào các chủ đề về sức khỏe và môi trường.
+
+- Trong 5 năm qua, Phúc và nhóm nghiên cứu nhỏ của mình đã sử dụng dữ liệu chất lượng không khí từ mạng lưới cảm biến mà họ đã lắp đặt trên toàn khu vực, kết hợp với dữ liệu khu vực về lưu lượng giao thông và vị trí của các nhà máy và cơ sở công nghiệp khác để đánh giá chất lượng không khí và các yếu tố ảnh hưởng đến nó.
+
+- Trong tương lai, Phúc mong muốn mở rộng nghiên cứu của mình về mối liên hệ giữa chất lượng không khí kém và kết quả sức khỏe xấu bằng cách kết hợp các bộ dữ liệu về chất lượng không khí mà anh đã thu thập được với dữ liệu về sức khỏe và kết quả sức khỏe của các đồng nghiệp trong khoa.
+
+:::
+
+::::
+
+## Persona 3: Maria{.center background-color="#002147"}
+
+## {.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+- Maria đã làm việc như một nhân viên xã hội của chính phủ trong 30 năm qua tại Bộ phận Giảm nghèo, nơi cô hiện đang giữ chức vụ Giám đốc.
+
+- Trong nhiều năm qua, Maria đã nhận thấy số lượng gia đình cần hỗ trợ phúc lợi từ đơn vị của cô ngày càng tăng.
+
+- Tuy nhiên, mặc dù đơn vị của cô có đầy đủ hồ sơ về tất cả các gia đình đã được hỗ trợ trong nhiều năm qua, nhưng tất cả đều được lưu trữ trên giấy.
+
+- Maria mong muốn có thể sử dụng dữ liệu mà đơn vị có về các gia đình để hiểu rõ hơn về khách hàng và nhu cầu của họ.
+
+:::
+
+::: {.column width="50%"}
+
+![](../images/persona_data_03.png){fig-align="center"}
+
+:::
+
+::::
+
+## Persona 4: Lục{.center background-color="#002147"}
+
+## {.center .smaller}
+
+:::: {.columns}
+
+::: {.column width="50%"}
+
+![](../images/persona_data_04.png){fig-align="center"}
+
+:::
+
+::: {.column width="50%"}
+
+- Lục là người đứng đầu một tổ chức phi chính phủ chuyên hỗ trợ các gia đình bị ảnh hưởng bởi thiên tai.
+
+- Trong mỗi thảm họa mà tổ chức này ứng phó, hồ sơ của từng cá nhân và gia đình được hỗ trợ được ghi chép cẩn thận thông qua một ứng dụng di động dành cho thu thập dữ liệu kỹ thuật số, được triển khai thông qua các nhân viên hiện trường của tổ chức.
+
+- Lục mong muốn chia sẻ dữ liệu này với các bộ phận chính phủ liên quan để có thể sử dụng cho các phân tích sâu hơn, từ đó cung cấp thông tin hữu ích cho việc ứng phó với các thảm họa trong tương lai.
+
+:::
+
+::::
+
+

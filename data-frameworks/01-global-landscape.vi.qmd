@@ -1,5 +1,5 @@
 ---
-title: Phiên họp 1
+title: Buổi 1
 subtitle: Bức tranh toàn cầu về các tổ chức và khung khổ quản trị dữ liệu
 ---
 

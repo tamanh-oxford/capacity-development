@@ -1,0 +1,30 @@
+---
+title: Buổi 8
+subtitle: Bối cảnh công nghệ dữ liệu tại Việt Nam
+---
+
+## Hoạt động 1{.center background-color="#002147"}
+
+### Ghi lại tên của các công cụ/ứng dụng/phần mềm dữ liệu khác nhau mà bạn và nhóm của bạn sử dụng hàng ngày
+
+::: {.notes}
+
+- Ghi lại tên trên thẻ ghi chú hoặc giấy note.
+
+- Hãy cụ thể nhất có thể.
+
+- Tốt nhất, hãy ghi chính xác tên/thương hiệu của sản phẩm/công cụ/ứng dụng/phần mềm.
+
+:::
+
+## Hoạt động 2{.center background-color="#002147"}
+
+### Với các thẻ ghi chú hoặc giấy ghi chú dán mà bạn đã tạo, hãy dán chúng lên bảng hoặc tường và xếp chúng vào danh mục công nghệ tương ứng.
+
+::: {.notes}
+
+- Nếu một sản phẩm/công cụ/ứng dụng/phần mềm được sử dụng cho nhiều danh mục, hãy ghi thêm thẻ metacard hoặc giấy ghi chú cho sản phẩm/công cụ/ứng dụng/phần mềm đó để đặt dưới các danh mục tương ứng.
+
+:::
+
+

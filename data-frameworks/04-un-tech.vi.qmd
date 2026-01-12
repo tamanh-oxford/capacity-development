@@ -1,0 +1,78 @@
+---
+title: Buổi 4
+subtitle: 'Nghiên cứu trường hợp: Liên Hợp Quốc và những thách thức về công nghệ và dữ liệu'
+---
+
+## {.center}
+
+![](../images/un80_logo_card_16x9_0.jpg){fig-align="center"}
+
+## Dịch vụ tốn kém và phân mảnh, tụt hậu trong kỷ nguyên số {.center background-color="#002147"}
+
+## Vấn đề
+
+- Hạ tầng công nghệ của Hệ thống Liên Hợp Quốc hiện đang phân mảnh, tốn kém và không đủ mạnh mẽ để đáp ứng các yêu cầu số hóa hiện nay.
+
+- Các tiến bộ kỹ thuật số, bao gồm trí tuệ nhân tạo, đang thay đổi thế giới, nhưng khả năng công nghệ của Liên Hợp Quốc chưa theo kịp.
+
+- Hơn **$2 tỷ** được chi tiêu mỗi năm cho phần mềm, dịch vụ đám mây, kết nối và các dịch vụ hỗ trợ liên quan.
+
+## Vấn đề (tiếp theo)
+
+- Nhiều khoản chi tiêu này diễn ra một cách độc lập, thiếu quy mô, dẫn đến chi phí cao, trùng lặp và khả năng tương tác yếu.
+
+- Những bất cập này làm chậm khả năng hiện đại hóa và xây dựng năng lực sẵn sàng cho tương lai của Liên Hợp Quốc.
+
+- Để duy trì tính đáng tin cậy và hiệu quả, hệ thống Liên Hợp Quốc phải đẩy nhanh quá trình thích ứng kỹ thuật số.
+
+## Công nghệ tốn kém và phân mảnh {.center}
+
+![](../images/un80_costly_technology.png){.r-stretch fig-align="center"}
+
+## Giải pháp
+
+- Liên Hợp Quốc hướng đến việc sử dụng công nghệ một cách có trách nhiệm để chuyển đổi mọi khía cạnh trong hoạt động của mình.
+
+- Các dịch vụ công nghệ thông tin và truyền thông (ICT) chung và Chương trình nghị sự Liên Hợp Quốc 2.0 sẽ định hướng cho quá trình chuyển đổi này.
+
+- Một **nền tảng gia tốc công nghệ** mớisẽ đóng vai trò là động lực thúc đẩy sự thay đổi của hệ thống.
+
+- Nó sẽ hiện đại hóa các hoạt động nội bộ của Liên Hợp Quốc.
+
+- Nó cũng sẽ nâng cao khả năng của Liên Hợp Quốc trong việc hỗ trợ các quốc gia thành viên áp dụng các giải pháp số và trí tuệ nhân tạo một cách hiệu quả và có trách nhiệm.
+
+## Dữ liệu phân mảnh, cơ hội bị bỏ lỡ {.center background-color="#002147"}
+
+## Vấn đề
+
+- Hệ thống Liên Hợp Quốc đóng vai trò là người quản lý chính của dữ liệu công cộng toàn cầu, thống kê và thông tin về các chủ đề từ xu hướng dân số đến rủi ro khí hậu.
+
+- Mặc dù vậy, các nền tảng dữ liệu của hệ thống này vẫn còn phân mảnh và trùng lặp, trong khi nhu cầu về thông tin nhanh chóng và rõ ràng ngày càng tăng.
+
+- Các thực thể riêng lẻ của Liên Hợp Quốc đã xây dựng các hệ thống riêng biệt, dẫn đến các khả năng song song hiếm khi kết nối với nhau.
+
+## Vấn đề (tiếp theo)
+
+- Thiếu khả năng tương tác, dữ liệu không thể được chia sẻ hiệu quả giữa các thực thể, dẫn đến những điểm mù, nỗ lực lãng phí và cơ hội bị bỏ lỡ trong việc giải quyết các thách thức toàn cầu liên kết.
+
+- Dữ liệu trở nên hữu ích hơn nhiều khi được kết nối, nhưng các khả năng cần thiết để đạt được điều này còn hạn chế, thiếu động lực và thường bị cản trở bởi sự miễn cưỡng hợp tác của các cơ quan.
+
+## Nhiều cổng thông tin công cộng {.center}
+
+![](../images/un80_multiple_portals.png){.r-stretch fig-align="center"}
+
+## Giải pháp
+
+- Các sáng kiến dữ liệu mới sẽ được phát triển trên tất cả các trụ cột của Liên Hợp Quốc và tích hợp vào Hệ **thống Dữ liệu Chung của Liên Hợp Quốc,** được xây dựng trên cơ sở hạ tầng dữ liệu chung.
+
+- Hạ tầng chung sẽ được thiết kế để đảm bảo khả năng tương tác đầy đủ và có thể tạo ra các phân tích ở cấp độ địa phương, khu vực và toàn cầu.
+
+- Các thực thể sẽ chỉ giữ lại dữ liệu cần phải tách biệt, trong khi tất cả dữ liệu có thể chia sẻ sẽ được chia sẻ công khai.
+
+## Giải pháp (tiếp theo)
+
+- Để đảm bảo tính bền vững của quá trình chuyển đổi này, khả năng tương tác sẽ được hỗ trợ thông qua tài trợ chung và các cơ chế khuyến khích quản trị rõ ràng.
+
+- Cách tiếp cận này sẽ giúp kết nối các nguồn lực và hệ thống một cách hiệu quả hơn, tăng cường tác động và giảm chi phí tổng thể.
+
+
