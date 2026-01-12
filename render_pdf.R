@@ -17,7 +17,7 @@ file.copy(from = html_files, to = ".")
 Map(
   f = pagedown::chrome_print,
   input = basename(html_files),
-  output = sub(pattern = "html", replacement = "pdf", x = html_files)
+  output = sub(pattern = "html", replacement = "pdf", x = html_files),
   wait = 15,
   timeout = 300,
   extra_args = rep(
