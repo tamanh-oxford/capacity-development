@@ -40,12 +40,12 @@ Khóahọc **Giới thiệu về Thiết kế Nghiên cứu** được phát tri
 Trong khóa học này, một ngày được dành cho chủ đề *Quản lý Dữ liệu Nghiên cứu*.
 Dưới đây là bài thuyết trình/bộ slide được trình bày cho chủ đề này.
 
-#### Quản lý dữ liệu nghiên cứu {#sec-data-concepts-applications}
+#### Quản lý dữ liệu nghiên cứu
 
-Bản trình bày/Bộ slide:[![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-management/index.html){.external target="_blank"}[![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-management/index.pptx)
+Bản trình bày/Bộ slide: [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-management/index.html){.external target="_blank"}[![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-management/index.pptx)
 [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18196405){.external target="_blank"}
 
-### Khái niệm và Ứng dụng Dữ liệu
+### Khái niệm và Ứng dụng Dữ liệu {#sec-data-concepts-applications}
 
 Trong bối cảnh dữ liệu ngày càng trở thành nền tảng của mọi quyết định quản lý và vận hành, các nhà quản lý không chỉ cần hiểu dữ liệu mà còn phải có khả năng sử dụng nó một cách hệ thống và chiến lược.
 Khóa học "Khái niệm và Ứng dụng Dữ liệu cho Nhà Quản lý" được thiết kế riêng cho các nhà quản lý cấp trung và lãnh đạo.
@@ -67,7 +67,7 @@ Các chủ đề chính sau đây đã được đề cập:
 
 #### Nội dung khóa học {#sec-data-course-outline}
 
-Bài thuyết trình/Bộ slide:[![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/course-outline.html){.external target="_blank"}[![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/course-outline.pptx)
+Bài thuyết trình/Bộ slide: [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-frameworks/course-outline.html){.external target="_blank"}[![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-frameworks/course-outline.pptx)
 [![Static Badge](https://img.shields.io/badge/view-PDF-red?style=for-the-badge)](data-frameworks/course-outline.pdf)
 
 #### Các buổi học {#sec-data-course-sessions}

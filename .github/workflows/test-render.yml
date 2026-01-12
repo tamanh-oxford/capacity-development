@@ -47,7 +47,7 @@ jobs:
           renv::restore()
         shell: Rscript {0}
         
-      - name: Render multilingual slides
+      - name: Render bilingual slides
         run: |
           babelquarto::render_website()
         shell: Rscript {0}

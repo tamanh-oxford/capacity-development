@@ -42,7 +42,7 @@ Following is the presentation/slide deck presented for that topic.
 
 #### Research Data Management
 
-Presentation/Slide deck: [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](https://tamanh-oxford.github.io/capacity-development/data-management/index.html){.external target="_blank"} [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-management/index.pptx)
+Presentation/Slide deck: [![Static Badge](https://img.shields.io/badge/view-HTML-blue?style=for-the-badge)](data-management/index.html){.external target="_blank"} [![Static Badge](https://img.shields.io/badge/download-PPTX-orange?style=for-the-badge)](data-management/index.pptx)
 [![Static Badge](https://img.shields.io/badge/access-PDF-red?style=for-the-badge)](https://doi.org/10.5281/zenodo.18196405){.external target="_blank"}
 
 ### Data Concepts and Applications {#sec-data-concepts-applications}
