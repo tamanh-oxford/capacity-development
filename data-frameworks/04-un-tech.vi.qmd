@@ -29,7 +29,7 @@ subtitle: 'Nghiên cứu trường hợp: Liên Hợp Quốc và những thách 
 
 ![](../images/un80_costly_technology.png){.r-stretch fig-align="center"}
 
-## Giải pháp
+## Giải pháp {.smaller}
 
 - Liên Hợp Quốc hướng đến việc sử dụng công nghệ một cách có trách nhiệm để chuyển đổi mọi khía cạnh trong hoạt động của mình.
 
