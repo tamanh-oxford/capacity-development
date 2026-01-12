@@ -32,3 +32,20 @@ deepl_translate(
   formality = "more"
 )
 
+## Translate data-frameworks ----
+
+qmd_files <- list.files(
+  path = "data-frameworks", pattern = "qmd", full.names = TRUE
+)
+
+qmd_output_files <- sub(pattern = "qmd", replacement = "vi.qmd", x = qmd_files)
+
+Map(
+  f = deepl_translate,
+  path = qmd_files,
+  out_path = qmd_output_files,
+  yaml_fields = rep(list(c("title", "subtitle")), length(qmd_files)),
+  source_lang = source_lang,
+  target_lang = target_lang,
+  formality = "more"
+)
