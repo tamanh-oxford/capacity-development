@@ -1,7 +1,6 @@
 ---
 title: Buổi 11
-subtitle: Nguyên tắc hướng dẫn và các thực hành tốt nhất trong việc xây dựng năng
-  lực dữ liệu
+subtitle: Nguyên tắc hướng dẫn và các thực hành tốt nhất trong việc xây dựng năng lực dữ liệu
 ---
 
 ## Xây dựng năng lực dữ liệu

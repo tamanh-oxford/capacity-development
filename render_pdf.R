@@ -66,17 +66,17 @@ file.remove(sub(pattern = "vi/data-frameworks/", replacement = "", x = html_file
 
 ## Combine Vietnamese data frameworks slides into a single PDF ----
 
-# pdf_files <- list.files(
-#   path = "_site/vi/data-frameworks",
-#   pattern ="pdf",
-#   full.names = TRUE
-# ) |>
-#   grepv(pattern = "data_governance", invert = TRUE) |>
-#   (\(x) x[c(14, 1:13)])()
+pdf_files <- list.files(
+  path = "_site/vi/data-frameworks",
+  pattern ="pdf",
+  full.names = TRUE
+) |>
+  grepv(pattern = "data_governance", invert = TRUE) |>
+  (\(x) x[c(14, 1:13)])()
 
-# qpdf::pdf_combine(
-#   input = pdf_files, output = "_site/vi/data-frameworks/data_governance.pdf"
-# )
+qpdf::pdf_combine(
+  input = pdf_files, output = "_site/vi/data-frameworks/data_governance.pdf"
+)
 
 ## Render data management slides to PDF ----
 

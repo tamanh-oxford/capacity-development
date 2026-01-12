@@ -1,7 +1,6 @@
 ---
 title: Buổi 13
-subtitle: Xây dựng và triển khai các cấu trúc và khung quản trị dữ liệu hiệu quả cho
-  Việt Nam
+subtitle: Xây dựng và triển khai các cấu trúc và khung quản trị dữ liệu hiệu quả cho Việt Nam
 ---
 
 ## Nhân vật 1: Quyen{.center background-color="#002147"}
