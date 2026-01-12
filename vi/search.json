@@ -196,11 +196,11 @@
     "text": "Xây dựng văn hóa dựa trên dữ liệu\n\nĐể xây dựng văn hóa dựa trên dữ liệu, hãy giúp đội ngũ của bạn hiểu tại sao dữ liệu lại quan trọng.\nCung cấp đào tạo và công cụ để minh họa lợi ích của dữ liệu được quản lý tốt và chất lượng cao.\nSự lãnh đạo mạnh mẽ là yếu tố thiết yếu để tạo ra sự thay đổi có ý nghĩa.\nMột nhà lãnh đạo giỏi sẽ truyền đạt một cách rõ ràng và nhất quán về cách dữ liệu hỗ trợ các mục tiêu kinh doanh.\nLàm cho dữ liệu trở thành một phần của các cuộc trò chuyện hàng ngày để nó trở thành một yếu tố tự nhiên trong quá trình ra quyết định trên toàn tổ chức."
   },
   {
-    "objectID": "data-frameworks/06-best-practice-data-governance.html#xác-định-mục-tiêu-và-chỉ-số-đo-lường-rõ-ràng.",
-    "href": "data-frameworks/06-best-practice-data-governance.html#xác-định-mục-tiêu-và-chỉ-số-đo-lường-rõ-ràng.",
+    "objectID": "data-frameworks/06-best-practice-data-governance.html#xác-định-mục-tiêu-và-chỉ-số-đo-lường-rõ-ràng",
+    "href": "data-frameworks/06-best-practice-data-governance.html#xác-định-mục-tiêu-và-chỉ-số-đo-lường-rõ-ràng",
     "title": "Buổi 6",
-    "section": "Xác định mục tiêu và chỉ số đo lường rõ ràng.",
-    "text": "Xác định mục tiêu và chỉ số đo lường rõ ràng.\n\nBạn không thể đạt được mục tiêu nếu không thể đo lường nó.\nTrước khi thực hiện thay đổi, hãy thiết lập một mức cơ sở để có thể so sánh kết quả sau đó.\nThu thập các số liệu ban đầu sớm và theo dõi tiến độ một cách nhất quán trong suốt quá trình.\nCác chỉ số nên thể hiện sự cải thiện theo thời gian và đóng vai trò như các điểm kiểm tra để đảm bảo các quy trình vẫn thực tế và hiệu quả."
+    "section": "Xác định mục tiêu và chỉ số đo lường rõ ràng",
+    "text": "Xác định mục tiêu và chỉ số đo lường rõ ràng\n\nBạn không thể đạt được mục tiêu nếu không thể đo lường nó.\nTrước khi thực hiện thay đổi, hãy thiết lập một mức cơ sở để có thể so sánh kết quả sau đó.\nThu thập các số liệu ban đầu sớm và theo dõi tiến độ một cách nhất quán trong suốt quá trình.\nCác chỉ số nên thể hiện sự cải thiện theo thời gian và đóng vai trò như các điểm kiểm tra để đảm bảo các quy trình vẫn thực tế và hiệu quả."
   },
   {
     "objectID": "data-frameworks/06-best-practice-data-governance.html#thông-báo-sớm-và-thường-xuyên",
@@ -210,11 +210,11 @@
     "text": "Thông báo sớm và thường xuyên\n\nCác cập nhật nhất quán và rõ ràng giúp thể hiện tác động, ghi nhận thành công và thẳng thắn đối mặt với những thách thức.\nGiữ danh sách cập nhật các bên liên quan cần được thông tin.\nĐảm bảo các thông tin liên lạc dễ tiếp cận và dễ hiểu.\nĐiều này giúp những người liên quan nắm bắt được những thông tin quan trọng, tránh những bất ngờ và hỗ trợ việc chia sẻ tiến độ trong toàn tổ chức."
   },
   {
-    "objectID": "data-frameworks/06-best-practice-data-governance.html#đây-là-một-cuộc-đua-marathon-không-phải-cuộc-đua-nước-rút.",
-    "href": "data-frameworks/06-best-practice-data-governance.html#đây-là-một-cuộc-đua-marathon-không-phải-cuộc-đua-nước-rút.",
+    "objectID": "data-frameworks/06-best-practice-data-governance.html#đây-là-một-cuộc-đua-marathon-không-phải-cuộc-đua-nước-rút",
+    "href": "data-frameworks/06-best-practice-data-governance.html#đây-là-một-cuộc-đua-marathon-không-phải-cuộc-đua-nước-rút",
     "title": "Buổi 6",
-    "section": "Đây là một cuộc đua marathon, không phải cuộc đua nước rút.",
-    "text": "Đây là một cuộc đua marathon, không phải cuộc đua nước rút.\n\nXem quản trị dữ liệu như một khoản đầu tư lâu dài thay vì một sáng kiến ngắn hạn.\nTrong khi các dự án có thời gian bắt đầu và kết thúc rõ ràng và có thể tạo ra sự hào hứng, quản trị dữ liệu là một quá trình liên tục, lặp đi lặp lại và được tạo thành từ nhiều nỗ lực nhỏ hơn.\nBắt đầu với các dự án thí điểm nhỏ, học hỏi từ chúng và sử dụng những bài học đó để hướng dẫn các công việc lớn hơn, toàn diện hơn.\nViệc tích hợp các dự án nhỏ vào chiến lược dài hạn giúp tạo ra sự thay đổi tổ chức sâu sắc và bền vững."
+    "section": "Đây là một cuộc đua marathon, không phải cuộc đua nước rút",
+    "text": "Đây là một cuộc đua marathon, không phải cuộc đua nước rút\n\nXem quản trị dữ liệu như một khoản đầu tư lâu dài thay vì một sáng kiến ngắn hạn.\nTrong khi các dự án có thời gian bắt đầu và kết thúc rõ ràng và có thể tạo ra sự hào hứng, quản trị dữ liệu là một quá trình liên tục, lặp đi lặp lại và được tạo thành từ nhiều nỗ lực nhỏ hơn.\nBắt đầu với các dự án thí điểm nhỏ, học hỏi từ chúng và sử dụng những bài học đó để hướng dẫn các công việc lớn hơn, toàn diện hơn.\nViệc tích hợp các dự án nhỏ vào chiến lược dài hạn giúp tạo ra sự thay đổi tổ chức sâu sắc và bền vững."
   },
   {
     "objectID": "data-frameworks/06-best-practice-data-governance.html#xác-định-rõ-ràng-vai-trò-và-trách-nhiệm",
