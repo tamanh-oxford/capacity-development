@@ -1,10 +1,9 @@
 ---
 title: Buổi 6
-subtitle: Các phương pháp tốt nhất trong việc thiết lập và triển khai các cấu trúc
-  quản trị dữ liệu
+subtitle: Các phương pháp tốt nhất trong việc thiết lập và triển khai các cấu trúc quản trị dữ liệu
 ---
 
-## Quản trị dữ liệu liên quan đến con người, quy trình và công nghệ{.center background-color="#002147"}
+## Quản trị dữ liệu liên quan đến con người, quy trình và công nghệ {.center background-color="#002147"}
 
 ## Hãy nghĩ đến bức tranh tổng thể nhưng bắt đầu từ những việc nhỏ
 
@@ -36,7 +35,7 @@ subtitle: Các phương pháp tốt nhất trong việc thiết lập và triể
 
 - Làm cho dữ liệu trở thành một phần của các cuộc trò chuyện hàng ngày để nó trở thành một yếu tố tự nhiên trong quá trình ra quyết định trên toàn tổ chức.
 
-## Xác định mục tiêu và chỉ số đo lường rõ ràng.
+## Xác định mục tiêu và chỉ số đo lường rõ ràng
 
 - Bạn không thể đạt được mục tiêu nếu không thể đo lường nó.
 
@@ -56,7 +55,7 @@ subtitle: Các phương pháp tốt nhất trong việc thiết lập và triể
 
 - Điều này giúp những người liên quan nắm bắt được những thông tin quan trọng, tránh những bất ngờ và hỗ trợ việc chia sẻ tiến độ trong toàn tổ chức.
 
-## Đây là một cuộc đua marathon, không phải cuộc đua nước rút.
+## Đây là một cuộc đua marathon, không phải cuộc đua nước rút
 
 - Xem quản trị dữ liệu như một khoản đầu tư lâu dài thay vì một sáng kiến ngắn hạn.
 
