@@ -54,7 +54,7 @@ file.copy(from = html_files, to = "_site")
 Map(
   f = pagedown::chrome_print,
   input = sub(pattern = "vi/data-frameworks/", replacement = "", x = html_files),
-  output = sub(pattern = "\\.html", replacement = "_vi.pdf", x = html_files),
+  output = sub(pattern = "\\.html", replacement = ".pdf", x = html_files),
   wait = 15,
   timeout = 300,
   extra_args = rep(
@@ -68,14 +68,14 @@ file.remove(sub(pattern = "vi/data-frameworks/", replacement = "", x = html_file
 
 pdf_files <- list.files(
   path = "_site/vi/data-frameworks",
-  pattern ="vi\\.pdf",
+  pattern =".pdf",
   full.names = TRUE
 ) |>
   grepv(pattern = "data_governance", invert = TRUE) |>
   (\(x) x[c(14, 1:13)])()
 
 qpdf::pdf_combine(
-  input = pdf_files, output = "_site/vi/data-frameworks/data_governance_vi.pdf"
+  input = pdf_files, output = "_site/vi/data-frameworks/data_governance.pdf"
 )
 
 ## Render data management slides to PDF ----
@@ -103,7 +103,7 @@ file.copy(
 
 pagedown::chrome_print(
   input = "_site/index_temp.html",
-  output = "_site/vi/data-management/data_management_vi.pdf",
+  output = "_site/vi/data-management/data_management.pdf",
   timeout = 300,
   extra_args = c("--no-sandbox", "--disable-dev-shm-usage")
 )
