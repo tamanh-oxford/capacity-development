@@ -3,7 +3,7 @@ title: Buổi 12
 subtitle: Tài trợ cho quản trị dữ liệu
 ---
 
-## Chi phí quản trị dữ liệu{.center background-color="#002147"}
+## Chi phí quản trị dữ liệu {.center background-color="#002147"}
 
 ## Chi phí cơ sở hạ tầng công nghệ
 
@@ -19,9 +19,9 @@ subtitle: Tài trợ cho quản trị dữ liệu
 
 - Lương của Giám đốc Dữ liệu (Chief Data Officer): $175,000-$350,000+
 
-- Quản lý quản trị dữ liệu: $120.000-$180.000
+- Quản lý quản trị dữ liệu: $120,000 - $180,000
 
-- Chuyên viên quản lý dữ liệu: $85.000-$130.000 cho mỗi nhân sự
+- Chuyên viên quản lý dữ liệu: $85,000-$130,000 cho mỗi nhân sự
 
 - Chuyên viên tuân thủ: $90,000-$150,000
 
@@ -47,7 +47,7 @@ subtitle: Tài trợ cho quản trị dữ liệu
 
 <!-- ## Yêu cầu kiểm toán -->
 
-## Tối ưu hóa đầu tư vào quản trị dữ liệu{.center background-color="#002147"}
+## Tối ưu hóa đầu tư vào quản trị dữ liệu {.center background-color="#002147"}
 
 ## Triển khai theo giai đoạn
 
@@ -59,7 +59,7 @@ subtitle: Tài trợ cho quản trị dữ liệu
 
 - Các nền tảng quản trị dữ liệu dựa trên đám mây thường cung cấp chi phí ban đầu thấp hơn và mô hình định giá dự đoán được hơn so với các giải pháp tại chỗ.
 
-- Các tổ chức có thể giảm tổng chi phí sở hữu (TCO) từ 30-45% trong vòng năm năm thông qua các giải pháp quản trị dựa trên đám mây.
+- Các tổ chức có thể giảm tổng chi phí sở hữu (CTO) từ 30-45% trong vòng năm năm thông qua các giải pháp quản trị dựa trên đám mây.
 
 ## Khung quản trị tích hợp
 
@@ -73,7 +73,7 @@ subtitle: Tài trợ cho quản trị dữ liệu
 
 - Tự động hóa có thể giảm chi phí quản trị liên tục từ 20-35%.
 
-## Tài trợ cho quản trị dữ liệu{.center background-color="#002147"}
+## Tài trợ cho quản trị dữ liệu {.center background-color="#002147"}
 
 ## Sử dụng dữ liệu để cải thiện dòng tiền tự do
 
@@ -83,7 +83,7 @@ subtitle: Tài trợ cho quản trị dữ liệu
 
 - Chứng minh cách cải thiện quản trị có thể tăng hiệu quả
 
-## Tăng doanh thu thông qua phân tích dữ liệu{.center}
+## Tăng doanh thu thông qua phân tích dữ liệu {.center}
 
 :::: {.columns}
 
@@ -103,7 +103,7 @@ subtitle: Tài trợ cho quản trị dữ liệu
 
 ::::
 
-## Giảm chi phí thông qua việc tối ưu hóa dữ liệu{.center}
+## Giảm chi phí thông qua việc tối ưu hóa dữ liệu {.center}
 
 ![](../images/fin_costs_02.png){fig-align="center"}
 
@@ -111,7 +111,7 @@ subtitle: Tài trợ cho quản trị dữ liệu
 
 - Chỉ cần ghi chép metadata của bạn có thể giảm chi phí liên quan đến dữ liệu lên đến 97%
 
-## Giảm thiểu rủi ro với dữ liệu{.center}
+## Giảm thiểu rủi ro với dữ liệu {.center}
 
 ![](../images/fin_costs_03.png){fig-align="center"}
 
