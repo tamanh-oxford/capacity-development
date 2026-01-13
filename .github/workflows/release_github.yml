@@ -1,0 +1,61 @@
+name: release github
+
+on:
+  workflow_dispatch:
+
+jobs:
+  release-github:
+    runs-on: ubuntu-latest
+    container: rocker/tidyverse:4.5.2
+    env:
+      GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
+    permissions:
+      contents: write
+      deployments: write
+      pull-requests: write
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Install system dependencies
+        run: |
+          apt-get update && apt-get install -y --no-install-recommends \
+          libxt6 libglpk-dev gh curl jq libjpeg-dev libcurl4-openssl-dev \
+          libssl-dev libxslt1-dev
+
+      - name: Install Chrome
+        run: |
+          curl -LO https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb
+          apt-get install -y ./google-chrome-stable_current_amd64.deb
+          rm google-chrome-stable_current_amd64.deb
+
+      - name: Set up Quarto
+        uses: quarto-dev/quarto-actions/setup@v2
+        with:
+          tinytex: true
+
+      - name: Install packages from renv.lock (with cache)
+        if: ${{ !env.ACT }}  
+        uses: r-lib/actions/setup-renv@v2
+        with:
+          cache-version: 2
+
+      - name: Install packages from renv.lock (local, no cache)
+        if: ${{ env.ACT }}  
+        run: |
+          renv::restore()
+        shell: Rscript {0}
+        
+      - name: Render bilingual slides
+        run: |
+          babelquarto::render_website()
+        shell: Rscript {0}
+
+      - name: Render slides to PDF
+        run: |
+          source("render_pdf.R")
+        shell: Rscript {0}
+
+      - name: Create GitHub release
+        run: |
+          source("release_github.R")
+        shell: Rscript {0}
