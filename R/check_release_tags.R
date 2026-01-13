@@ -18,15 +18,15 @@ check_release_tags <- function(tag1, tag2) {
       "Please review and try again."
     )
   } else {
-    if (y[1, 2] < x[1, 2]) {
+    if ((y[1, 1] == x[1, 1]) & (y[1, 2] < x[1, 2])) {
       stop(
         "New release tag is earlier than current release tag. ",
         "Please review and try again."
       )
     } else {
-      if (y[1, 3] < x[1, 3]) {
+      if ((y[1, 1] == x[1, 1]) & (y[1, 2] == x[1, 2]) & (y[1, 3] <= x[1, 3])) {
         stop(
-          "New release tag is earlier than current release tag. ",
+          "New release tag is the same or earlier than current release tag. ",
           "Please review and try again."
         )
       } else {
