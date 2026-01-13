@@ -8,7 +8,10 @@ format:
     css: ../styles.css
     footer: "Tâm Anh Oxford Partnership"
     #embed-resources: true
-  pptx: default
+  pptx:
+    reference-doc: ../template/top_template.pptx
+title-slide-attributes: 
+  data-background-color: "#002147"
 
 author:
   name:
@@ -32,5 +35,4 @@ author:
       country: United Kingdom
       postal-code: OX1 3SY
       url: https://www.tropicalmedicine.ox.ac.uk/study-with-us/msc-ihtm
-title-slide-attributes: 
-  data-background-color: "#002147"
+

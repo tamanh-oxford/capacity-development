@@ -38,7 +38,8 @@ subtitle: Nguyên tắc hướng dẫn và các thực hành tốt nhất trong 
 - Nắm rõ các phân loại dữ liệu và quy trình mã hóa liên quan, cũng như cách áp dụng đúng đắn chúng vào dữ liệu nói chung.
 
 - Biết liên hệ với ai để tham khảo kiến thức chuyên môn.
-  :::
+
+:::
 
 ::: {.column width="33.3%"}
 
