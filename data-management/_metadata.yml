@@ -8,6 +8,7 @@ format:
     css: ../styles.css
     footer: "Tâm Anh Oxford Partnership"
     #embed-resources: true
-  pptx: default
+  pptx:
+    reference-doc: ../template/top_template.pptx
 title-slide-attributes:
   data-background-color: '#002147'
