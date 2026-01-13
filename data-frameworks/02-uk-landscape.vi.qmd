@@ -1,6 +1,6 @@
 ---
 title: Buổi 2
-subtitle: 'Nghiên cứu điển hình: Bối cảnh dữ liệu tại Vương quốc Anh'
+subtitle: 'Nghiên cứu trường hợp: Bối cảnh dữ liệu tại Vương quốc Anh'
 ---
 
 ## {.center}
