@@ -3,7 +3,7 @@ title: Buổi 13
 subtitle: Xây dựng và triển khai các cấu trúc và khung quản trị dữ liệu hiệu quả cho Việt Nam
 ---
 
-## Nhân vật 1: Quyen{.center background-color="#002147"}
+## Nhân vật 1: Quyen {.center background-color="#002147"}
 
 ## {.center .smaller}
 
@@ -31,7 +31,7 @@ subtitle: Xây dựng và triển khai các cấu trúc và khung quản trị d
 
 ::::
 
-## Persona 2: Phúc{.center background-color="#002147"}
+## Persona 2: Phúc {.center background-color="#002147"}
 
 ## {.center .smaller}
 
@@ -55,7 +55,7 @@ subtitle: Xây dựng và triển khai các cấu trúc và khung quản trị d
 
 ::::
 
-## Persona 3: Maria{.center background-color="#002147"}
+## Persona 3: Maria {.center background-color="#002147"}
 
 ## {.center .smaller}
 
@@ -81,7 +81,7 @@ subtitle: Xây dựng và triển khai các cấu trúc và khung quản trị d
 
 ::::
 
-## Persona 4: Lục{.center background-color="#002147"}
+## Persona 4: Lục {.center background-color="#002147"}
 
 ## {.center .smaller}
 
