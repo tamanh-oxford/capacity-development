@@ -1,3 +1,14 @@
+# v2.0.0
+
+This is the fourth full release of the Tâm Anh Oxford Partnership (TOP) Data Capacity Development Courses.
+
+## Features
+
+-   Source code (Quarto Markdown) for bilingual (English and Vietnamese) presentation/slide deck (HTML, PPTX, and PDF) for session on *Research Data Management* in the *Introduction to Research Design* course; and,
+
+-   Source code (Quarto Markdown) for bilingual (English and Vietnamese) presentations/slide decks (HTML, PPTX, and PDF) for sessions in the *Data Concepts and Applications* course.
+
+
 # v1.16.0
 
 This is the third full release of the Tâm Anh Oxford Partnership (TOP) Data Capacity Development Courses.
