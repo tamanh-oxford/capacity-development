@@ -5,7 +5,7 @@ authors:
     given-names: Ernest
     orcid: https://orcid.org/0000-0002-4887-4415
 title: "Tâm Anh Oxford Partnership Data Capacity Development Courses"
-version: 2.0.0
+version: 2.1.0
 date-released: 2026-01-14
 license: GPL-3.0
 repository-code: https://github.com/tamanh-oxford/capacity-development

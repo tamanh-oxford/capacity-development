@@ -37,7 +37,7 @@ pdfs_names <- pdfs |>
   (\(x)
     {
       ifelse(
-        grepl(pattern = "vi", x = x),
+        grepl(pattern = "vi/", x = x),
         basename(x) |>
           sub(pattern = ".pdf", replacement = "_vi.pdf", x = _),
         x
@@ -64,7 +64,7 @@ ppts_names <- ppts |>
       x <- sub(pattern = "index", replacement = "data_management", x = x)
     
       ifelse(
-        grepl(pattern = "vi", x = x),
+        grepl(pattern = "vi/", x = x),
         basename(x) |>
           sub(pattern = ".pptx", replacement = "_vi.pptx", x = _),
         x
