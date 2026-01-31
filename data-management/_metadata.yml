@@ -8,6 +8,11 @@ format:
     css: ../styles.css
     footer: "Tâm Anh Oxford Partnership"
     #embed-resources: true
+    include-in-header: 
+      - text: |
+          <script>
+          window.addEventListener('load', () => {history.replaceState(null, null, "/capacity-development/");});
+          </script>
   pptx:
     reference-doc: ../template/top_template.pptx
 title-slide-attributes:

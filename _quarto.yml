@@ -42,7 +42,7 @@ format:
     include-in-header: 
       - text: |
           <script>
-          window.addEventListener('load', () => {history.replaceState(null, null, "/login_portal/");});
+          window.addEventListener('load', () => {history.replaceState(null, null, "/capacity-development/");});
           </script>
     # grid:
     #   sidebar-width: 250px
