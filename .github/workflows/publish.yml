@@ -57,6 +57,14 @@ jobs:
           source("render_pdf.R")
         shell: Rscript {0}
       
+      - name: Setup login page
+        run: |
+          source("setup_login.R")
+        shell: Rscript {0}
+        env:
+          TOP_USERNAME: ${{ secrets.TOP_USERNAME }}
+          TOP_PASSWORD: ${{ secrets.TOP_PASSWORD }}
+
       - name: Deploy 🚀
         uses: JamesIves/github-pages-deploy-action@v4
         with:
