@@ -53,6 +53,6 @@ file.remove(list.files(projdir, full.names = TRUE, recursive = TRUE))
 
 unlink(projdir, recursive = TRUE)
 
-file.copy(from = "auth/index.hml", to = "_site")
+file.copy(from = "auth/index.html", to = "_site")
 file.copy(from = "auth/styles.css", to = "_site")
 
